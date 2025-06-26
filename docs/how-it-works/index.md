@@ -62,8 +62,8 @@ graph TD
 
 Zap Pilot doesn't just bridge assets — we natively understand and operate on multiple chains:
 
-- **Ethereum**: DeFi's home base
-- **Layer 2s**: Arbitrum, Optimism, Base, Polygon
+- **Layer 2s**: Arbitrum, Optimism, Base
+- **Ethereum**: (coming soon)
 - **Alt L1s**: Avalanche, BSC, Solana (coming soon)
 
 ### Intelligent Routing
@@ -91,14 +91,11 @@ Once your strategy is live, Zap Pilot continuously:
 #### **Optimizes Allocation**
 
 - Rebalance when targets drift >5%
-- Automatically compound rewards
 - Move assets to higher-yield opportunities
 
 #### **Manages Risk**
 
-- Implement stop-losses if configured
 - Diversify across protocols automatically
-- Exit positions if risk thresholds exceeded
 
 ### Smart Rebalancing
 
@@ -111,13 +108,12 @@ Our Kelly Criterion-based allocation system:
 
 ## 🛡️ Account Abstraction Integration
 
-### Gasless Transactions (Coming Soon)
+### Gasless Transactions
 
 Through Account Abstraction wallets:
 
 - **No ETH needed for gas** on any chain
 - **Batch multiple operations** into single transaction
-- **Automatic transaction retries** if failed
 - **Sponsored transactions** for small investors
 
 ### Enhanced Security
@@ -134,11 +130,10 @@ Through Account Abstraction wallets:
 - **24/7 yield monitoring** across 100+ protocols
 - **Risk assessment** of DeFi protocols
 - **Liquidity analysis** for optimal execution
-- **Gas price prediction** for timing optimization
 
 ### Portfolio Analytics
 
-- **Performance attribution** - know what's driving returns
+- **Performance attribution** - know what's driving returns (coming soon)
 - **Risk decomposition** - understand your exposure
 - **Scenario analysis** - stress test your portfolio
 - **Tax optimization** - minimize taxable events

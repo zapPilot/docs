@@ -48,9 +48,9 @@ module.exports = {
   },
   overrides: [
     {
-      files: ['*.md', '*.mdx'],
+      files: ['*.mdx'],
       rules: {
-        // Relax rules for markdown files
+        // Relax rules for MDX files
         '@typescript-eslint/no-unused-vars': 'off',
         'no-undef': 'off',
         'react/jsx-no-undef': 'off',

@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Zap Pilot',
-  tagline: '基于意图的DeFi执行引擎',
+  tagline: 'Your DeFi, On Autopilot',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -32,8 +32,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans', 'en'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -81,7 +81,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/zap-pilot/zap-pilot',
+          href: 'https://github.com/zapPilot',
           label: 'GitHub',
           position: 'right',
         },
@@ -108,11 +108,11 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/zap-pilot',
+              href: 'https://discord.gg/d3vXUtcFCJ',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/zap_pilot',
+              href: 'https://x.com/zapPilot',
             },
           ],
         },
@@ -121,7 +121,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/zap-pilot/zap-pilot',
+              href: 'https://github.com/zapPilot',
             },
           ],
         },
