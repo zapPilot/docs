@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Basic commit message validation
+commit_regex='^(feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert)(\(.+\))?: .{1,50}'
+
+if ! grep -qE "$commit_regex" "$1"; then
+    echo "❌ Invalid commit message format!"
+    echo ""
+    echo "Commit message should follow the format:"
+    echo "  type(scope): description"
+    echo ""
+    echo "Types: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert"
+    echo "Example: feat(docs): add new strategy documentation"
+    echo "Example: fix: correct fee calculation in comparison table"
+    echo ""
+    exit 1
+fi

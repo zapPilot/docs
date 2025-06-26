@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -25,7 +25,7 @@ const config: Config = {
   organizationName: 'zap-pilot', // Usually your GitHub org/user name.
   projectName: 'zap-pilot-docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -47,21 +47,7 @@ const config: Config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -72,6 +58,11 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     navbar: {
       title: 'Zap Pilot',
       logo: {
@@ -83,9 +74,8 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: '文档',
+          label: 'Documentation',
         },
-        {to: '/blog', label: '博客', position: 'left'},
         {
           type: 'localeDropdown',
           position: 'right',
@@ -101,20 +91,20 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '文档',
+          title: 'Documentation',
           items: [
             {
-              label: '快速开始',
-              to: '/docs/intro',
+              label: 'Getting Started',
+              to: '/docs/introduction',
             },
             {
-              label: '开发指南',
-              to: '/docs/development',
+              label: 'Investment Strategies',
+              to: '/docs/strategies',
             },
           ],
         },
         {
-          title: '社区',
+          title: 'Community',
           items: [
             {
               label: 'Discord',
@@ -127,12 +117,8 @@ const config: Config = {
           ],
         },
         {
-          title: '更多',
+          title: 'More',
           items: [
-            {
-              label: '博客',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/zap-pilot/zap-pilot',

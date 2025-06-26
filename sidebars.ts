@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -15,26 +15,43 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   // 主要文档侧边栏
   tutorialSidebar: [
-    'intro',
-    'quick-start',
-    'overview',
-    'architecture',
-    'vaults',
-    'development',
+    'introduction',
     {
       type: 'category',
-      label: 'API 参考',
+      label: 'How It Works',
       items: [
-        'api/introduction'
+        'how-it-works/index',
+        'how-it-works/intent-execution',
+        'how-it-works/cross-chain-operations',
+        'how-it-works/automated-rebalancing',
       ],
     },
     {
       type: 'category',
-      label: '指南',
+      label: 'Investment Strategies',
       items: [
-        'guides/best-practices'
+        'strategies/index',
+        'strategies/stablecoin',
+        'strategies/index-funds',
+        'strategies/bitcoin',
+        'strategies/ethereum',
+        'strategies/custom',
+        'strategies/comparison',
       ],
-    }
+    },
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: ['getting-started/index', 'getting-started/risk-assessment'],
+    },
+    {
+      type: 'category',
+      label: 'Safety & Security',
+      items: ['security/index'],
+    },
+    'fees',
+    'faq',
+    'support',
   ],
 };
 

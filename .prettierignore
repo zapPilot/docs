@@ -1,0 +1,33 @@
+# Build outputs
+build/
+.docusaurus/
+dist/
+
+# Dependencies
+node_modules/
+
+# Generated files
+package-lock.json
+yarn.lock
+
+# Static assets
+static/
+
+# Environment files
+.env*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.npm/
+.yarn/
