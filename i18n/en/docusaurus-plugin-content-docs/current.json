@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.How It Works": {
+    "message": "How It Works",
+    "description": "The label for category How It Works in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Investment Strategies": {
+    "message": "Investment Strategies",
+    "description": "The label for category Investment Strategies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Safety & Security": {
+    "message": "Safety & Security",
+    "description": "The label for category Safety & Security in sidebar tutorialSidebar"
+  }
+}
