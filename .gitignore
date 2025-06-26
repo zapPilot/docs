@@ -3,10 +3,12 @@
 
 # Production
 /build
+.next/
 
 # Generated files
 .docusaurus
 .cache-loader
+next-env.d.ts
 
 # Misc
 .DS_Store
