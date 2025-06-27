@@ -6,8 +6,8 @@ sidebar_position: 3
 
 **Base、Arbitrum 和 Optimism 之間的無縫 DeFi** 🌐
 
-Zap Pilot 的跨鏈功能讓您無需管理不同的錢包、代幣或橋接，即可在我們支援的 Layer
-2 網路中存取最佳的 DeFi 機會。
+Zap Pilot 的跨鏈功能讓您無需管理不同的錢包、代幣或橋接，即可在各種 Layer
+2 網路以及以太坊和 Solana 中存取最佳的 DeFi 機會。
 
 ## 🔗 多鏈架構
 

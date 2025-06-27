@@ -45,32 +45,10 @@ Our system automatically chooses the optimal blockchain for each operation based
 
 ## 🌐 Supported Networks
 
-Zap Pilot operates exclusively on three carefully selected Layer 2 networks that offer optimal
-security, cost-efficiency, and DeFi opportunities:
-
-### **Base** - Coinbase's L2 Network
-
-- **Strengths**: Coinbase backing, institutional-friendly, growing ecosystem
-- **Use Cases**: Traditional finance bridge, regulated strategies, emerging DeFi
-- **Key Protocols**: Aerodrome, Moonwell, BaseSwap, Compound
-- **Advantages**: Regulatory clarity, institutional trust, low fees
-- **Security**: Inherits Ethereum security, Coinbase infrastructure
-
-### **Arbitrum** - Ethereum's Leading L2
-
-- **Strengths**: Full EVM compatibility, largest L2 ecosystem, proven track record
-- **Use Cases**: Advanced DeFi strategies, leveraged positions, established protocols
-- **Key Protocols**: GMX, Camelot, Radiant, Uniswap V3, Aave
-- **Advantages**: 95% lower fees than Ethereum, fast finality, mature ecosystem
-- **Security**: Optimistic rollup with fraud proofs, Ethereum security
-
-### **Optimism** - OP Stack Innovation Hub
-
-- **Strengths**: Ethereum compatibility, strong developer tools, governance innovation
-- **Use Cases**: Experimental strategies, OP ecosystem participation, governance tokens
-- **Key Protocols**: Velodrome, Synthetix, Kwenta, Uniswap V3
-- **Advantages**: Growing ecosystem, strong governance, developer-friendly
-- **Security**: Optimistic rollup with fault proofs, Ethereum finality
+Zap Pilot operates on a growing number of networks, including leading Layer 2s, Ethereum, and
+Solana. Our intelligent routing system automatically selects the best network for any given
+operation based on a combination of factors including security, transaction costs, liquidity, and
+speed.
 
 ## ⚡ Cross-Chain Execution Engine
 

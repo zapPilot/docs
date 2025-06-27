@@ -58,11 +58,7 @@ graph TD
 
 ### 原生多鏈支援
 
-Zap Pilot 不僅僅是橋接資產 — 我們原生理解並在多條鏈上運作：
-
-- **Layer 2s**：Arbitrum、Optimism、Base
-- **以太坊**：(即將推出)
-- **其他 L1s**：Avalanche、BSC、Solana (即將推出)
+Zap Pilot 不僅僅是橋接資產 — 我們原生理解並在多條鏈上運作，包括領先的 Layer 2、以太坊和 Solana。
 
 ### 智能路由
 

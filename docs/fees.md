@@ -16,7 +16,8 @@ pay and why our fee structure is designed to maximize your returns.
 - 🎯 **Simple and transparent**: One fee, no hidden costs
 - 🏆 **Industry-leading low fees**: Just 1% entry fee, nothing else
 - 🔍 **No ongoing fees**: No management or performance fees
-- ⚖️ **Pay once, invest forever**: Single fee covers everything
+- - ⚖️ **Pay once, invest forever**: Our single 1% entry fee is the only fee you'll pay for that
+    deposit. As long as your funds remain invested, you'll never be charged by us again.
 
 ### Fee Structure
 

@@ -137,7 +137,7 @@ sidebar_position: 1
 
 #### **在任何支援的鏈上**
 
-- 以太坊、Arbitrum、Polygon、Base、BSC、Avalanche、Optimism 等
+- 我們支援領先的 Layer 2、以太坊和 Solana。
 
 ### 將資金存入您的錢包
 

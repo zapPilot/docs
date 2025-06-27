@@ -325,18 +325,17 @@ Each template can be modified:
 
 ## 💸 Pricing Structure
 
-### Custom Strategy Fees
+### Pricing Structure
 
-- **Entry Fee**: 1% one-time on deposit
-- **Ongoing Fees**: 0%
-- **Withdrawal Fee**: Free
+#### **Fees**
 
-#### **Minimum Investments**
+- **Entry Fee**: 1% one-time on deposit.
+- **Ongoing Fees**: None.
 
-- **Basic Custom**: $200,000 minimum
-- **Advanced Strategies**: $1,000,000 minimum
-- **Institutional**: $10,000,000 minimum
-- **Family Office**: $50,000,000 minimum
+#### **Minimum Investment**
+
+- **Custom Strategies**: The minimum investment is dynamic based on the complexity of the requested
+  strategy, but typically starts at $100.
 
 ### Value Proposition
 
