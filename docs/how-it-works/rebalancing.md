@@ -2,13 +2,13 @@
 sidebar_position: 4
 ---
 
-# Manually Rebalancing
+# Rebalancing
 
 **Keep your portfolio optimized 24/7** 🔄
 
-Zap Pilot's intelligent rebalancing system continuously monitors and adjusts your portfolio to
-maintain optimal allocation, capture profits, and manage risk - all without any action required from
-you.
+Zap Pilot's intelligent rebalancing system continuously monitors your portfolio and suggests optimal
+adjustments to maintain allocation, capture profits, and manage risk - but all operations require
+your explicit approval, ensuring ultra-safe custody of your assets.
 
 ## 🎯 Rebalancing Fundamentals
 
@@ -39,8 +39,8 @@ Result: Maintains optimal diversification and risk profile
 
 Rebalancing systematically takes profits from winners and reinvests in underperformers:
 
-- **Sell High**: Automatically reduce positions that have outperformed
-- **Buy Low**: Increase positions in assets that have underperformed
+- **Sell High**: Suggest reducing positions that have outperformed
+- **Buy Low**: Suggest increasing positions in assets that have underperformed
 - **Compound Growth**: Reinvest profits to accelerate portfolio growth
 - **Risk Management**: Prevent over-concentration in any single asset
 
@@ -404,8 +404,10 @@ Users can customize:
 
 ---
 
-Automated rebalancing is one of Zap Pilot's most powerful features - it's like having a professional
-portfolio manager working 24/7 to optimize your investments, capture profits, and manage risk.
+Manual rebalancing is one of Zap Pilot's most powerful features - it's like having a professional
+portfolio manager monitoring 24/7 and suggesting optimizations for your investments, capturing
+profits, and managing risk, but all executions require your explicit authorization, ensuring
+ultra-safe asset custody.
 
 👉 **[Learn About Intent Execution →](./intent-execution)** 👉
 **[Explore Cross-Chain Operations →](./cross-chain-operations)** 👉

@@ -200,4 +200,4 @@ The intent execution engine is what makes Zap Pilot magical — transforming com
 simplicity while maintaining the power and flexibility of DeFi.
 
 👉 **[Learn about Cross-Chain Operations →](./cross-chain-operations)** 👉
-**[Explore Automated Rebalancing →](./manually-rebalancing)**
+**[Explore Rebalancing →](./rebalancing)**

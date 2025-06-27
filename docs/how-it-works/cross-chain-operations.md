@@ -96,7 +96,7 @@ The routing engine considers:
 
 ### Bridge Integration
 
-#### **Across Protocol - Our Exclusive Bridge Partner**
+#### **Across Protocol - Our Bridge Partner**
 
 We use Across Protocol for all cross-chain operations, providing optimal security, speed, and
 cost-efficiency:
@@ -295,6 +295,6 @@ Cross-chain operations are what make Zap Pilot truly powerful - accessing the en
 while maintaining simplicity for users. You get the benefits of all chains without the complexity of
 managing them individually.
 
-👉 **[Learn About Automated Rebalancing →](./manually-rebalancing)** 👉
+👉 **[Learn About Rebalancing →](./rebalancing)** 👉
 **[Explore Strategy Execution →](./intent-execution)** 👉
 **[View Supported Networks →](../security)**

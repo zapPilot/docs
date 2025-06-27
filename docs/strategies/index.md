@@ -129,7 +129,7 @@ Maximize growth potential with time to ride out volatility
 - Protocol due diligence and security assessment
 - Performance optimization and reporting
 
-#### **Automated Rebalancing**
+#### **Rebalancing**
 
 - Systematic rebalancing based on target allocations
 - Deviation thresholds to minimize trading costs
