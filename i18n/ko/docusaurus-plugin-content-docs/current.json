@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.How It Works": {
+    "message": "작동 방식",
+    "description": "The label for category How It Works in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Investment Strategies": {
+    "message": "투자 전략",
+    "description": "The label for category Investment Strategies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "시작하기",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Safety & Security": {
+    "message": "안전 및 보안",
+    "description": "The label for category Safety & Security in sidebar tutorialSidebar"
+  }
+}
