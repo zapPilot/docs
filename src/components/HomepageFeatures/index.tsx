@@ -11,32 +11,34 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Intent-Based Execution',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Specify your desired outcomes, not transaction sequences. Zap Pilot
+        interprets your intents and executes the optimal path across DeFi
+        protocols automatically.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Multi-Vault Strategies',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Choose from Stablecoin Vault, Index500 (S&P500-like), BTC Vault, ETH
+        Vault, or create custom strategies. Automated rebalancing keeps your
+        portfolio optimized.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Cross-Chain & Gasless',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Support for 20+ blockchain networks with account abstraction enabling
+        gasless transactions. Seamless DeFi operations across multiple chains.
       </>
     ),
   },

@@ -40,7 +40,8 @@ That's it. Our engine handles:
 ### Non-Custodial by Design
 
 - **Your keys, your crypto** - funds never leave your wallet
-- **No platform risk** - we can't access your assets
+- **Reduced platform risk** - As an intent-execution engine, Zap Pilot doesn't have its own smart
+  contracts for you to deposit into. You interact directly with audited third-party protocols.
 - **Full transparency** - all operations on-chain and auditable
 
 ### Security First
@@ -78,7 +79,7 @@ Enterprise-grade infrastructure with advanced analytics and reporting.
 
 Choose from our curated strategies or build your own:
 
-- **🏦 Stablecoin Vaults** - Low risk, steady yields (10-25% APY)
+- **🏦 Stablecoin Vaults** - Low risk, steady yields (15-25% APY)
 - **📊 Index Funds** - Diversified crypto exposure (5-15% APY)
 - **₿ Single Asset** - Bitcoin or Ethereum focused strategies
 - **⚙️ Custom Strategies** - Build exactly what you want (upcoming)

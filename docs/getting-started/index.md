@@ -50,7 +50,7 @@ Not sure which strategy fits you? Take our 2-minute assessment:
 
 | Strategy                                    | Risk     | Expected APY | Best For                    |
 | ------------------------------------------- | -------- | ------------ | --------------------------- |
-| [🏦 Stablecoin](../strategies/stablecoin)   | Low      | 5-12%        | First-time DeFi users       |
+| [🏦 Stablecoin](../strategies/stablecoin)   | Low      | 15-25%       | First-time DeFi users       |
 | [📈 Index Funds](../strategies/index-funds) | Medium   | 15-25%       | Diversified crypto exposure |
 | [₿ Bitcoin](../strategies/bitcoin)          | Med-High | 10-30%       | Bitcoin believers           |
 | [Ξ Ethereum](../strategies/ethereum)        | Med-High | 12-35%       | ETH ecosystem fans          |
@@ -138,7 +138,7 @@ You can start with any of these assets:
 
 #### **On Any Supported Chain**
 
-- Ethereum, Arbitrum, Polygon, Base, BSC, Avalanche, Optimism, and more
+- We support leading Layer 2s, Ethereum, and Solana.
 
 ### Getting Funds Into Your Wallet
 

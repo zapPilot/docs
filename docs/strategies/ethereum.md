@@ -62,7 +62,7 @@ scaling solutions, and emerging Ethereum innovations.
 - **12-Month Average**: 22.7% APY (vs 55% ETH appreciation + 22.7% yield)
 - **Best Month**: 89% (March 2024 - L2 airdrop season)
 - **Worst Month**: -31% (June 2022 - Terra Luna collapse)
-- **Sharpe Ratio**: 0.85 (strong risk-adjusted returns)
+- **Sharpe Ratio**: 0.85
 
 ### Yield Sources Breakdown
 

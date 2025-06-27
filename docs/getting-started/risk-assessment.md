@@ -63,7 +63,7 @@ goals, experience, and risk tolerance.
 **Characteristics**: Low risk tolerance, steady income focus, shorter timeline **Recommended
 Strategy**: 🏦 **Stablecoin Vaults**
 
-- Target APY: 5-12%
+- Target APY: 15-25%
 - Risk Level: Low
 - Liquidity: Instant
 

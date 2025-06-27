@@ -295,8 +295,8 @@ investments maintain their original fee structure.
 
 #### **Q: How do you justify performance fees?**
 
-A: Performance fees align our interests with yours. We only make money when you make money above
-market rates. Our strategies consistently outperform DIY and passive approaches.
+A: We believe that a simple, one-time 1% entry fee is the most transparent and fair model. It aligns
+our interests with yours by encouraging long-term investment, not by taking a cut of your profits.
 
 #### **Q: What about taxes on fees?**
 

@@ -63,7 +63,7 @@ Your Bitcoin works across multiple protocols and chains:
 - **12-Month Average**: 18.3% APY (vs 45% Bitcoin appreciation + 18% yield)
 - **Best Month**: 47% (January 2024 - Bull market + high funding rates)
 - **Worst Month**: -23% (November 2022 - FTX collapse impact)
-- **Sharpe Ratio**: 0.73 (solid risk-adjusted returns)
+- **Sharpe Ratio**: 0.73
 
 ### Yield Sources Breakdown
 

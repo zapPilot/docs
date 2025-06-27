@@ -19,7 +19,7 @@ across the safest, highest-yielding DeFi protocols.
 ### Key Features
 
 - **Low Risk**: Minimal price volatility exposure
-- **Steady Yields**: 5-12% APY vs 0.1% in banks
+- **Steady Yields**: 15-25% APY vs 0.1% in banks
 - **High Liquidity**: Withdraw anytime without penalties
 - **Diversified**: Spread across multiple protocols and chains
 
@@ -69,7 +69,7 @@ Our algorithm dynamically adjusts allocations based on:
 - **12-Month Average**: 8.5% APY
 - **Best Month**: 12.3% APY (March 2024)
 - **Worst Month**: 5.1% APY (June 2023)
-- **Sharpe Ratio**: 1.85 (excellent risk-adjusted returns)
+- **Sharpe Ratio**: 1.85
 
 ### Risk Metrics
 
@@ -184,10 +184,10 @@ If risks are detected:
 
 ## 💸 Fees & Costs
 
-### Management Fees
+### Fee Structure
 
-- **Annual Fee**: 0.5% (industry's lowest)
-- **Performance Fee**: 10% of profits above 4% APY
+- **Entry Fee**: 1% one-time on deposit
+- **Ongoing Fees**: 0%
 - **No Exit Fees**: Withdraw anytime for free
 
 ### Gas Optimization

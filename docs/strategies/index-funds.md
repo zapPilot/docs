@@ -125,7 +125,7 @@ Base weights on market cap, then adjust for:
 - **3-Year CAGR**: 32% annualized
 - **Best Quarter**: +156% (Q4 2023)
 - **Worst Quarter**: -48% (Q2 2022)
-- **Sharpe Ratio**: 0.89 (good risk-adjusted returns)
+- **Sharpe Ratio**: 0.89
 
 ### Risk Metrics
 
@@ -256,10 +256,10 @@ Generate additional yield through:
 
 ### Fee Structure
 
-- **Management Fee**: 1.0% annually
-- **Performance Fee**: 15% of returns above 10% APY
+- **Entry Fee**: 1% one-time on deposit
+- **Ongoing Fees**: 0%
+- **Withdrawal Fee**: Free
 - **Rebalancing Costs**: Optimized and shared across users
-- **No Entry/Exit Fees**: Free to join or leave
 
 ### Cost Comparison
 

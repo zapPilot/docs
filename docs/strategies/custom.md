@@ -327,19 +327,9 @@ Each template can be modified:
 
 ### Custom Strategy Fees
 
-#### **Development Fees**
-
-- **Basic Custom Strategy**: $5,000 setup fee
-- **Advanced Quantitative**: $15,000 setup fee
-- **Institutional Grade**: $50,000+ setup fee
-- **Ongoing Management**: 2.0% annually
-
-#### **Performance Fees**
-
-- **Standard**: 20% of profits above benchmark
-- **High-Water Mark**: Only pay on new profits
-- **Hurdle Rate**: Customize minimum return threshold
-- **Fee Sharing**: Reduced fees for longer commitments
+- **Entry Fee**: 1% one-time on deposit
+- **Ongoing Fees**: 0%
+- **Withdrawal Fee**: Free
 
 #### **Minimum Investments**
 

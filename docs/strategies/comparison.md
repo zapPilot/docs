@@ -13,11 +13,11 @@ fits your investment objectives, risk tolerance, and financial situation.
 
 | Strategy                             | Risk Level  | Target APY | Min Investment | Liquidity | Entry Fee | Ongoing Fees | Best For               |
 | ------------------------------------ | ----------- | ---------- | -------------- | --------- | --------- | ------------ | ---------------------- |
-| 🏦 [Stablecoin Vaults](./stablecoin) | 🟢 Low      | 5-12%      | $50            | Instant   | 1%        | 0%           | Conservative investors |
+| 🏦 [Stablecoin Vaults](./stablecoin) | 🟢 Low      | 15-25%     | $50            | Instant   | 1%        | 0%           | Conservative investors |
 | 📈 [Index Funds](./index-funds)      | 🟡 Medium   | 15-25%     | $100           | Same day  | 1%        | 0%           | Diversified exposure   |
 | ₿ [Bitcoin Strategies](./bitcoin)    | 🟠 Med-High | 10-30%     | $100           | Same day  | 1%        | 0%           | Bitcoin believers      |
 | Ξ [Ethereum Strategies](./ethereum)  | 🟠 Med-High | 12-35%     | $100           | Same day  | 1%        | 0%           | ETH ecosystem          |
-| ⚙️ [Custom Strategies](./custom)     | 🔴 Variable | Variable   | $200,000       | Variable  | 1%        | 0%           | High net worth         |
+| ⚙️ [Custom Strategies](./custom)     | 🔴 Variable | Variable   | $100           | Variable  | 1%        | 0%           | High net worth         |
 
 ## 🎯 Strategy Selection Matrix
 

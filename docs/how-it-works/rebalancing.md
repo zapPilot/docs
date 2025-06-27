@@ -404,10 +404,9 @@ Users can customize:
 
 ---
 
-Manual rebalancing is one of Zap Pilot's most powerful features - it's like having a professional
-portfolio manager monitoring 24/7 and suggesting optimizations for your investments, capturing
-profits, and managing risk, but all executions require your explicit authorization, ensuring
-ultra-safe asset custody.
+Manual rebalancing is one of Zap Pilot's most powerful features. It's like having a professional
+portfolio manager monitoring your investments 24/7 and suggesting optimizations. You have the final
+say on all trades, ensuring you always control your assets.
 
 👉 **[Learn About Intent Execution →](./intent-execution)** 👉
 **[Explore Cross-Chain Operations →](./cross-chain-operations)** 👉

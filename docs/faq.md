@@ -47,9 +47,10 @@ Generally:
 
 ### **Q: How safe are my funds?**
 
-**A:** Very safe. Zap Pilot is non-custodial, meaning your funds never leave your wallet. We only
-have permission to execute the strategies you approve. You can withdraw anytime and we can never
-access your funds directly.
+**A:** Security is our top priority. Our non-custodial model means you are always in control of your
+funds. Zap Pilot is an intent-execution engine that prepares transactions for you to sign; we do not
+have our own smart contracts that take custody of your assets. This means you interact directly with
+the end DeFi protocols, significantly reducing platform-specific risk.
 
 ### **Q: What does "non-custodial" mean?**
 
@@ -87,7 +88,7 @@ protocols even if our interface goes offline. All positions are in your name, no
 
 **A:** Returns vary by strategy and market conditions:
 
-- **Stablecoin Vaults**: 5-12% APY (low risk)
+- **Stablecoin Vaults**: 15-25% APY (low risk)
 - **Index Funds**: 15-25% APY (medium risk)
 - **Bitcoin/Ethereum**: 10-35% APY (medium-high risk)
 - **Custom**: Variable based on your configuration
@@ -129,10 +130,10 @@ hours to unwind optimally, but emergency exits are always available.
 
 **A:** We use a transparent, performance-aligned fee structure:
 
-- **Management fees**: 0.5-2.0% annually (depending on strategy)
-- **Performance fees**: 10-20% of profits above benchmark
-- **No withdrawal fees** for most strategies
-- **Gas fees**: Optimized and shared across users
+- **Entry Fee**: 1% one-time on deposit.
+- **No ongoing fees**: No management or performance fees.
+- **No withdrawal fees**: Free withdrawals anytime.
+- **Gas fees**: Optimized and shared across users.
 
 ### **Q: Why do you charge performance fees?**
 

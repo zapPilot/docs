@@ -6,8 +6,9 @@ sidebar_position: 3
 
 **Seamless DeFi across Base, Arbitrum, and Optimism** 🌐
 
-Zap Pilot's cross-chain capabilities allow you to access the best DeFi opportunities across our
-supported Layer 2 networks without the complexity of managing different wallets, tokens, or bridges.
+Zap Pilot's cross-chain capabilities allow you to access the best DeFi opportunities across various
+Layer 2 networks, as well as Ethereum and Solana, without the complexity of managing different
+wallets, tokens, or bridges.
 
 ## 🔗 Multi-Chain Architecture
 

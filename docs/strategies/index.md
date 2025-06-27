@@ -12,7 +12,7 @@ for the best risk-adjusted returns.
 
 | Strategy                             | Risk Level     | Target APY | Min. Investment | Liquidity    | Best For               |
 | ------------------------------------ | -------------- | ---------- | --------------- | ------------ | ---------------------- |
-| 🏦 [Stablecoin Vaults](./stablecoin) | 🟢 Low         | 5-12%      | $50             | Instant      | Conservative investors |
+| 🏦 [Stablecoin Vaults](./stablecoin) | 🟢 Low         | 15-25%     | $50             | Instant      | Conservative investors |
 | 📈 [Index Funds](./index-funds)      | 🟡 Medium      | 15-25%     | $100            | Same day     | Diversified exposure   |
 | ₿ [Bitcoin Strategies](./bitcoin)    | 🟠 Medium-High | 10-30%     | $100            | Same day     | Bitcoin believers      |
 | Ξ [Ethereum Strategies](./ethereum)  | 🟠 Medium-High | 12-35%     | $100            | Same day     | ETH ecosystem fans     |

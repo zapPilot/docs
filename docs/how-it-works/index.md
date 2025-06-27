@@ -49,22 +49,19 @@ graph TD
 - Calculate best execution paths
 - Plan gas-efficient transactions
 
-### 3. **Automated Execution**
+### 3. **Execution with Approval**
 
 - Execute across multiple chains simultaneously
 - Optimize for lowest fees and best rates
 - Monitor in real-time
-- Auto-rebalance as needed
+- Propose rebalancing as needed for your approval
 
 ## 🔗 Cross-Chain Intelligence
 
 ### Native Multi-Chain Support
 
-Zap Pilot doesn't just bridge assets — we natively understand and operate on multiple chains:
-
-- **Layer 2s**: Arbitrum, Optimism, Base
-- **Ethereum**: (coming soon)
-- **Alt L1s**: Avalanche, BSC, Solana (coming soon)
+Zap Pilot doesn't just bridge assets — we natively understand and operate on multiple chains,
+including leading Layer 2s, Ethereum, and Solana.
 
 ### Intelligent Routing
 
