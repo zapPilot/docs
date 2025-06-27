@@ -1,22 +1,22 @@
 {
   "version.label": {
-    "message": "下一版",
+    "message": "次へ",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.How It Works": {
-    "message": "運作方式",
+    "message": "仕組み",
     "description": "The label for category How It Works in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Investment Strategies": {
-    "message": "投資策略",
+    "message": "投資戦略",
     "description": "The label for category Investment Strategies in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Getting Started": {
-    "message": "入門指南",
+    "message": "はじめに",
     "description": "The label for category Getting Started in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Safety & Security": {
-    "message": "安全與保障",
+    "message": "安全性とセキュリティ",
     "description": "The label for category Safety & Security in sidebar tutorialSidebar"
   }
 }
