@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Automated Rebalancing
+# Manually Rebalancing
 
 **Keep your portfolio optimized 24/7** 🔄
 

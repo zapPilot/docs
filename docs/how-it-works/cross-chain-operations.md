@@ -98,8 +98,8 @@ The routing engine considers:
 
 #### **Across Protocol - Our Exclusive Bridge Partner**
 
-We exclusively use Across Protocol for all cross-chain operations, providing optimal security,
-speed, and cost-efficiency:
+We use Across Protocol for all cross-chain operations, providing optimal security, speed, and
+cost-efficiency:
 
 | Bridge Feature       | Across Protocol Benefits                                |
 | -------------------- | ------------------------------------------------------- |
@@ -116,26 +116,6 @@ speed, and cost-efficiency:
 - **Fast Settlement**: Quick finality with UMA's oracle system
 - **Proven Reliability**: Battle-tested infrastructure with strong security track record
 - **Cost Effective**: Competitive fees optimized for frequent rebalancing
-
-### Failure Handling
-
-#### **Robust Error Recovery**
-
-Cross-chain operations can fail at multiple points. Our system handles:
-
-**Bridge Failures:**
-
-- **Detection**: Real-time monitoring of bridge status
-- **Fallback**: Automatic retry with alternative bridges
-- **Recovery**: Manual intervention for stuck transactions
-- **Notification**: User alerts with clear next steps
-
-**Destination Chain Issues:**
-
-- **Gas Estimation**: Predict and handle gas failures
-- **Slippage Protection**: Adjust for volatile conditions
-- **Timeout Handling**: Automatic retries with adjusted parameters
-- **Emergency Recovery**: Manual transaction rescue procedures
 
 ## 🎯 Cross-Chain Strategy Benefits
 
@@ -315,6 +295,6 @@ Cross-chain operations are what make Zap Pilot truly powerful - accessing the en
 while maintaining simplicity for users. You get the benefits of all chains without the complexity of
 managing them individually.
 
-👉 **[Learn About Automated Rebalancing →](./automated-rebalancing)** 👉
+👉 **[Learn About Automated Rebalancing →](./manually-rebalancing)** 👉
 **[Explore Strategy Execution →](./intent-execution)** 👉
 **[View Supported Networks →](../security)**

@@ -41,7 +41,7 @@ Every intent contains:
 
 ## ⚙️ The Execution Pipeline
 
-### 1. Intent Parsing & Validation
+### 1. Intent Parsing & Validation (Example)
 
 ```typescript
 interface UserIntent {
@@ -118,15 +118,6 @@ Our system continuously learns from:
 - **Liquidity depth** changes over time
 - **Protocol risk events** and responses
 
-### Predictive Modeling
-
-We use machine learning for:
-
-- **Yield forecasting** - predict future APY changes
-- **Risk assessment** - early warning for protocol issues
-- **Gas optimization** - predict optimal execution timing
-- **Portfolio optimization** - maximize risk-adjusted returns
-
 ### Adaptive Strategies
 
 Strategies evolve based on:
@@ -135,35 +126,6 @@ Strategies evolve based on:
 - **Your behavior patterns** and preferences
 - **Performance feedback** from past executions
 - **New protocol opportunities**
-
-## ⚡ Real-Time Execution
-
-### Parallel Processing
-
-Operations execute simultaneously across chains:
-
-- **Ethereum**: Main DeFi hub operations
-- **Arbitrum**: Low-cost similar operations
-- **Polygon**: Fast execution for smaller amounts
-- **BSC**: Alternative yield opportunities
-
-### Smart Retry Logic
-
-If transactions fail:
-
-1. **Immediate retry** with higher gas
-2. **Route re-calculation** if still failing
-3. **Fallback strategies** to alternative paths
-4. **User notification** with options
-
-### MEV Protection
-
-Protect your transactions from:
-
-- **Front-running** through private mempools
-- **Sandwich attacks** via slippage controls
-- **Failed transactions** through simulation
-- **Gas price manipulation** via prediction
 
 ## 🔄 Continuous Monitoring
 
@@ -198,7 +160,7 @@ Get notified about:
 
 ### Custom Intent Scripting
 
-Power users can create custom intents:
+Power users can create custom intents (Example):
 
 ```javascript
 // Example: Dollar-cost averaging intent
@@ -227,8 +189,8 @@ Submit multiple intents at once:
 
 Pre-built templates for common strategies:
 
+- **Index Fund**: Market Cap weighted strategys, S&P-500 liked strategy.
 - **Conservative Income**: Stablecoin yield focus
-- **Balanced Growth**: 60/40 crypto/stable allocation
 - **Aggressive Growth**: High-risk, high-reward strategies
 - **Market Neutral**: Delta-neutral strategies
 
@@ -238,4 +200,4 @@ The intent execution engine is what makes Zap Pilot magical — transforming com
 simplicity while maintaining the power and flexibility of DeFi.
 
 👉 **[Learn about Cross-Chain Operations →](./cross-chain-operations)** 👉
-**[Explore Automated Rebalancing →](./automated-rebalancing)**
+**[Explore Automated Rebalancing →](./manually-rebalancing)**

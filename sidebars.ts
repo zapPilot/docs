@@ -23,7 +23,7 @@ const sidebars: SidebarsConfig = {
         'how-it-works/index',
         'how-it-works/intent-execution',
         'how-it-works/cross-chain-operations',
-        'how-it-works/automated-rebalancing',
+        'how-it-works/manually-rebalancing',
       ],
     },
     {

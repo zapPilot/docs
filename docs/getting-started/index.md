@@ -187,9 +187,9 @@ You can start with any of these assets:
 
 #### **Chain Preferences**
 
-- **Ethereum**: Maximum security and liquidity
+- **Base**: Maximum security and liquidity
 - **Arbitrum**: Lower fees, fast execution
-- **Polygon**: Cheapest fees, good for smaller amounts
+- **OP**: Cheapest fees, good for smaller amounts
 - **Multi-chain**: Automatically optimize across chains
 
 #### **Notification Preferences**
