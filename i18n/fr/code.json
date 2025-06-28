@@ -1,0 +1,26 @@
+{
+  "homepage.features.intentExecution.title": {
+    "message": "Exécution Basée sur l'Intention",
+    "description": "The title for Intent-Based Execution feature"
+  },
+  "homepage.features.intentExecution.description": {
+    "message": "Spécifiez vos résultats souhaités, pas les séquences de transactions. Zap Pilot interprète vos intentions et exécute automatiquement le chemin optimal à travers les protocoles DeFi.",
+    "description": "The description for Intent-Based Execution feature"
+  },
+  "homepage.features.multiVault.title": {
+    "message": "Stratégies Multi-Coffres",
+    "description": "The title for Multi-Vault Strategies feature"
+  },
+  "homepage.features.multiVault.description": {
+    "message": "Choisissez parmi Coffre Stablecoin, Index500 (similaire au S&P500), Coffre BTC, Coffre ETH, ou créez des stratégies personnalisées. Le rééquilibrage automatisé maintient votre portefeuille optimisé.",
+    "description": "The description for Multi-Vault Strategies feature"
+  },
+  "homepage.features.crossChain.title": {
+    "message": "Cross-Chain et Sans Frais",
+    "description": "The title for Cross-Chain & Gasless feature"
+  },
+  "homepage.features.crossChain.description": {
+    "message": "Support pour plus de 20 réseaux blockchain avec abstraction de compte permettant des transactions sans frais. Opérations DeFi fluides à travers plusieurs chaînes.",
+    "description": "The description for Cross-Chain & Gasless feature"
+  }
+}

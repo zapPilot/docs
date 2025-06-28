@@ -1,0 +1,26 @@
+{
+  "homepage.features.intentExecution.title": {
+    "message": "インテント駆動実行",
+    "description": "The title for Intent-Based Execution feature"
+  },
+  "homepage.features.intentExecution.description": {
+    "message": "取引シーケンスではなく、望む結果を指定してください。Zap Pilotがあなたの意図を解釈し、DeFiプロトコル全体で最適なパスを自動実行します。",
+    "description": "The description for Intent-Based Execution feature"
+  },
+  "homepage.features.multiVault.title": {
+    "message": "マルチボルト戦略",
+    "description": "The title for Multi-Vault Strategies feature"
+  },
+  "homepage.features.multiVault.description": {
+    "message": "ステーブルコインボルト、Index500（S&P500類似）、BTCボルト、ETHボルト、またはカスタム戦略から選択できます。自動リバランシングでポートフォリオを最適化します。",
+    "description": "The description for Multi-Vault Strategies feature"
+  },
+  "homepage.features.crossChain.title": {
+    "message": "クロスチェーン＆ガスレス",
+    "description": "The title for Cross-Chain & Gasless feature"
+  },
+  "homepage.features.crossChain.description": {
+    "message": "アカウント抽象化によるガスレス取引を可能にする20以上のブロックチェーンネットワークをサポート。複数チェーンでのシームレスなDeFi操作。",
+    "description": "The description for Cross-Chain & Gasless feature"
+  }
+}

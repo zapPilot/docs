@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="chain-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="network-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Network nodes -->
+  <circle cx="100" cy="50" r="15" fill="url(#network-gradient)" stroke="#0e7490" stroke-width="2"/>
+  <circle cx="50" cy="100" r="15" fill="url(#network-gradient)" stroke="#0e7490" stroke-width="2"/>
+  <circle cx="150" cy="100" r="15" fill="url(#network-gradient)" stroke="#0e7490" stroke-width="2"/>
+  <circle cx="75" cy="150" r="15" fill="url(#network-gradient)" stroke="#0e7490" stroke-width="2"/>
+  <circle cx="125" cy="150" r="15" fill="url(#network-gradient)" stroke="#0e7490" stroke-width="2"/>
+  
+  <!-- Chain links -->
+  <ellipse cx="75" cy="75" rx="8" ry="12" fill="none" stroke="url(#chain-gradient)" stroke-width="3" transform="rotate(45 75 75)"/>
+  <ellipse cx="125" cy="75" rx="8" ry="12" fill="none" stroke="url(#chain-gradient)" stroke-width="3" transform="rotate(-45 125 75)"/>
+  <ellipse cx="62" cy="125" rx="8" ry="12" fill="none" stroke="url(#chain-gradient)" stroke-width="3" transform="rotate(25 62 125)"/>
+  <ellipse cx="138" cy="125" rx="8" ry="12" fill="none" stroke="url(#chain-gradient)" stroke-width="3" transform="rotate(-25 138 125)"/>
+  <ellipse cx="100" cy="125" rx="12" ry="8" fill="none" stroke="url(#chain-gradient)" stroke-width="3"/>
+  
+  <!-- Connection lines -->
+  <path d="M85 60 L65 85" stroke="#94a3b8" stroke-width="2" opacity="0.7"/>
+  <path d="M115 60 L135 85" stroke="#94a3b8" stroke-width="2" opacity="0.7"/>
+  <path d="M65 100 L85 135" stroke="#94a3b8" stroke-width="2" opacity="0.7"/>
+  <path d="M135 100 L115 135" stroke="#94a3b8" stroke-width="2" opacity="0.7"/>
+  <path d="M90 135 L110 135" stroke="#94a3b8" stroke-width="2" opacity="0.7"/>
+  
+  <!-- Gasless indicators (lightning bolts) -->
+  <path d="M95 45 L105 40 L98 50 L102 55 L92 50 Z" fill="#fbbf24" stroke="#f59e0b" stroke-width="1"/>
+  <path d="M45 95 L55 90 L48 100 L52 105 L42 100 Z" fill="#fbbf24" stroke="#f59e0b" stroke-width="1"/>
+  <path d="M145 95 L155 90 L148 100 L152 105 L142 100 Z" fill="#fbbf24" stroke="#f59e0b" stroke-width="1"/>
+  
+  <!-- Network labels -->
+  <text x="100" y="55" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="8" font-weight="bold">ETH</text>
+  <text x="50" y="105" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="8" font-weight="bold">BSC</text>
+  <text x="150" y="105" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="8" font-weight="bold">ARB</text>
+  <text x="75" y="155" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="8" font-weight="bold">POL</text>
+  <text x="125" y="155" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="8" font-weight="bold">OP</text>
+  
+  <!-- Background network effect -->
+  <circle cx="30" cy="30" r="2" fill="#94a3b8" opacity="0.4"/>
+  <circle cx="170" cy="30" r="1.5" fill="#94a3b8" opacity="0.3"/>
+  <circle cx="30" cy="170" r="2.5" fill="#94a3b8" opacity="0.5"/>
+  <circle cx="170" cy="170" r="2" fill="#94a3b8" opacity="0.4"/>
+  <circle cx="20" cy="100" r="1.5" fill="#94a3b8" opacity="0.3"/>
+  <circle cx="180" cy="100" r="2" fill="#94a3b8" opacity="0.4"/>
+</svg>

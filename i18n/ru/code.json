@@ -321,5 +321,29 @@
   "theme.tags.tagsPageTitle": {
     "message": "Теги",
     "description": "The title of the tag list page"
+  },
+  "homepage.features.intentExecution.title": {
+    "message": "Исполнение на основе намерений",
+    "description": "The title for Intent-Based Execution feature"
+  },
+  "homepage.features.intentExecution.description": {
+    "message": "Указывайте желаемые результаты, а не последовательности транзакций. Zap Pilot интерпретирует ваши намерения и автоматически выполняет оптимальный путь через протоколы DeFi.",
+    "description": "The description for Intent-Based Execution feature"
+  },
+  "homepage.features.multiVault.title": {
+    "message": "Мульти-хранилищные стратегии",
+    "description": "The title for Multi-Vault Strategies feature"
+  },
+  "homepage.features.multiVault.description": {
+    "message": "Выбирайте из хранилища стейблкоинов, Index500 (как S&P500), BTC-хранилища, ETH-хранилища или создавайте пользовательские стратегии. Автоматическая ребалансировка поддерживает ваш портфель оптимизированным.",
+    "description": "The description for Multi-Vault Strategies feature"
+  },
+  "homepage.features.crossChain.title": {
+    "message": "Кросс-чейн и без газа",
+    "description": "The title for Cross-Chain & Gasless feature"
+  },
+  "homepage.features.crossChain.description": {
+    "message": "Поддержка 20+ блокчейн-сетей с абстракцией аккаунтов, обеспечивающей транзакции без газа. Бесшовные DeFi-операции через множественные чейны.",
+    "description": "The description for Cross-Chain & Gasless feature"
   }
 }

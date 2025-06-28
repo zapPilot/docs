@@ -1,45 +1,76 @@
 import React, { type ReactNode } from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
+import Translate from '@docusaurus/Translate';
 import styles from './styles.module.css';
 
 type FeatureItem = {
-  title: string;
+  title: ReactNode;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Intent-Based Execution',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: (
+      <Translate
+        id='homepage.features.intentExecution.title'
+        description='The title for Intent-Based Execution feature'
+      >
+        Intent-Based Execution
+      </Translate>
+    ),
+    Svg: require('@site/static/img/intent-execution.svg').default,
     description: (
-      <>
+      <Translate
+        id='homepage.features.intentExecution.description'
+        description='The description for Intent-Based Execution feature'
+      >
         Specify your desired outcomes, not transaction sequences. Zap Pilot
         interprets your intents and executes the optimal path across DeFi
         protocols automatically.
-      </>
+      </Translate>
     ),
   },
   {
-    title: 'Multi-Vault Strategies',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: (
+      <Translate
+        id='homepage.features.multiVault.title'
+        description='The title for Multi-Vault Strategies feature'
+      >
+        Multi-Vault Strategies
+      </Translate>
+    ),
+    Svg: require('@site/static/img/multi-vault.svg').default,
     description: (
-      <>
+      <Translate
+        id='homepage.features.multiVault.description'
+        description='The description for Multi-Vault Strategies feature'
+      >
         Choose from Stablecoin Vault, Index500 (S&P500-like), BTC Vault, ETH
         Vault, or create custom strategies. Automated rebalancing keeps your
         portfolio optimized.
-      </>
+      </Translate>
     ),
   },
   {
-    title: 'Cross-Chain & Gasless',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: (
+      <Translate
+        id='homepage.features.crossChain.title'
+        description='The title for Cross-Chain & Gasless feature'
+      >
+        Cross-Chain & Gasless
+      </Translate>
+    ),
+    Svg: require('@site/static/img/cross-chain.svg').default,
     description: (
-      <>
+      <Translate
+        id='homepage.features.crossChain.description'
+        description='The description for Cross-Chain & Gasless feature'
+      >
         Support for 20+ blockchain networks with account abstraction enabling
         gasless transactions. Seamless DeFi operations across multiple chains.
-      </>
+      </Translate>
     ),
   },
 ];

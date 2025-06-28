@@ -321,5 +321,29 @@
   "theme.tags.tagsPageTitle": {
     "message": "Etiketler",
     "description": "The title of the tag list page"
+  },
+  "homepage.features.intentExecution.title": {
+    "message": "Niyet Tabanlı Yürütme",
+    "description": "The title for Intent-Based Execution feature"
+  },
+  "homepage.features.intentExecution.description": {
+    "message": "İşlem dizileri değil, istediğiniz sonuçları belirtin. Zap Pilot niyetlerinizi yorumlar ve DeFi protokolleri arasında otomatik olarak en iyi yolu yürütür.",
+    "description": "The description for Intent-Based Execution feature"
+  },
+  "homepage.features.multiVault.title": {
+    "message": "Çoklu Kasa Stratejileri",
+    "description": "The title for Multi-Vault Strategies feature"
+  },
+  "homepage.features.multiVault.description": {
+    "message": "Stablecoin Kasası, Index500 (S&P500 benzeri), BTC Kasası, ETH Kasası arasından seçin veya özel stratejiler oluşturun. Otomatik yeniden dengeleme portföyünüzü optimize tutar.",
+    "description": "The description for Multi-Vault Strategies feature"
+  },
+  "homepage.features.crossChain.title": {
+    "message": "Çapraz Zincir ve Gaz Bedava",
+    "description": "The title for Cross-Chain & Gasless feature"
+  },
+  "homepage.features.crossChain.description": {
+    "message": "Hesap soyutlaması ile gaz bedava işlemleri sağlayan 20+ blokzincir ağı desteği. Birden fazla zincir üzerinde kesintisiz DeFi operasyonları.",
+    "description": "The description for Cross-Chain & Gasless feature"
   }
 }

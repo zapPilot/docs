@@ -1,0 +1,26 @@
+{
+  "homepage.features.intentExecution.title": {
+    "message": "의도 기반 실행",
+    "description": "The title for Intent-Based Execution feature"
+  },
+  "homepage.features.intentExecution.description": {
+    "message": "거래 순서가 아닌 원하는 결과를 지정하세요. Zap Pilot이 당신의 의도를 해석하고 DeFi 프로토콜 전반에서 최적의 경로를 자동으로 실행합니다.",
+    "description": "The description for Intent-Based Execution feature"
+  },
+  "homepage.features.multiVault.title": {
+    "message": "멀티 볼트 전략",
+    "description": "The title for Multi-Vault Strategies feature"
+  },
+  "homepage.features.multiVault.description": {
+    "message": "스테이블코인 볼트, Index500 (S&P500 유사), BTC 볼트, ETH 볼트 중에서 선택하거나 맞춤형 전략을 만드세요. 자동 리밸런싱으로 포트폴리오를 최적화합니다.",
+    "description": "The description for Multi-Vault Strategies feature"
+  },
+  "homepage.features.crossChain.title": {
+    "message": "크로스체인 & 가스리스",
+    "description": "The title for Cross-Chain & Gasless feature"
+  },
+  "homepage.features.crossChain.description": {
+    "message": "계정 추상화를 통한 가스리스 거래를 가능하게 하는 20개 이상의 블록체인 네트워크를 지원합니다. 여러 체인에서의 원활한 DeFi 운영.",
+    "description": "The description for Cross-Chain & Gasless feature"
+  }
+}
