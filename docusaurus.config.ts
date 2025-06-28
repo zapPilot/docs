@@ -99,6 +99,7 @@ const config: Config = {
         alt: 'Zap Pilot Logo',
         src: 'img/logo.svg',
       },
+      hideOnScroll: false,
       items: [
         {
           type: 'docSidebar',
@@ -109,6 +110,9 @@ const config: Config = {
         {
           type: 'localeDropdown',
           position: 'right',
+          dropdownItemsAfter: [],
+          dropdownItemsBefore: [],
+          queryString: '?lng=',
         },
         {
           href: 'https://github.com/zapPilot',

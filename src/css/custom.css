@@ -3,6 +3,8 @@
  * Dark theme with purple/blue gradients inspired by the main landing page
  */
 
+@import './mobile-fixes.css';
+
 /* Base variables - Landing page inspired colors */
 :root {
   /* Primary purple theme from landing page */
@@ -85,10 +87,27 @@ body {
   );
 }
 
+/* Ensure mobile navbar doesn't interfere with main content */
+@media (max-width: 996px) {
+  .main-wrapper {
+    position: relative;
+    z-index: 1;
+  }
+}
+
 /* Navbar styling to match landing page */
 .navbar {
   backdrop-filter: blur(12px);
   border-bottom: 1px solid rgba(168, 85, 247, 0.1);
+}
+
+/* Ensure navbar doesn't interfere with mobile menu */
+@media (max-width: 996px) {
+  .navbar {
+    position: relative;
+    z-index: 999;
+    backdrop-filter: none;
+  }
 }
 
 .navbar__brand {
@@ -181,6 +200,42 @@ body {
   background: linear-gradient(135deg, #9333ea, #7c3aed);
   transform: translateY(-2px);
   box-shadow: 0 8px 25px rgba(168, 85, 247, 0.3);
+}
+
+/* Dropdown styling for desktop */
+.dropdown__menu {
+  background: rgba(3, 7, 18, 0.95) !important;
+  backdrop-filter: blur(12px) !important;
+  border: 1px solid rgba(168, 85, 247, 0.2) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5) !important;
+  padding: 8px !important;
+  margin-top: 8px !important;
+  min-width: 180px !important;
+  z-index: 1002 !important;
+}
+
+.dropdown__link {
+  color: var(--ifm-navbar-link-color) !important;
+  padding: 10px 16px !important;
+  border-radius: 8px !important;
+  display: block !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease !important;
+  border: 1px solid transparent !important;
+}
+
+.dropdown__link:hover,
+.dropdown__link:focus {
+  background: rgba(168, 85, 247, 0.1) !important;
+  border-color: rgba(168, 85, 247, 0.2) !important;
+  color: var(--ifm-color-primary-light) !important;
+}
+
+.dropdown__link--active {
+  background: rgba(168, 85, 247, 0.2) !important;
+  border-color: rgba(168, 85, 247, 0.3) !important;
+  color: var(--ifm-color-primary-light) !important;
 }
 
 /* Responsive design */
