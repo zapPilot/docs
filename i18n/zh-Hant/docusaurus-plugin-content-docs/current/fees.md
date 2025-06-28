@@ -309,5 +309,4 @@ Zap Pilot 管理：
 
 您的成功就是我們的成功。每項費用都旨在將我們的利益與您的利益保持一致，並為您的投資提供卓越價值。
 
-👉 **[查看即時費用計算器 →](https://app.zap-pilot.com/calculator)** 👉
-**[比較策略 →](./strategies)**
+👉 **[比較策略 →](./strategies)**

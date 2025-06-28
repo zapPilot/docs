@@ -326,5 +326,4 @@ d'investissement. Consultez votre conseiller fiscal pour des conseils spécifiqu
 Votre succès est notre succès. Chaque frais est conçu pour aligner nos intérêts avec les vôtres et
 offrir une valeur exceptionnelle pour votre investissement.
 
-👉 **[Voir le calculateur de frais en direct →](https://app.zap-pilot.com/calculator)** 👉
-**[Comparer les stratégies →](./strategies)**
+👉 **[Comparer les stratégies →](./strategies)**

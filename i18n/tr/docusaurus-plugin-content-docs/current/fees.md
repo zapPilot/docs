@@ -321,5 +321,4 @@ vergi danışmanınıza danışın.
 Başarınız bizim başarımızdır. Her ücret, çıkarlarımızı sizinkiyle uyumlu hale getirmek ve
 yatırımınız için olağanüstü değer sunmak üzere tasarlanmıştır.
 
-👉 **[Canlı Ücret Hesaplayıcısını Gör →](https://app.zap-pilot.com/calculator)** 👉
-**[Stratejileri Karşılaştır →](./strategies)**
+👉 **[Stratejileri Karşılaştır →](./strategies)**

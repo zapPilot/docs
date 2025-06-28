@@ -323,5 +323,4 @@ Ihren Steuerberater für spezifische Anweisungen.
 Ihr Erfolg ist unser Erfolg. Jede Gebühr ist darauf ausgelegt, unsere Interessen mit Ihren zu
 verbinden und einen außergewöhnlichen Wert für Ihre Investition zu liefern.
 
-👉 **[Live-Gebührenrechner ansehen →](https://app.zap-pilot.com/calculator)** 👉
-**[Strategien vergleichen →](./strategies)**
+👉 **[Strategien vergleichen →](./strategies)**

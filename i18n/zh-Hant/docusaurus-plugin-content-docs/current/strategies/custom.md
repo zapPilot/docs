@@ -401,5 +401,4 @@ interface YieldStrategy {
 
 自訂策略代表了個人化 DeFi 投資的巔峰。透過完全掌控投資方法的各個方面，您可以建立與您獨特目標和市場觀點完美契合的策略。
 
-👉 **[安排諮詢 →](https://cal.com/zap-pilot/custom-strategy)** 👉 **[查看策略範例 →](./examples)**
 👉 **[了解我們的流程 →](../how-it-works)**

@@ -293,7 +293,3 @@ Security isn't just about technology - it's about building trust through transpa
 control, and maintaining the highest standards in everything we do.
 
 Your funds are always yours. We're just here to help them work smarter.
-
-👉 **[Learn About Smart Contracts →](./smart-contracts)** 👉
-**[Understand Insurance Coverage →](./insurance)** 👉
-**[Emergency Procedures →](./emergency-procedures)**

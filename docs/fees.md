@@ -318,5 +318,4 @@ for specific guidance.
 Your success is our success. Every fee is designed to align our interests with yours and deliver
 exceptional value for your investment.
 
-👉 **[See Live Fee Calculator →](https://app.zap-pilot.com/calculator)** 👉
-**[Compare Strategies →](./strategies)**
+👉 **[Compare Strategies →](./strategies)**

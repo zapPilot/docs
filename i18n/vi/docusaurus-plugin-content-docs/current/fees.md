@@ -322,5 +322,4 @@ phải bằng cách lấy một phần lợi nhuận của bạn.
 Thành công của bạn là thành công của chúng tôi. Mọi khoản phí đều được thiết kế để liên kết lợi ích
 của chúng tôi với bạn và mang lại giá trị đặc biệt cho khoản đầu tư của bạn.
 
-👉 **[Xem Máy tính phí trực tiếp →](https://app.zap-pilot.com/calculator)** 👉
-**[So sánh các chiến lược →](./strategies)**
+👉 **[So sánh các chiến lược →](./strategies)**

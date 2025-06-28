@@ -309,5 +309,5 @@ Protocol 逐步將 15% 從 Arbitrum 轉移到 Base **考量：** 平衡橋接成
 跨鏈操作是 Zap
 Pilot 真正強大的地方——在為用戶保持簡單的同時，存取整個 DeFi 宇宙。您無需單獨管理所有鏈，即可獲得所有鏈的好處。
 
-👉 **[了解自動再平衡 →](./manually-rebalancing)** 👉 **[探索策略執行 →](./intent-execution)** 👉
+👉 **[了解自動再平衡 →](./rebalancing)** 👉 **[探索策略執行 →](./intent-execution)** 👉
 **[查看支援的網路 →](../security)**

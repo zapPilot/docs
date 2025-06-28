@@ -324,5 +324,4 @@ a su asesor fiscal para obtener orientación específica.
 Su éxito es nuestro éxito. Cada tarifa está diseñada para alinear nuestros intereses con los suyos y
 ofrecer un valor excepcional para su inversión.
 
-👉 **[Ver Calculadora de Tarifas en Vivo →](https://app.zap-pilot.com/calculator)** 👉
-**[Comparar Estrategias →](./strategies)**
+👉 **[Comparar Estrategias →](./strategies)**

@@ -394,5 +394,4 @@ Custom strategies represent the pinnacle of personalized DeFi investing. With co
 every aspect of your investment approach, you can build strategies that perfectly align with your
 unique goals and market views.
 
-👉 **[Schedule Consultation →](https://cal.com/zap-pilot/custom-strategy)** 👉
-**[View Strategy Examples →](./examples)** 👉 **[Learn About Our Process →](../how-it-works)**
+👉 **[Learn About Our Process →](../how-it-works)**

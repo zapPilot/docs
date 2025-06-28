@@ -396,6 +396,4 @@ Các chiến lược tùy chỉnh đại diện cho đỉnh cao của đầu tư
 toàn mọi khía cạnh của phương pháp đầu tư của bạn, bạn có thể xây dựng các chiến lược hoàn toàn phù
 hợp với mục tiêu và quan điểm thị trường độc đáo của mình.
 
-👉 **[Đặt lịch tư vấn →](https://cal.com/zap-pilot/custom-strategy)** 👉
-**[Xem ví dụ chiến lược →](./examples)** 👉
 **[Tìm hiểu về quy trình của chúng tôi →](../how-it-works)**

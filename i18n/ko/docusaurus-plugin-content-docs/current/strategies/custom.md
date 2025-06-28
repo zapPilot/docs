@@ -394,5 +394,4 @@ interface YieldStrategy {
 맞춤형 전략은 개인화된 DeFi 투자의 정점입니다. 투자 접근 방식의 모든 측면을 완전히 제어함으로써
 고유한 목표 및 시장 관점과 완벽하게 일치하는 전략을 구축할 수 있습니다.
 
-👉 **[상담 예약하기 →](https://cal.com/zap-pilot/custom-strategy)** 👉
-**[전략 예시 보기 →](./examples)** 👉 **[우리의 프로세스에 대해 알아보기 →](../how-it-works)**
+👉 **[우리의 프로세스에 대해 알아보기 →](../how-it-works)**
