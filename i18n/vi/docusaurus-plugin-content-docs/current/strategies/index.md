@@ -65,7 +65,7 @@ bằng và tối ưu hóa để có lợi nhuận điều chỉnh rủi ro tốt
 Tạo dòng tiền ổn định từ tiền điện tử của bạn
 
 - **Chiến lược tốt nhất**: Kho tiền Stablecoin
-- **Lợi nhuận dự kiến**: 5-12% APY
+- **Lợi nhuận dự kiến**: 15-25% APY
 - **Tần suất thanh toán**: Gộp lãi hàng ngày
 
 #### 📈 **Tăng trưởng dài hạn**

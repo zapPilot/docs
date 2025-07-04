@@ -66,9 +66,9 @@ Thuật toán của chúng tôi tự động điều chỉnh phân bổ dựa tr
 
 ### Lợi nhuận lịch sử
 
-- **Trung bình 12 tháng**: 8,5% APY
-- **Tháng tốt nhất**: 12,3% APY (Tháng 3 năm 2024)
-- **Tháng tệ nhất**: 5,1% APY (Tháng 6 năm 2023)
+- **Trung bình 12 tháng**: 20% APY
+- **Tháng tốt nhất**: 25% APY (Tháng 3 năm 2024)
+- **Tháng tệ nhất**: 15% APY (Tháng 6 năm 2023)
 - **Tỷ lệ Sharpe**: 1,85
 
 ### Các chỉ số rủi ro
@@ -198,12 +198,12 @@ Nếu phát hiện rủi ro:
 
 ### So sánh phí
 
-| Nhà cung cấp           | Phí quản lý | Phí hiệu suất | Thời gian khóa   |
-| ---------------------- | ----------- | ------------- | ---------------- |
-| **Zap Pilot**          | 0,5%        | 10% trên 4%   | Không            |
-| Yearn Finance          | 2,0%        | 20%           | Không            |
-| Convex                 | 16% + 1%    | Không         | Không            |
-| Ngân hàng truyền thống | 0%          | Không         | Không (0,1% APY) |
+| Nhà cung cấp           | Phí quản lý    | Phí hiệu suất | Thời gian khóa   |
+| ---------------------- | -------------- | ------------- | ---------------- |
+| **Zap Pilot**          | 1% phí vào cửa | 0%            | Không            |
+| Yearn Finance          | 2,0%           | 20%           | Không            |
+| Convex                 | 16% + 1%       | Không         | Không            |
+| Ngân hàng truyền thống | 0%             | Không         | Không (0,1% APY) |
 
 ## 🚀 Bắt đầu
 

@@ -56,12 +56,7 @@ Chỉ vậy thôi. Công cụ của chúng tôi xử lý:
 ## 🌐 DeFi chuỗi chéo thực sự
 
 Không giống như các nền tảng khác yêu cầu cầu nối hoặc nhiều giao dịch, Zap Pilot hoạt động nguyên
-bản trên:
-
-- **Arbitrum**
-- **Base**
-- **OP**
-- **và nhiều hơn nữa sắp ra mắt**
+bản trên nhiều mạng khác nhau, bao gồm các Layer 2 hàng đầu, Ethereum và Solana.
 
 ## 🎭 Dành cho mọi người
 

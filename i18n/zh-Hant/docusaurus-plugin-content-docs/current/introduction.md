@@ -53,12 +53,8 @@ Zap Pilot 讓任何人都能一鍵投資 DeFi
 
 ## 🌐 真正的跨鏈 DeFi
 
-與其他需要橋接或多次交易的平台不同，Zap Pilot 原生支援跨鏈操作：
-
-- **Arbitrum**
-- **Base**
-- **OP**
-- **更多即將推出**
+與其他需要橋接或多次交易的平台不同，Zap Pilot 原生支援跨鏈操作，包括主要的 Layer
+2、Ethereum 和 Solana。
 
 ## 🎭 適合所有人
 

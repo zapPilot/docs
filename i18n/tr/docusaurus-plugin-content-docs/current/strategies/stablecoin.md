@@ -66,9 +66,9 @@ Our algorithm dynamically adjusts allocations based on:
 
 ### Historical Returns
 
-- **12-Month Average**: 8.5% APY
-- **Best Month**: 12.3% APY (March 2024)
-- **Worst Month**: 5.1% APY (June 2023)
+- **12-Month Average**: 20% APY
+- **Best Month**: 25% APY (March 2024)
+- **Worst Month**: 15% APY (June 2023)
 - **Sharpe Ratio**: 1.85
 
 ### Risk Metrics
@@ -200,7 +200,7 @@ If risks are detected:
 
 | Provider         | Management Fee | Performance Fee | Lock-Up         |
 | ---------------- | -------------- | --------------- | --------------- |
-| **Zap Pilot**    | 0.5%           | 10% above 4%    | None            |
+| **Zap Pilot**    | 1% entry fee   | 0%              | None            |
 | Yearn Finance    | 2.0%           | 20%             | None            |
 | Convex           | 16% + 1%       | None            | None            |
 | Traditional Bank | 0%             | None            | None (0.1% APY) |

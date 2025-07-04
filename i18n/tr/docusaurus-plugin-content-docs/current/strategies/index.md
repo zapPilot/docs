@@ -65,7 +65,7 @@ for the best risk-adjusted returns.
 Generate consistent cash flow from your crypto
 
 - **Best Strategy**: Stablecoin Vaults
-- **Expected Yield**: 5-12% APY
+- **Expected Yield**: 15-25% APY
 - **Payment Frequency**: Daily compounding
 
 #### 📈 **Long-Term Growth**

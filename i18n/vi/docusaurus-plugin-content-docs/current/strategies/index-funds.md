@@ -264,12 +264,12 @@ Tạo thêm lợi nhuận thông qua:
 
 ### So sánh chi phí
 
-| Nhà cung cấp         | Phí quản lý | Phí hiệu suất | Đầu tư tối thiểu |
-| -------------------- | ----------- | ------------- | ---------------- |
-| **Chỉ số Zap Pilot** | 1,0%        | 15% trên 10%  | $100             |
-| Chỉ số Bitwise 10    | 2,5%        | Không         | $25.000          |
-| Quỹ DeFi Grayscale   | 2,5%        | Không         | $50.000          |
-| Danh mục đầu tư DIY  | 0%          | Không         | Gas biến đổi     |
+| Nhà cung cấp         | Phí quản lý    | Phí hiệu suất | Đầu tư tối thiểu |
+| -------------------- | -------------- | ------------- | ---------------- |
+| **Chỉ số Zap Pilot** | 1% phí vào cửa | 0%            | $100             |
+| Chỉ số Bitwise 10    | 2,5%           | Không         | $25.000          |
+| Quỹ DeFi Grayscale   | 2,5%           | Không         | $50.000          |
+| Danh mục đầu tư DIY  | 0%             | Không         | Gas biến đổi     |
 
 ### Đề xuất giá trị
 

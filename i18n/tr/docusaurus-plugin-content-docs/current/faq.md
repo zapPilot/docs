@@ -197,11 +197,8 @@ değişiklikler hakkında sizi bilgilendireceğiz.
 
 ### **S: Hangi blok zincirlerini destekliyorsunuz?**
 
-**C:** Şunlar dahil 20'den fazla ağda faaliyet gösteriyoruz:
-
-- Ethereum, Arbitrum, Optimism, Base
-- Polygon, BSC, Avalanche
-- Ve daha birçok gelişmekte olan ağ
+**C:** Önde gelen Layer 2'leri, Ethereum ve Solana'yı destekliyoruz, düzenli olarak daha fazla ağ
+eklenmektedir.
 
 ### **S: Zincirler arası stratejiler nasıl çalışır?**
 

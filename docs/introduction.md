@@ -56,9 +56,9 @@ That's it. Our engine handles:
 Unlike other platforms that require bridging or multiple transactions, Zap Pilot natively operates
 across:
 
-- **Arbitrum**
-- **Base**
-- **OP**
+- **Leading Layer 2s**
+- **Ethereum**
+- **Solana**
 - **with more coming soon**
 
 ## 🎭 For Everyone

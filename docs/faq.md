@@ -190,11 +190,7 @@ necessary. Many users check weekly or monthly. We'll alert you to any important 
 
 ### **Q: What blockchains do you support?**
 
-**A:** We operate on 20+ networks including:
-
-- Ethereum, Arbitrum, Optimism, Base
-- Polygon, BSC, Avalanche
-- And many more emerging networks
+**A:** We support leading Layer 2s, Ethereum, and Solana, with more networks being added regularly.
 
 ### **Q: How do cross-chain strategies work?**
 

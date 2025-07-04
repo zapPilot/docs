@@ -265,7 +265,7 @@ Generate additional yield through:
 
 | Provider            | Management Fee | Performance Fee | Min Investment |
 | ------------------- | -------------- | --------------- | -------------- |
-| **Zap Pilot Index** | 1.0%           | 15% above 10%   | $100           |
+| **Zap Pilot Index** | 1% entry fee   | 0%              | $100           |
 | Bitwise 10 Index    | 2.5%           | None            | $25,000        |
 | Grayscale DeFi Fund | 2.5%           | None            | $50,000        |
 | DIY Portfolio       | 0%             | None            | Variable Gas   |
