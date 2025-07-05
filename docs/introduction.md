@@ -56,10 +56,10 @@ That's it. Our engine handles:
 Unlike other platforms that require bridging or multiple transactions, Zap Pilot natively operates
 across:
 
-- **Leading Layer 2s**
+- **Leading Layer 2s** (Arbitrum, Base, Optimism)
 - **Ethereum**
-- **Solana**
-- **with more coming soon**
+- **Solana** (coming soon)
+- **with more chains being added**
 
 ## 🎭 For Everyone
 

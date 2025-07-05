@@ -25,33 +25,25 @@ across the safest, highest-yielding DeFi protocols.
 
 ## 💰 How It Works
 
-### Multi-Protocol Allocation
+### Dynamic Multi-Protocol Allocation
 
-Your funds are intelligently distributed across:
+Your funds are professionally allocated across our curated protocol selection:
 
-#### **Lending Protocols (40-60%)**
+#### **Available Protocol Categories**
 
-- **Aave**: Industry-leading lending protocol
-- **Compound**: Battle-tested money markets
-- **Moonwell**: Optimized for multichain
-- **Venus**: BSC's premier lending platform
+- **Lending Protocols**: Aave, Compound, Moonwell, Venus
+- **Yield Optimization**: Convex, Equilibria, Pendle
+- **Liquidity Pools**: Curve, Velodrome, Aerodrome
 
-#### **Liquidity Pools (20-30%)**
+#### **Adaptive Allocation Strategy**
 
-- **Curve**: Stablecoin-optimized DEX
-- **Uniswap V3**: Concentrated liquidity positions
-- **Balancer**: Weighted pools with trading fees
+- **Curator-managed weights** based on current market conditions
+- **Dynamic rebalancing** between protocol categories
+- **Risk-adjusted positioning** prioritizing capital preservation
+- **No fixed allocation guarantees** - weights vary based on opportunities
 
-#### **Yield Optimization (20-30%)**
-
-- **Convex**: Boosted Curve rewards
-- **Yearn**: Automated yield strategies
-- **Beefy**: Cross-chain yield farming
-
-#### **Reserve Buffer (5-10%)**
-
-- **Liquid reserves** for instant withdrawals
-- **Rebalancing buffer** for strategy adjustments
+_Note: Protocol allocation percentages are indicative ranges and may vary based on market conditions
+and curator assessment._
 
 ### Smart Allocation Algorithm
 
@@ -91,9 +83,13 @@ Our algorithm dynamically adjusts allocations based on:
 
 #### **Protocol Diversification**
 
-- No more than 25% in any single protocol
-- Only protocols with 6+ months live history
-- Regular security audits and code reviews
+- **Protocol diversification** across multiple audited platforms
+- **Dynamic concentration limits** based on protocol maturity and TVL
+- **Continuous monitoring** with automatic risk-off procedures
+- Only protocols with 6+ months live history and regular security audits
+
+_Note: Concentration limits are dynamically adjusted based on protocol assessment and market
+conditions_
 
 #### **Stablecoin Diversification**
 

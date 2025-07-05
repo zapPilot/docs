@@ -4,11 +4,15 @@ sidebar_position: 3
 
 # Crypto Index Funds
 
-**Diversified crypto exposure made simple** 📈
+**Coming Soon: Diversified crypto exposure made simple** 📈
 
-Perfect for investors who want to participate in the crypto market's growth without picking
-individual tokens. Get exposure to 20-30 top cryptocurrencies with professional management and
-automatic rebalancing.
+Our Index Fund strategy is currently in development and will feature:
+
+- **Top 10 cryptocurrencies** by market capitalization
+- **Quarterly rebalancing** to maintain target weights
+- **Professional curation** with systematic allocation adjustments
+
+_Currently available: Simplified index exposure through our BTC and ETH vault combination_
 
 ## 🎯 Strategy Overview
 
@@ -17,11 +21,11 @@ automatic rebalancing.
 Capture the broad crypto market's growth through a diversified portfolio of top cryptocurrencies,
 similar to how the S&P 500 tracks the US stock market.
 
-### Key Features
+### Planned Features
 
-- **Diversified Exposure**: 20-30 top crypto assets
+- **Diversified Exposure**: Top 10 crypto assets by market cap
 - **Market Cap Weighted**: Larger assets get higher allocation
-- **Auto-Rebalancing**: Monthly rebalancing maintains target weights
+- **Quarterly Rebalancing**: Systematic rebalancing maintains target weights
 - **Professional Management**: No need to research individual tokens
 
 ## 🏗️ Index Composition
@@ -74,11 +78,11 @@ similar to how the S&P 500 tracks the US stock market.
 
 ## 🔄 Rebalancing Strategy
 
-### Monthly Rebalancing Process
+### Quarterly Rebalancing Process
 
 #### **Market Cap Assessment**
 
-Every month we:
+Every quarter we will:
 
 1. **Recalculate** market capitalizations
 2. **Adjust weightings** based on new data
@@ -87,10 +91,10 @@ Every month we:
 
 #### **Rebalancing Triggers**
 
-- **Scheduled**: Monthly rebalancing regardless
+- **Scheduled**: Quarterly rebalancing regardless
 - **Threshold**: Any token deviates >5% from target
 - **Market Events**: Major market structure changes
-- **New Listings**: High-quality projects entering top 25
+- **New Listings**: High-quality projects entering top 10
 
 #### **Smart Execution**
 

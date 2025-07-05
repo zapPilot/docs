@@ -4,8 +4,10 @@ sidebar_position: 2
 
 # Intent Execution Engine
 
-The heart of Zap Pilot is our intent execution engine — a sophisticated system that translates user
-intentions into optimal DeFi operations across multiple blockchains.
+**Translating investment intentions into optimal execution paths** 🎯
+
+Zap Pilot's intent execution engine interprets user objectives and autonomously determines optimal
+execution strategies across decentralized finance.
 
 ## 🎯 Understanding Intents
 
@@ -26,8 +28,8 @@ An intent is a high-level expression of what you want to achieve, not how to ach
 #### **Intent-Based Approach:**
 
 ```
-"I want $1000 invested in ETH/stablecoin yield farming
-with medium risk tolerance"
+Intent: "Allocate $1,000 to conservative stablecoin yield"
+Result: Automated strategy selection, routing, and execution
 ```
 
 ### Intent Components
@@ -60,32 +62,33 @@ interface UserIntent {
 
 ### 2. Strategy Resolution
 
-Our AI engine analyzes your intent against:
+Our execution engine analyzes your intent against:
 
 - **Current market conditions**
 - **Available yield opportunities**
 - **Your existing portfolio**
-- **Risk-return optimization**
+- **Risk-return optimization via Kelly Criterion**
 
 ### 3. Execution Planning
 
 The planner creates an optimal execution sequence:
 
-#### **Path Finding**
+#### **Intelligent Route Optimization**
 
-- Identify all possible execution routes
-- Calculate costs and risks for each path
-- Select optimal route considering:
-  - Total gas costs
-  - Price impact
-  - Time to execution
-  - Failure probability
+Our execution engine employs:
 
-#### **Transaction Sequencing**
+- **Multi-DEX aggregation** via 1inch, Paraswap, and 0x protocols
+- **Cross-chain route optimization** for minimal fees and slippage
+- **Gas cost analysis** across execution paths
+- **Liquidity depth assessment** for optimal price impact
 
-- Break complex operations into atomic steps
-- Plan for failure recovery at each step
-- Optimize for parallel execution where possible
+#### **Autonomous Execution Pipeline**
+
+1. **Intent Analysis**: Parse investment objective and constraints
+2. **Strategy Resolution**: Map intent to optimal protocol combinations
+3. **Route Planning**: Calculate multi-hop execution paths
+4. **Execution Orchestration**: Deploy capital across selected protocols
+5. **Continuous Optimization**: Monitor and rebalance based on Kelly Criterion
 
 ### 4. Cross-Chain Orchestration
 
@@ -107,25 +110,28 @@ graph TD
     I --> J[Portfolio Update]
 ```
 
-## 🧠 AI-Powered Optimization
+## 🧠 Advanced Intent Features
+
+### Portfolio-Level Intents
+
+- **"Rebalance to target allocation"** → Automated multi-protocol rebalancing
+- **"Optimize yield across positions"** → Dynamic capital redeployment
+- **"Reduce risk exposure"** → Intelligent position scaling
+
+### Cross-Chain Intent Resolution
+
+- **Native multi-chain execution** without manual bridging
+- **Optimal chain selection** based on yield opportunities
+- **Unified liquidity aggregation** across Layer 2 ecosystems
 
 ### Market Intelligence
 
-Our system continuously learns from:
+Our system continuously analyzes:
 
 - **Historical yield data** across all protocols
 - **Gas price patterns** on different chains
 - **Liquidity depth** changes over time
 - **Protocol risk events** and responses
-
-### Adaptive Strategies
-
-Strategies evolve based on:
-
-- **Market regime changes** (bull/bear/sideways)
-- **Your behavior patterns** and preferences
-- **Performance feedback** from past executions
-- **New protocol opportunities**
 
 ## 🔄 Continuous Monitoring
 
@@ -196,8 +202,10 @@ Pre-built templates for common strategies:
 
 ---
 
-The intent execution engine is what makes Zap Pilot magical — transforming complexity into
-simplicity while maintaining the power and flexibility of DeFi.
+---
+
+_Traditional DeFi requires 12+ manual transactions. Zap Pilot executes complex strategies through
+single intent expressions._
 
 👉 **[Learn about Cross-Chain Operations →](./cross-chain-operations)** 👉
 **[Explore Rebalancing →](./rebalancing)**

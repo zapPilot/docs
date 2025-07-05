@@ -105,13 +105,14 @@ Our Kelly Criterion-based allocation system:
 
 ## 🛡️ Account Abstraction Integration
 
-### Gasless Transactions
+### Gasless Experience with Account Abstraction
 
-Through Account Abstraction wallets:
+Through ThirdWeb's smart wallet infrastructure:
 
-- **No ETH needed for gas** on any chain
-- **Batch multiple operations** into single transaction
-- **Sponsored transactions** for small investors
+- **Gas sponsorship** for qualifying transactions via paymaster
+- **Simplified onboarding** with social wallet options
+- **Batch operations** to reduce transaction count
+- **Multi-chain support** with unified experience
 
 ### Enhanced Security
 
