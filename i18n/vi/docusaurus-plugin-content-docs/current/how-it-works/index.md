@@ -105,13 +105,14 @@ Hệ thống phân bổ dựa trên tiêu chí Kelly của chúng tôi:
 
 ## 🛡️ Tích hợp trừu tượng hóa tài khoản
 
-### Giao dịch không phí gas
+### Trải nghiệm không phí gas với trừu tượng hóa tài khoản
 
-Thông qua ví trừu tượng hóa tài khoản:
+Thông qua cơ sở hạ tầng ví thông minh của ThirdWeb:
 
-- **Không cần ETH cho phí gas** trên bất kỳ chuỗi nào
-- **Gộp nhiều hoạt động** vào một giao dịch duy nhất
-- **Giao dịch được tài trợ** cho các nhà đầu tư nhỏ
+- **Tài trợ gas** cho các giao dịch đủ điều kiện thông qua paymaster
+- **Đăng ký đơn giản** với các tùy chọn ví xã hội
+- **Hoạt động hàng loạt** để giảm số lượng giao dịch
+- **Hỗ trợ đa chuỗi** với trải nghiệm thống nhất
 
 ### Bảo mật nâng cao
 

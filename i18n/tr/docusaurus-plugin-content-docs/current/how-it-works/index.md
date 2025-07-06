@@ -105,13 +105,14 @@ Kelly Kriteri tabanlı tahsis sistemimiz:
 
 ## 🛡️ Hesap Soyutlama Entegrasyonu
 
-### Gas'sız İşlemler
+### Hesap Soyutlama ile Gas'sız Deneyim
 
-Hesap Soyutlama cüzdanları aracılığıyla:
+ThirdWeb'in akıllı cüzdan altyapısı aracılığıyla:
 
-- Herhangi bir zincirde **gas için ETH gerekmez**
-- Birden fazla işlemi tek bir işleme **toplu olarak işleyin**
-- Küçük yatırımcılar için **sponsorlu işlemler**
+- Paymaster aracılığıyla uygun işlemler için **gas sponsorluğu**
+- Sosyal cüzdan seçenekleriyle **basitleştirilmiş katılım**
+- İşlem sayısını azaltmak için **toplu işlemler**
+- Birleşik deneyimle **çoklu zincir desteği**
 
 ### Gelişmiş Güvenlik
 

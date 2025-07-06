@@ -54,8 +54,13 @@ Karmaşık DeFi operasyonlarını **basit niyetlere** dönüştürüyoruz:
 
 ## 🌐 Gerçek Zincirler Arası DeFi
 
-Köprüleme veya birden fazla işlem gerektiren diğer platformların aksine, Zap Pilot önde gelen Layer
-2'ler, Ethereum ve Solana dahil olmak üzere çeşitli ağlarda yerel olarak çalışır.
+Köprüleme veya birden fazla işlem gerektiren diğer platformların aksine, Zap Pilot yerel olarak
+şunlarda çalışır:
+
+- **Önde gelen Layer 2'ler** (Arbitrum, Base, Optimism)
+- **Ethereum**
+- **Solana** (yakında)
+- **daha fazla zincir ekleniyor**
 
 ## 🎭 Herkes İçin
 

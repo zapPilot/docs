@@ -55,7 +55,12 @@ Eso es todo. Nuestro motor se encarga de:
 ## 🌐 Verdadero DeFi entre cadenas
 
 A diferencia de otras plataformas que requieren puentes o múltiples transacciones, Zap Pilot opera
-de forma nativa en una variedad de redes, incluidas las principales Layer 2, Ethereum y Solana.
+de forma nativa en:
+
+- **Principales Layer 2** (Arbitrum, Base, Optimism)
+- **Ethereum**
+- **Solana** (próximamente)
+- **con más cadenas en desarrollo**
 
 ## 🎭 Para todos
 
