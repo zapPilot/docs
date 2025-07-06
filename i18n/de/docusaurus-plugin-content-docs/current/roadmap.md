@@ -64,7 +64,7 @@ Wachstum dar.
 **Ziele**
 
 - 10x Steigerung der Nutzer-Touchpoints
-- Reduzierung der Onboarding-Zeit auf <5 Minuten
+- Reduzierung der Onboarding-Zeit auf &lt;5 Minuten
 - 50% Reduzierung der Support-Tickets
 
 ### 📈 **August 2025: Erweiterte Funktionen**

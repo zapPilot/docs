@@ -64,7 +64,7 @@ bền vững.
 **Mục Tiêu**
 
 - Tăng 10 lần điểm tiếp xúc người dùng
-- Giảm thời gian đưa vào sử dụng xuống <5 phút
+- Giảm thời gian đưa vào sử dụng xuống &lt;5 phút
 - Giảm 50% vé hỗ trợ
 
 ### 📈 **Tháng 8 2025: Tính Năng Nâng Cao**

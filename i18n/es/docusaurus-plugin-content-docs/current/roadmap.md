@@ -63,7 +63,7 @@ Este hito representa un ajuste producto-mercado validado y la base para el creci
 **Objetivos**
 
 - Aumento 10x en puntos de contacto de usuario
-- Reducir tiempo de incorporación a <5 minutos
+- Reducir tiempo de incorporación a &lt;5 minutos
 - 50% de reducción en tickets de soporte
 
 ### 📈 **Agosto 2025: Características Avanzadas**

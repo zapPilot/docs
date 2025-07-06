@@ -64,7 +64,7 @@ durable.
 **Objectifs**
 
 - Augmentation 10x des points de contact utilisateur
-- Réduire le temps d'intégration à <5 minutes
+- Réduire le temps d'intégration à &lt;5 minutes
 - 50% de réduction des tickets de support
 
 ### 📈 **Août 2025: Fonctionnalités Avancées**

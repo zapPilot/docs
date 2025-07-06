@@ -64,7 +64,7 @@ ediyor.
 **Hedefler**
 
 - Kullanıcı temas noktalarında 10 kat artış
-- Entegrasyon süresini <5 dakikaya indir
+- Entegrasyon süresini &lt;5 dakikaya indir
 - Destek biletlerinde %50 azalma
 
 ### 📈 **Ağustos 2025: Gelişmiş Özellikler**
