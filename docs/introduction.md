@@ -6,8 +6,11 @@ sidebar_position: 1
 
 **Your DeFi, On Autopilot** ✈️
 
-Zap Pilot lets anyone invest in DeFi with one click — no bridging, no swapping, no guessing. You
-keep your funds in your own wallet, and we handle the messy stuff.
+We’re a cross-chain yield autopilot.
+
+Earn 10–20 % APY in one click—under 30 seconds. Zap Pilot routes your funds into curated crypto
+vaults, from a BTC-ETH-SOL index to cross-chain stable-yield pools, while your capital stays 100 %
+in your own wallet.
 
 ## 🎯 The Problem We Solve
 
