@@ -32,6 +32,26 @@ core principles of decentralization and user control.
 - **Expertise**: Experienced startup entrepreneur with expertise in scaling businesses
 - **Investment Philosophy**: Values stable investing after experiencing crypto market volatility
 
+### Chris Fan - Frontend Developer
+
+- **Background**: Chris is a passionate software engineer with a strong focus on user experience and
+  modern web technologies.
+- **Previous Experience**: She has contributed to several fintech and blockchain startups, building
+  responsive and intuitive interfaces for complex financial products.
+- **Expertise**: Chris specializes in React, TypeScript, and web3 integrations, with a keen eye for
+  design and usability. He excels at translating product requirements into seamless, performant user
+  experiences.
+
+### Eric Chan - Strategy Advisor
+
+- **Background**: Senior Engineering Manager with a proven track record in both technical leadership
+  and business strategy.
+- **Previous Experience**: Former senior engineer at Dcard and engineering manager at Gamania, Eric
+  has also founded and scaled multiple startups in the tech sector.
+- **Expertise**: Eric brings deep expertise in team building, product scaling, and strategic
+  planning. His entrepreneurial background enables him to bridge the gap between technology and
+  business growth.
+
 ## Our Approach
 
 ### Scientific Investment Strategies
