@@ -49,6 +49,7 @@ const sidebars: SidebarsConfig = {
       label: 'Safety & Security',
       items: ['security/index'],
     },
+    'about',
     'fees',
     'faq',
     'support',
