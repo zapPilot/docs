@@ -35,6 +35,26 @@ die Grundprinzipien der Dezentralisierung und Benutzerkontrolle beibehalten.
 - **Investitionsphilosophie**: Schätzt stabiles Investieren nach der Erfahrung von
   Krypto-Marktvolatilität
 
+### Chris Fan - Frontend-Entwicklerin
+
+- **Hintergrund**: Chris ist eine leidenschaftliche Software-Ingenieurin mit starkem Fokus auf
+  Benutzererfahrung und moderne Web-Technologien.
+- **Bisherige Erfahrung**: Sie hat zu mehreren Fintech- und Blockchain-Startups beigetragen und
+  reaktionsschnelle und intuitive Schnittstellen für komplexe Finanzprodukte entwickelt.
+- **Expertise**: Chris ist spezialisiert auf React, TypeScript und Web3-Integrationen, mit einem
+  ausgeprägten Gespür für Design und Benutzerfreundlichkeit. Sie zeichnet sich dadurch aus,
+  Produktanforderungen in nahtlose, performante Benutzererfahrungen umzusetzen.
+
+### Eric Chan - Strategieberater
+
+- **Hintergrund**: Erfahrener Engineering Manager mit einer nachweislichen Erfolgsbilanz in
+  technischer Führung und Geschäftsstrategie.
+- **Bisherige Erfahrung**: Als ehemaliger Senior Engineer bei Dcard und Engineering Manager bei
+  Gamania hat Eric auch mehrere Startups im Technologiesektor gegründet und skaliert.
+- **Expertise**: Eric verfügt über tiefgreifende Expertise in Teambuilding, Produktskalierung und
+  strategischer Planung. Sein Unternehmergeist ermöglicht es ihm, die Lücke zwischen Technologie und
+  Geschäftswachstum zu schließen.
+
 ## Unser Ansatz
 
 ### Wissenschaftliche Investitionsstrategien

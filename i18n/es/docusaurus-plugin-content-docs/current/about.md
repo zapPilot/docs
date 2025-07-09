@@ -35,6 +35,26 @@ de DeFi mientras mantenemos los principios fundamentales de descentralización y
 - **Filosofía de inversión**: Valora la inversión estable después de experimentar la volatilidad del
   mercado cripto
 
+### Chris Fan - Desarrolladora Frontend
+
+- **Antecedentes**: Chris es una ingeniera de software apasionada con un fuerte enfoque en la
+  experiencia de usuario y las tecnologías web modernas.
+- **Experiencia Previa**: Ha contribuido a varias startups de fintech y blockchain, construyendo
+  interfaces responsivas e intuitivas para productos financieros complejos.
+- **Experiencia**: Chris se especializa en React, TypeScript e integraciones web3, con un ojo agudo
+  para el diseño y la usabilidad. Ella sobresale en la traducción de requisitos de producto en
+  experiencias de usuario fluidas y de alto rendimiento.
+
+### Eric Chan - Asesor Estratégico
+
+- **Antecedentes**: Gerente de Ingeniería Senior con una trayectoria probada tanto en liderazgo
+  técnico como en estrategia de negocios.
+- **Experiencia Previa**: Ex ingeniero senior en Dcard y gerente de ingeniería en Gamania, Eric
+  también ha fundado y escalado múltiples startups en el sector tecnológico.
+- **Experiencia**: Eric aporta una profunda experiencia en formación de equipos, escalado de
+  productos y planificación estratégica. Su trayectoria emprendedora le permite cerrar la brecha
+  entre la tecnología y el crecimiento empresarial.
+
 ## Nuestro enfoque
 
 ### Estrategias de inversión científicas

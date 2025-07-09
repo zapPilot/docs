@@ -6,8 +6,11 @@ sidebar_position: 1
 
 **Tu DeFi, en piloto automático** ✈️
 
-Zap Pilot permite a cualquiera invertir en DeFi con un solo clic, sin puentes, sin intercambios, sin
-conjeturas. Mantienes tus fondos en tu propia billetera y nosotros nos encargamos de lo complicado.
+Somos un piloto automático de rendimiento entre cadenas.
+
+Gane un 10-20% de APY en un solo clic, en menos de 30 segundos. Zap Pilot enruta sus fondos a
+bóvedas de criptomonedas seleccionadas, desde un índice BTC-ETH-SOL hasta pools de rendimiento
+estable entre cadenas, mientras su capital permanece 100% en su propia billetera.
 
 ## 🎯 El problema que resolvemos
 
