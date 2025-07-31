@@ -6,11 +6,10 @@ sidebar_position: 1
 
 **Your DeFi, On Autopilot** ✈️
 
-We’re a cross-chain yield autopilot.
+We’re an on-chain portfolio autopilot.
 
-Earn 10–20 % APY in one click—under 30 seconds. Zap Pilot routes your funds into curated crypto
-vaults, from a BTC-ETH-SOL index to cross-chain stable-yield pools, while your capital stays 100 %
-in your own wallet.
+For busy DeFi users, Zap Pilot cuts portfolio rebalancing from 30 min to 30 sec, moving your crypto
+across chains into higher-yield pools with one click while every token stays in your own wallet.
 
 ## 🎯 The Problem We Solve
 
