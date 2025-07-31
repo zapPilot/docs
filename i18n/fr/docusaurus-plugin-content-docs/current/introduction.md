@@ -6,9 +6,11 @@ sidebar_position: 1
 
 **Votre DeFi, en pilote automatique** ✈️
 
-Zap Pilot permet à quiconque d'investir dans la DeFi en un seul clic - sans ponts, sans échanges,
-sans devinettes. Vous gardez vos fonds dans votre propre portefeuille et nous nous occupons des
-choses compliquées.
+Nous sommes un pilote automatique de portefeuille en chaîne.
+
+Pour les utilisateurs DeFi occupés, Zap Pilot réduit le rééquilibrage de portefeuille de 30 minutes
+à 30 secondes, déplaçant vos cryptomonnaies entre les chaînes vers des pools à plus haut rendement
+en un clic tandis que chaque token reste dans votre propre portefeuille.
 
 ## 🎯 Le problème que nous résolvons
 

@@ -6,11 +6,11 @@ sidebar_position: 1
 
 **Ihr DeFi, auf Autopilot** ✈️
 
-Wir sind ein kettenübergreifender Rendite-Autopilot.
+Wir sind ein On-Chain-Portfolio-Autopilot.
 
-Verdienen Sie 10–20 % APY mit einem Klick – in unter 30 Sekunden. Zap Pilot leitet Ihre Gelder in
-kuratierte Krypto-Tresore, von einem BTC-ETH-SOL-Index bis hin zu kettenübergreifenden
-Stable-Yield-Pools, während Ihr Kapital zu 100 % in Ihrer eigenen Brieftasche verbleibt.
+Für beschäftigte DeFi-Nutzer verkürzt Zap Pilot die Portfolio-Neuausrichtung von 30 Minuten auf 30
+Sekunden und bewegt Ihre Krypto-Assets mit einem Klick über verschiedene Chains in höher rentable
+Pools, während jeder Token in Ihrer eigenen Brieftasche verbleibt.
 
 ## 🎯 Das Problem, das wir lösen
 

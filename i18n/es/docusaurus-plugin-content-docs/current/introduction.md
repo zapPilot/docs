@@ -6,11 +6,11 @@ sidebar_position: 1
 
 **Tu DeFi, en piloto automático** ✈️
 
-Somos un piloto automático de rendimiento entre cadenas.
+Somos un piloto automático de portafolio en cadena.
 
-Gane un 10-20% de APY en un solo clic, en menos de 30 segundos. Zap Pilot enruta sus fondos a
-bóvedas de criptomonedas seleccionadas, desde un índice BTC-ETH-SOL hasta pools de rendimiento
-estable entre cadenas, mientras su capital permanece 100% en su propia billetera.
+Para usuarios de DeFi ocupados, Zap Pilot reduce el rebalanceo de portafolio de 30 minutos a 30
+segundos, moviendo sus criptomonedas entre cadenas hacia pools de mayor rendimiento con un solo clic
+mientras cada token permanece en su propia billetera.
 
 ## 🎯 El problema que resolvemos
 
