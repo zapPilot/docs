@@ -12,6 +12,8 @@ Para usuarios de DeFi ocupados, Zap Pilot reduce el rebalanceo de portafolio de 
 segundos, moviendo sus criptomonedas entre cadenas hacia pools de mayor rendimiento con un solo clic
 mientras cada token permanece en su propia billetera.
 
+[pitch deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)
+
 ## 🎯 El problema que resolvemos
 
 La inversión tradicional en DeFi es **complicada**:

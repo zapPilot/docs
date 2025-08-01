@@ -6,324 +6,289 @@ sidebar_position: 6
 
 **Transparent, compétitif et aligné sur votre succès** 💰
 
-Nous croyons en une transparence totale des frais et en l'alignement de notre succès avec le vôtre.
-Voici exactement ce que vous payez et pourquoi notre structure de frais est conçue pour maximiser
-vos rendements.
+[TODO: TRANSLATE] We believe in complete fee transparency and aligning our success with yours.
+Here's exactly what you pay and why our fee structure is designed to maximize your returns.
 
 ## 💎 Aperçu de la Structure des Frais
 
 ### Notre Philosophie des Frais
 
-- 🎯 **Simple et transparent**: Un seul frais, pas de coûts cachés
-- 🏆 **Frais bas, leaders de l'industrie**: Seulement 1% de frais d'entrée, rien d'autre
-- 🔍 **Pas de frais courants**: Pas de frais de gestion ou de performance
-- - ⚖️ **Payez une fois, investissez pour toujours**: Nos frais d'entrée uniques de 1% sont les
-    seuls frais que vous paierez pour ce dépôt. Tant que vos fonds restent investis, nous ne vous
-    facturerons plus jamais.
+- 🎯 **[TODO: TRANSLATE] Simple and transparent**: Un frais, pas de coûts cachés
+- 🏆 **[TODO: TRANSLATE] Industry-leading low fees**: Seulement 1% de frais d'entrée, rien d'autre
+- 🔍 **Pas de frais continus**: Pas de frais de gestion ou de performance
+- ⚖️ **[TODO: TRANSLATE] Pay once, invest forever**: [TODO: TRANSLATE] Our single 1% entry fee is
+  the only fee you'll pay for that deposit. As long as your funds remain invested, you'll never be
+  charged by us again.
 
 ### Structure des Frais
 
-| Type de Frais            | Montant | Quand est-il facturé         | Ce qu'il couvre                                  |
-| ------------------------ | ------- | ---------------------------- | ------------------------------------------------ |
-| **Frais d'entrée**       | 1%      | Une seule fois lors du dépôt | Tous les services et la gestion de la plateforme |
-| **Frais de gestion**     | 0%      | Jamais                       | Pas de frais de gestion courants                 |
-| **Frais de performance** | 0%      | Jamais                       | Pas de frais de performance                      |
-| **Frais de retrait**     | 0%      | Jamais                       | Retraits gratuits à tout moment                  |
+| Type de Frais            | Montant | Quand facturé          | Ce que cela couvre                         |
+| ------------------------ | ------- | ---------------------- | ------------------------------------------ |
+| **Frais d'Entrée**       | 1%      | Une fois lors du dépôt | Tous les services de plateforme et gestion |
+| **Frais de Gestion**     | 0%      | Jamais                 | Pas de frais de gestion continus           |
+| **Frais de Performance** | 0%      | Jamais                 | Pas de frais de performance                |
+| **Frais de Retrait**     | 0%      | Jamais                 | Retraits gratuits à tout moment            |
 
 ## 📊 Structure de Frais Universelle
 
-### Toutes les Stratégies - Même Tarification Simple
+### Toutes les Stratégies
 
-#### 🏦 Coffres de Stablecoin
+- **Frais d'Entrée**: 1% (une fois)
+- **Frais Continus**: 0%
+- **Frais de Retrait**: Gratuit
+- **Coût Annuel Total**: 0% après l'entrée
 
-- **Frais d'entrée**: 1% (une seule fois)
-- **Frais courants**: 0%
-- **Frais de retrait**: Gratuit
-- **Coût annuel total**: 0% après l'entrée
-
-#### 📈 Fonds indiciels
-
-- **Frais d'entrée**: 1% (une seule fois)
-- **Frais courants**: 0%
-- **Frais de retrait**: Gratuit
-- **Coût annuel total**: 0% après l'entrée
-
-#### ₿ Stratégies Bitcoin
-
-- **Frais d'entrée**: 1% (une seule fois)
-- **Frais courants**: 0%
-- **Frais de retrait**: Gratuit
-- **Coût annuel total**: 0% après l'entrée
-
-#### Ξ Stratégies Ethereum
-
-- **Frais d'entrée**: 1% (une seule fois)
-- **Frais courants**: 0%
-- **Frais de retrait**: Gratuit
-- **Coût annuel total**: 0% après l'entrée
-
-#### ⚙️ Stratégies personnalisées
-
-- **Frais d'entrée**: 1% (une seule fois)
-- **Frais courants**: 0%
-- **Frais de retrait**: Gratuit
-- **Coût annuel total**: 0% après l'entrée
-
-## 🎯 Pourquoi seulement 1% de frais d'entrée ?
+## 🎯 Pourquoi seulement 1% de Frais d'Entrée?
 
 ### Notre Philosophie
 
-Nous croyons en l'alignement de notre succès avec le vôtre par la simplicité, et non par des
-structures de frais complexes. Voici pourquoi notre approche est révolutionnaire :
+[TODO: TRANSLATE] We believe in aligning our success with yours through simplicity, not complex fee
+structures. Here's why our approach is revolutionary:
 
-#### **Modèle de paiement unique**
+#### **[TODO: TRANSLATE] One-Time Payment Model**
 
-- **Pas de frais courants**: Une fois que vous avez payé les frais d'entrée de 1%, vous avez fini de
-  payer pour toujours
-- **Pas de frais de performance**: Nous ne prenons pas une part de vos profits
-- **Pas de frais de gestion**: Pas de frais annuels qui réduisent vos rendements
-- **Pas de frais de retrait**: Sortez à tout moment sans pénalités
+- **Pas de frais continus**: [TODO: TRANSLATE] Once you pay the 1% entry fee, you're done paying
+  forever
+- **Pas de frais de performance**: [TODO: TRANSLATE] We don't take a cut of your profits
+- **Pas de frais de gestion**: [TODO: TRANSLATE] No annual fees eating into your returns
+- **Pas de frais de retrait**: [TODO: TRANSLATE] Exit anytime without penalties
 
-#### **Exemple: Investissement de 10 000 $**
+#### **Exemple: Investissement de $10,000**
 
 ```
-Plateforme traditionnelle:
-- Entrée: 0 $
-- Frais de gestion annuels: 150 $ (1,5 %)
-- Frais de performance: 300 $ (15 % de 2 000 $ de profit)
-- Coût total année 1: 450 $
-- Coût total 3 ans: 1 350 $+
+Plateforme Traditionnelle:
+- Entrée: $0
+- Frais de Gestion Annuels: $150 (1,5%)
+- Frais de Performance: $300 (15% de $2,000 profit)
+- Coût Total Année 1: $450
+- Coût Total 3 Ans: $1,350+
 
 Zap Pilot:
-- Frais d'entrée: 100 $ (1 %)
-- Frais de gestion annuels: 0 $
-- Frais de performance: 0 $
-- Coût total année 1: 100 $
-- Coût total 3 ans: 100 $
+- Frais d'Entrée: $100 (1%)
+- Frais de Gestion Annuels: $0
+- Frais de Performance: $0
+- Coût Total Année 1: $100
+- Coût Total 3 Ans: $100
 ```
 
-### Comparaison des coûts dans le temps
+### Comparaison des Coûts au Fil du Temps
 
 #### **Année 1: Avantage Zap Pilot**
 
-Sur un investissement de 10 000 $ rapportant 20 % par an :
+Sur un investissement de $10,000 rapportant 20% annuellement:
 
-- **Plateforme traditionnelle**: 450 $ de frais (4,5 % de l'investissement)
-- **Zap Pilot**: 100 $ de frais (1 % de l'investissement)
-- **Vos économies**: 350 $ (78 % de frais en moins)
+- **Plateforme Traditionnelle**: $450 en frais (4,5% de l'investissement)
+- **Zap Pilot**: $100 en frais (1% de l'investissement)
+- **Vos Économies**: $350 (78% de frais en moins)
 
-#### **Année 3: Économies massives**
+#### **Année 3: Économies Massives**
 
-Même investissement composé sur 3 ans :
+Même investissement composé sur 3 ans:
 
-- **Plateforme traditionnelle**: 1 350 $+ de frais
-- **Zap Pilot**: 100 $ de frais totaux
-- **Vos économies**: 1 250 $+ (92 % de frais en moins)
+- **Plateforme Traditionnelle**: $1,350+ en frais
+- **Zap Pilot**: $100 frais totaux
+- **Vos Économies**: $1,250+ (92% de frais en moins)
 
-## 💸 Comparaisons de coûts
+## 💸 Comparaisons de Coûts
 
-### vs Finance traditionnelle
+### vs Finance Traditionnelle
 
-| Service                   | Zap Pilot                      | Finance traditionnelle       | Économies                         |
-| ------------------------- | ------------------------------ | ---------------------------- | --------------------------------- |
-| **Fonds indiciel**        | 1% de frais d'entrée seulement | 2,5% par an                  | 96% inférieur après la 1ère année |
-| **Gestion active**        | 1% de frais d'entrée seulement | 3-5% par an                  | 97% inférieur après la 1ère année |
-| **Gestion de patrimoine** | 1% de frais d'entrée seulement | 1-2% + 20-30% de performance | 99% de frais inférieurs           |
+| Service                   | Zap Pilot                   | Finance Traditionnelle    | Économies                 |
+| ------------------------- | --------------------------- | ------------------------- | ------------------------- |
+| **Fonds Indiciel**        | Seulement 1% frais d'entrée | 2,5% annuellement         | 96% moins cher après an 1 |
+| **Gestion Active**        | Seulement 1% frais d'entrée | 3-5% annuellement         | 97% moins cher après an 1 |
+| **Gestion de Patrimoine** | Seulement 1% frais d'entrée | 1-2% + 20-30% performance | 99% frais moins élevés    |
 
-### vs Autres plateformes DeFi
+### vs Autres Plateformes DeFi
 
-| Plateforme                | Frais de gestion    | Frais de performance     | Coût total                              |
-| ------------------------- | ------------------- | ------------------------ | --------------------------------------- |
-| **Zap Pilot**             | 0%                  | 0%                       | 1% de frais d'entrée seulement          |
-| **Yearn Finance**         | 2,0% par an         | 20% sur tous les profits | Frais courants beaucoup plus élevés     |
-| **Convex**                | 17% de frais cachés | Aucun                    | Cachés dans les mécanismes du protocole |
-| **DeFi institutionnelle** | 2-4% par an         | 20-30%                   | Frais significativement plus élevés     |
+| Plateforme              | Frais de Gestion  | Frais de Performance | Coût Total                          |
+| ----------------------- | ----------------- | -------------------- | ----------------------------------- |
+| **Zap Pilot**           | 0%                | 0%                   | Seulement 1% frais d'entrée         |
+| **Yearn Finance**       | 2,0% annuellement | 20% sur tous profits | Frais continus beaucoup plus élevés |
+| **Convex**              | 17% frais cachés  | Aucun                | Caché dans mécaniques protocole     |
+| **DeFi Institutionnel** | 2-4% annuellement | 20-30%               | Frais significativement plus élevés |
 
-### vs DeFi DIY
+### vs DeFi Faites-le Vous-même
 
-#### **Coûts de la gestion par soi-même**
+#### **Coûts d'Auto-gestion**
 
-- ⛽ **Frais de gaz**: 50-200 $+ par mois pour une gestion active
-- ⏰ **Coût du temps**: 10-20 heures par mois de recherche et de gestion
-- 📉 **Coût d'opportunité**: Stratégies sous-optimales, opportunités manquées
-- 😰 **Coût du stress**: Surveillance constante, nuits blanches
+- ⛽ **Frais de Gas**: $50-200+ par mois pour gestion active
+- ⏰ **Coût du Temps**: 10-20 heures par mois recherches et gestion
+- 📉 **Coût d'Opportunité**: Stratégies sous-optimales, opportunités manquées
+- 😰 **Coût du Stress**: Surveillance constante, nuits blanches
 
-#### **Valeur de la gestion professionnelle**
+#### **Valeur de la Gestion Professionnelle**
 
-- 🎯 **Meilleurs rendements**: Les stratégies optimisées battent la plupart des approches DIY
-- ⚡ **Optimisation du gaz**: Les coûts partagés réduisent les frais de 60-80%
-- 🛡️ **Gestion des risques**: Une supervision professionnelle prévient les erreurs coûteuses
-- 😌 **Tranquillité d'esprit**: Approche "configurez-le et oubliez-le"
+- 🎯 **Meilleurs Rendements**: Stratégies optimisées battent la plupart approches DIY
+- ⚡ **Optimisation Gas**: Coûts partagés réduisent frais de 60-80%
+- 🛡️ **Gestion des Risques**: Supervision professionnelle prévient erreurs coûteuses
+- 😌 **Tranquillité d'Esprit**: Approche configurer et oublier
 
-## ⛽ Optimisation des frais de gaz
+## ⛽ Optimisation des Frais de Gas
 
-### Comment nous minimisons vos coûts
+### Comment Nous Minimisons Vos Coûts
 
-#### **Opérations par lots**
+#### **Opérations par Lot**
 
-- 🔄 **Combiner les transactions**: Plusieurs opérations en une seule transaction
-- 👥 **Coûts partagés**: Répartir les frais de gaz entre tous les utilisateurs
-- ⏰ **Optimisation du temps**: Exécuter pendant les périodes de faible gaz
-- 🎯 **Optimisation des itinéraires**: Trouver les chemins d'exécution les moins chers
+- 🔄 **Combiner transactions**: Plusieurs opérations en une seule transaction
+- 👥 **Coûts partagés**: Diviser frais de gas entre tous utilisateurs
+- ⏰ **Optimisation timing**: Exécuter pendant périodes gas faible
+- 🎯 **Optimisation routes**: Trouver chemins d'exécution moins chers
 
-#### **Intelligence inter-chaînes**
+#### **Intelligence Cross-Chain**
 
-- 🌉 **Sélection de la chaîne**: Utiliser automatiquement la chaîne la moins chère et la plus
-  appropriée
-- 🔀 **Optimisation des ponts**: Minimiser les coûts de transfert inter-chaînes
-- 📊 **Prédiction des coûts**: Surveillance en temps réel du prix du gaz
-- 🔄 **Routage adaptatif**: Changer de chaîne en fonction des coûts
+- 🌉 **Sélection chaîne**: Utiliser automatiquement chaîne la moins chère appropriée
+- 🔀 **Optimisation bridges**: Minimiser coûts transferts cross-chain
+- 📊 **Prédiction coûts**: Surveillance temps réel prix gas
+- 🔄 **Routage adaptatif**: Changer chaînes basé sur coûts
 
-#### **Exemples d'économies de gaz**
+#### **Exemples d'Économies de Gas**
 
 ```
-Gestion individuelle:
-- Rééquilibrage mensuel: 150 $ en gaz
-- Réclamation des récompenses: 50 $ en gaz
-- Changements de protocole: 100 $ en gaz
-Total: 300 $/mois
+Gestion Individuelle:
+- Rééquilibrage mensuel: $150 en gas
+- Réclamation récompenses: $50 en gas
+- Changements protocole: $100 en gas
+Total: $300/mois
 
 Gestion Zap Pilot:
-- Opérations par lots partagées: 40 $ en gaz
-- Temps optimisé: 20 $ en gaz
-- Routage efficace: 15 $ en gaz
-Total: 75 $/mois (75 % d'économies)
+- Opérations lot partagées: $40 en gas
+- Timing optimisé: $20 en gas
+- Routage efficace: $15 en gas
+Total: $75/mois (75% économie)
 ```
 
-### Transparence des frais de gaz
+### Transparence des Frais de Gas
 
-#### **Suivi en temps réel**
+#### **Suivi Temps Réel**
 
-- 📊 **Tableau de bord du gaz en direct**: Coûts actuels sur toutes les chaînes
-- 💰 **Ventilation des frais**: Exactement combien vous avez payé
-- 📈 **Rapport d'économies**: Combien vous avez économisé par rapport au DIY
-- 🎯 **Score d'optimisation**: À quel point votre gaz a été utilisé efficacement
+- 📊 **Tableau de bord gas live**: Coûts actuels sur toutes chaînes
+- 💰 **Ventilation frais**: Exactement combien vous avez payé
+- 📈 **Rapport économies**: Combien vous avez économisé vs DIY
+- 🎯 **Score optimisation**: À quel point votre gas a été utilisé efficacement
 
-#### **Coûts prévisibles**
+#### **Coûts Prévisibles**
 
-- 📅 **Estimations mensuelles**: Coûts de gaz prévus pour votre stratégie
-- ⚖️ **Plafonds de frais**: Ne payez jamais plus que les limites raisonnables
-- 🚫 **Pas de frais surprises**: Tous les coûts sont estimés à l'avance
-- 🔄 **Politique de remboursement**: Obtenez des remboursements pour les optimisations échouées
+- 📅 **Estimations mensuelles**: Coûts gas prédits pour votre stratégie
+- ⚖️ **Plafonds frais**: Ne jamais payer plus que limites raisonnables
+- 🚫 **Pas de frais surprise**: Tous coûts estimés à l'avance
+- 🔄 **Politique remboursement**: Obtenir remboursements pour optimisations échouées
 
-## 🏆 Programmes d'efficacité des frais
+## 🏆 Programmes d'Efficacité des Frais
 
-### Remises sur volume
+### Remises sur Volume
 
-#### **Niveaux d'investissement**
+#### **Niveaux d'Investissement**
 
-- 🥉 **Bronze (1K$-10K$)**: Frais standard
-- 🥈 **Argent (10K$-100K$)**: 10% de réduction sur les frais
-- 🥇 **Or (100K$-1M$)**: 25% de réduction sur les frais
-- 💎 **Platine (1M$+)**: Négociation de frais personnalisée
+- 🥉 **Bronze ($1K-$10K)**: Frais standards
+- 🥈 **Argent ($10K-$100K)**: 10% remise frais
+- 🥇 **Or ($100K-$1M)**: 25% remise frais
+- 💎 **Platine ($1M+)**: Négociation frais personnalisée
 
-#### **Récompenses de fidélité**
+#### **Récompenses Fidélité**
 
-- 📅 **6+ mois**: 5% de réduction sur les frais
-- 📅 **12+ mois**: 10% de réduction sur les frais
-- 📅 **24+ mois**: 15% de réduction sur les frais
+- 📅 **6+ mois**: 5% remise frais
+- 📅 **12+ mois**: 10% remise frais
+- 📅 **24+ mois**: 15% remise frais
 - 🏆 **Utilisateurs à vie**: Avantages spéciaux et accès anticipé
 
-### Programme de remboursement des frais
+### Programme de Remboursement de Frais
 
-#### **Partage de performance**
+#### **Partage Performance**
 
-- 🎯 **Bonus de surperformance**: Rendements supplémentaires partagés avec les utilisateurs
-- 📊 **Dépassement des objectifs**: Récompenses pour avoir dépassé les objectifs
-- 🔄 **Bonus d'efficacité**: Partage des économies d'optimisation du gaz
-- 💡 **Récompenses d'innovation**: Accès anticipé aux nouvelles stratégies
+- 🎯 **Bonus surperformance**: Rendements extra partagés avec utilisateurs
+- 📊 **Battre benchmarks**: Récompenses pour dépasser objectifs
+- 🔄 **Bonus efficacité**: Partager économies optimisation gas
+- 💡 **Récompenses innovation**: Accès anticipé nouvelles stratégies
 
-## 🧮 Calculateur de frais
+## 🧮 Calculatrice de Frais
 
-### Estimez vos coûts
+### Estimez Vos Coûts
 
-#### **Calculateur simple**
+#### **Calculatrice Simple**
 
-Montant de l'investissement: **$**\_\_\***\* Stratégie: **[Sélectionner la stratégie]** Période:
-**[Sélectionner la période]\*\*
+Montant d'Investissement: **$**\_\_\_\_ Stratégie: **[Sélectionner Stratégie]** Période:
+**[Sélectionner Période]**
 
-**Coûts annuels estimés:**
+**Coûts Annuels Estimés:**
 
-- Frais de gestion: $\_\_\_\_
-- Frais de performance attendus: $\_\_\_\_
-- Frais de gaz: $\_\_\_\_
+- Frais de Gestion: $\_\_\_\_
+- Frais Performance Attendus: $\_\_\_\_
+- Frais de Gas: $\_\_\_\_
 - **Total**: $\_\_\_\_
 
-**Rendements nets estimés:**
+**Rendements Nets Estimés:**
 
-- Rendement attendu de la stratégie: \_\_\_\_%
-- Après tous les frais: \_\_\_\_%
-- **Profit total**: $\_\_\_\_
+- Rendement Stratégie Attendu: \_\_\_\_%
+- Après Tous Frais: \_\_\_\_%
+- **Profit Total**: $\_\_\_\_
 
-👉 **[Utilisez notre calculateur interactif →](https://app.zap-pilot.com/calculator)**
+👉 **[Utiliser Notre Calculatrice Interactive →](https://app.zap-pilot.com/calculator)**
 
-## 💡 Conseils d'optimisation des frais
+## 💡 Conseils d'Optimisation des Frais
 
-### Maximisez vos rendements
+### Maximisez Vos Rendements
 
-#### **Sélection de la stratégie**
+#### **Sélection Stratégie**
 
-- 🎯 **Correspondre à la tolérance au risque**: Ne payez pas pour une complexité dont vous n'avez
-  pas besoin
-- 📊 **Considérer l'horizon temporel**: Les investissements plus longs amortissent mieux les frais
-- 💰 **Taille appropriée**: Les investissements plus importants obtiennent une meilleure efficacité
-  des frais
+- 🎯 **Correspondre tolérance risque**: Ne pas payer pour complexité non nécessaire
+- 📊 **Considérer horizon temporel**: Investissements plus longs amortissent mieux frais
+- 💰 **Dimensionner approprié**: Investissements plus grands obtiennent meilleure efficacité frais
 
-#### **Stratégies de timing**
+#### **Stratégies de Timing**
 
-- 📅 **Planification annuelle**: Les frais de performance sont réinitialisés chaque année
-- 🔄 **Fréquence de rééquilibrage**: Moins fréquent = coûts inférieurs
-- ⏰ **Timing de retrait**: Planifiez les sorties pendant les périodes de faible gaz
+- 📅 **Planification annuelle**: Frais performance se remettent à zéro chaque année
+- 🔄 **Fréquence rééquilibrage**: Moins fréquent = coûts moindres
+- ⏰ **Timing retraits**: Planifier sorties pendant périodes gas faible
 
-#### **Structure du portefeuille**
+#### **Structure Portefeuille**
 
-- 🎯 **Consolider les stratégies**: Moins de stratégies = moins de frais généraux
-- 🔄 **Auto-composition**: Laissez les rendements se composer pour maximiser l'efficacité
-- 📊 **Examens réguliers**: Optimisez la sélection de la stratégie chaque année
+- 🎯 **Consolider stratégies**: Moins stratégies = frais généraux moindres
+- 🔄 **Auto-composé**: Laisser rendements se composer pour efficacité maximale
+- 📊 **Révisions régulières**: Optimiser sélection stratégie annuellement
 
-## ❓ FAQ sur les frais
+## ❓ FAQ Frais
 
-### Questions courantes
+### Questions Communes
 
-#### **Q: Y a-t-il des frais cachés ?**
+#### **Q: Y a-t-il des frais cachés?**
 
-R: Absolument pas. Tous les frais sont divulgués à l'avance et suivis en temps réel. Les seuls coûts
-"cachés" sont les frais de gaz de la blockchain, pour lesquels nous optimisons et partageons un
-suivi transparent.
+R: [TODO: TRANSLATE] Absolutely not. All fees are disclosed upfront and tracked in real-time. The
+only "hidden" costs are blockchain gas fees, which we optimize and share transparent tracking for.
 
-#### **Q: Que se passe-t-il si je ne réalise aucun profit ?**
+#### **Q: Que se passe-t-il si je ne fais pas de profits?**
 
-R: Vous ne payez que les frais de gestion (qui couvrent les opérations). Aucun frais de performance
-n'est facturé si vous ne dépassez pas le seuil de profit.
+R: [TODO: TRANSLATE] You only pay the management fee (which covers operations). No performance fees
+are charged if you don't exceed the profit threshold.
 
-#### **Q: Les frais peuvent-ils changer sans préavis ?**
+#### **Q: Les frais peuvent-ils changer sans préavis?**
 
-R: Non. Les changements de frais nécessitent un préavis de 30 jours et ne s'appliquent qu'aux
-nouveaux dépôts. Vos investissements existants conservent leur structure de frais d'origine.
+R: [TODO: TRANSLATE] No. Fee changes require 30-day advance notice and only apply to new deposits.
+Your existing investments maintain their original fee structure.
 
-#### **Q: Comment justifiez-vous les frais de performance ?**
+#### **Q: Comment justifiez-vous les frais de performance?**
 
-R: Nous pensons qu'un frais d'entrée simple et unique de 1% est le modèle le plus transparent et le
-plus juste. Il aligne nos intérêts avec les vôtres en encourageant l'investissement à long terme, et
-non en prenant une part de vos profits.
+R: [TODO: TRANSLATE] We believe that a simple, one-time 1% entry fee is the most transparent and
+fair model. It aligns our interests with yours by encouraging long-term investment, not by taking a
+cut of your profits.
 
-#### **Q: Qu'en est-il des taxes sur les frais ?**
+#### **Q: Qu'en est-il des taxes sur les frais?**
 
-R: Les frais de performance sont généralement déductibles d'impôt en tant que dépenses
-d'investissement. Consultez votre conseiller fiscal pour des conseils spécifiques.
+R: [TODO: TRANSLATE] Performance fees are typically tax-deductible as investment expenses. Consult
+your tax advisor for specific guidance.
 
 ---
 
-## 🎯 Notre engagement
+## 🎯 Notre Engagement
 
-### Promesse de transparence des frais
+### Promesse de Transparence des Frais
 
-- 📊 **Suivi en temps réel**: Sachez toujours ce que vous payez
+- 📊 **Suivi temps réel**: Toujours savoir ce que vous payez
 - 📧 **Relevés mensuels**: Ventilations détaillées des frais
-- 🔄 **Optimisation continue**: Toujours en train de travailler pour réduire vos coûts
+- 🔄 **Optimisation continue**: Toujours travailler pour réduire vos coûts
 - 💬 **Communication ouverte**: Questions répondues rapidement et honnêtement
 
-Votre succès est notre succès. Chaque frais est conçu pour aligner nos intérêts avec les vôtres et
-offrir une valeur exceptionnelle pour votre investissement.
+Votre succès est notre succès. Chaque frais est conçu pour align nos intérêts avec les vôtres et
+délivrer une valeur exceptionnelle pour votre investissement.
 
-👉 **[Comparer les stratégies →](./strategies)**
+👉 **[Comparer les Stratégies →](./strategies)**

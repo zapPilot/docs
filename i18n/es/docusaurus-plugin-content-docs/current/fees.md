@@ -4,85 +4,54 @@ sidebar_position: 6
 
 # Tarifas y Precios
 
-**Transparente, competitivo y alineado con su éxito** 💰
+**Transparente, competitivo y alineado con tu éxito** 💰
 
-Creemos en la transparencia total de las tarifas y en alinear nuestro éxito con el suyo. Aquí le
-explicamos exactamente lo que paga y por qué nuestra estructura de tarifas está diseñada para
-maximizar sus rendimientos.
+[TODO: TRANSLATE] We believe in complete fee transparency and aligning our success with yours.
+Here's exactly what you pay and why our fee structure is designed to maximize your returns.
 
-## 💎 Resumen de la Estructura de Tarifas
+## 💎 Resumen de Estructura de Tarifas
 
 ### Nuestra Filosofía de Tarifas
 
-- 🎯 **Simple y transparente**: Una sola tarifa, sin costos ocultos
+- 🎯 **Simple y transparente**: Una tarifa, sin costos ocultos
 - 🏆 **Tarifas bajas líderes en la industria**: Solo 1% de tarifa de entrada, nada más
 - 🔍 **Sin tarifas continuas**: Sin tarifas de gestión o rendimiento
-- - ⚖️ **Pague una vez, invierta para siempre**: Nuestra única tarifa de entrada del 1% es la única
-    tarifa que pagará por ese depósito. Mientras sus fondos permanezcan invertidos, nunca le
-    cobraremos de nuevo.
+- ⚖️ **[TODO: TRANSLATE] Pay once, invest forever**: [TODO: TRANSLATE] Our single 1% entry fee is
+  the only fee you'll pay for that deposit. As long as your funds remain invested, you'll never be
+  charged by us again.
 
 ### Estructura de Tarifas
 
-| Tipo de Tarifa            | Cantidad | Cuándo se Cobra           | Qué Cubre                                      |
-| ------------------------- | -------- | ------------------------- | ---------------------------------------------- |
-| **Tarifa de Entrada**     | 1%       | Una sola vez al depositar | Todos los servicios y gestión de la plataforma |
-| **Tarifa de Gestión**     | 0%       | Nunca                     | Sin tarifas de gestión continuas               |
-| **Tarifa de Rendimiento** | 0%       | Nunca                     | Sin tarifas de rendimiento                     |
-| **Tarifa de Retiro**      | 0%       | Nunca                     | Retiros gratuitos en cualquier momento         |
+| Tipo de Tarifa            | Cantidad | Cuándo se cobra      | Qué cubre                                   |
+| ------------------------- | -------- | -------------------- | ------------------------------------------- |
+| **Tarifa de Entrada**     | 1%       | Una vez al depositar | Todos los servicios de plataforma y gestión |
+| **Tarifa de Gestión**     | 0%       | Nunca                | Sin tarifas de gestión continuas            |
+| **Tarifa de Rendimiento** | 0%       | Nunca                | Sin tarifas de rendimiento                  |
+| **Tarifa de Retiro**      | 0%       | Nunca                | Retiros gratuitos en cualquier momento      |
 
 ## 📊 Estructura de Tarifas Universal
 
-### Todas las Estrategias - Mismo Precio Simple
+### Todas las Estrategias
 
-#### 🏦 Bóvedas de Stablecoin
-
-- **Tarifa de Entrada**: 1% (una sola vez)
+- **Tarifa de Entrada**: 1% (una vez)
 - **Tarifas Continuas**: 0%
-- **Tarifa de Retiro**: Gratis
-- **Costo Anual Total**: 0% después de la entrada
-
-#### 📈 Fondos Indexados
-
-- **Tarifa de Entrada**: 1% (una sola vez)
-- **Tarifas Continuas**: 0%
-- **Tarifa de Retiro**: Gratis
-- **Costo Anual Total**: 0% después de la entrada
-
-#### ₿ Estrategias de Bitcoin
-
-- **Tarifa de Entrada**: 1% (una sola vez)
-- **Tarifas Continuas**: 0%
-- **Tarifa de Retiro**: Gratis
-- **Costo Anual Total**: 0% después de la entrada
-
-#### Ξ Estrategias de Ethereum
-
-- **Tarifa de Entrada**: 1% (una sola vez)
-- **Tarifas Continuas**: 0%
-- **Tarifa de Retiro**: Gratis
-- **Costo Anual Total**: 0% después de la entrada
-
-#### ⚙️ Estrategias Personalizadas
-
-- **Tarifa de Entrada**: 1% (una sola vez)
-- **Tarifas Continuas**: 0%
-- **Tarifa de Retiro**: Gratis
+- **Tarifa de Retiro**: Gratuito
 - **Costo Anual Total**: 0% después de la entrada
 
 ## 🎯 ¿Por qué solo 1% de Tarifa de Entrada?
 
 ### Nuestra Filosofía
 
-Creemos en alinear nuestro éxito con el suyo a través de la simplicidad, no de estructuras de
-tarifas complejas. Aquí le explicamos por qué nuestro enfoque es revolucionario:
+[TODO: TRANSLATE] We believe in aligning our success with yours through simplicity, not complex fee
+structures. Here's why our approach is revolutionary:
 
 #### **Modelo de Pago Único**
 
-- **Sin Tarifas Continuas**: Una vez que paga la tarifa de entrada del 1%, ha terminado de pagar
-  para siempre
-- **Sin Tarifas de Rendimiento**: No nos quedamos con una parte de sus ganancias
-- **Sin Tarifas de Gestión**: Sin tarifas anuales que reduzcan sus rendimientos
-- **Sin Tarifas de Retiro**: Salga en cualquier momento sin penalizaciones
+- **Sin tarifas continuas**: [TODO: TRANSLATE] Once you pay the 1% entry fee, you're done paying
+  forever
+- **Sin tarifas de rendimiento**: [TODO: TRANSLATE] We don't take a cut of your profits
+- **Sin tarifas de gestión**: [TODO: TRANSLATE] No annual fees eating into your returns
+- **Sin tarifas de retiro**: [TODO: TRANSLATE] Exit anytime without penalties
 
 #### **Ejemplo: Inversión de $10,000**
 
@@ -90,7 +59,7 @@ tarifas complejas. Aquí le explicamos por qué nuestro enfoque es revolucionari
 Plataforma Tradicional:
 - Entrada: $0
 - Tarifa de Gestión Anual: $150 (1.5%)
-- Tarifa de Rendimiento: $300 (15% de $2,000 de ganancia)
+- Tarifa de Rendimiento: $300 (15% de $2,000 ganancia)
 - Costo Total Año 1: $450
 - Costo Total 3 Años: $1,350+
 
@@ -106,104 +75,104 @@ Zap Pilot:
 
 #### **Año 1: Ventaja de Zap Pilot**
 
-En una inversión de $10,000 que rinde 20% anualmente:
+En una inversión de $10,000 que gana 20% anualmente:
 
 - **Plataforma Tradicional**: $450 en tarifas (4.5% de la inversión)
 - **Zap Pilot**: $100 en tarifas (1% de la inversión)
-- **Sus Ahorros**: $350 (78% menos en tarifas)
+- **Tus Ahorros**: $350 (78% menos en tarifas)
 
 #### **Año 3: Ahorros Masivos**
 
 Misma inversión compuesta durante 3 años:
 
 - **Plataforma Tradicional**: $1,350+ en tarifas
-- **Zap Pilot**: $100 en tarifas totales
-- **Sus Ahorros**: $1,250+ (92% menos en tarifas)
+- **Zap Pilot**: $100 tarifas totales
+- **Tus Ahorros**: $1,250+ (92% menos tarifas)
 
 ## 💸 Comparaciones de Costos
 
 ### vs Finanzas Tradicionales
 
-| Servicio                | Zap Pilot                         | Finanzas Tradicionales       | Ahorros                     |
-| ----------------------- | --------------------------------- | ---------------------------- | --------------------------- |
-| **Fondo Indexado**      | 1% de tarifa de entrada solamente | 2.5% anualmente              | 96% menos después del año 1 |
-| **Gestión Activa**      | 1% de tarifa de entrada solamente | 3-5% anualmente              | 97% menos después del año 1 |
-| **Gestión Patrimonial** | 1% de tarifa de entrada solamente | 1-2% + 20-30% de rendimiento | 99% menos tarifas           |
+| Servicio                  | Zap Pilot                 | Finanzas Tradicionales    | Ahorros                 |
+| ------------------------- | ------------------------- | ------------------------- | ----------------------- |
+| **Fondo Índice**          | Solo 1% tarifa de entrada | 2.5% anualmente           | 96% menor después año 1 |
+| **Gestión Activa**        | Solo 1% tarifa de entrada | 3-5% anualmente           | 97% menor después año 1 |
+| **Gestión de Patrimonio** | Solo 1% tarifa de entrada | 1-2% + 20-30% rendimiento | 99% tarifas menores     |
 
 ### vs Otras Plataformas DeFi
 
-| Plataforma             | Tarifa de Gestión      | Tarifa de Rendimiento         | Costo Total                          |
-| ---------------------- | ---------------------- | ----------------------------- | ------------------------------------ |
-| **Zap Pilot**          | 0%                     | 0%                            | 1% de tarifa de entrada solamente    |
-| **Yearn Finance**      | 2.0% anualmente        | 20% sobre todas las ganancias | Tarifas continuas mucho más altas    |
-| **Convex**             | 17% de tarifas ocultas | Ninguna                       | Ocultas en la mecánica del protocolo |
-| **DeFi Institucional** | 2-4% anualmente        | 20-30%                        | Tarifas significativamente más altas |
+| Plataforma             | Tarifa de Gestión   | Tarifa de Rendimiento  | Costo Total                        |
+| ---------------------- | ------------------- | ---------------------- | ---------------------------------- |
+| **Zap Pilot**          | 0%                  | 0%                     | Solo 1% tarifa de entrada          |
+| **Yearn Finance**      | 2.0% anualmente     | 20% en todas ganancias | Tarifas continuas mucho mayores    |
+| **Convex**             | 17% tarifas ocultas | Ninguna                | Oculto en mecánicas de protocolo   |
+| **DeFi Institucional** | 2-4% anualmente     | 20-30%                 | Tarifas significativamente mayores |
 
-### vs DeFi DIY
+### vs DeFi Hazlo Tú Mismo
 
-#### **Costos de Gestionarse Usted Mismo**
+#### **Costos de Autogestión**
 
 - ⛽ **Tarifas de Gas**: $50-200+ por mes para gestión activa
-- ⏰ **Costo de Tiempo**: 10-20 horas por mes de investigación y gestión
+- ⏰ **Costo de Tiempo**: 10-20 horas por mes investigación y gestión
 - 📉 **Costo de Oportunidad**: Estrategias subóptimas, oportunidades perdidas
 - 😰 **Costo de Estrés**: Monitoreo constante, noches sin dormir
 
-#### **Valor de la Gestión Profesional**
+#### **Valor de Gestión Profesional**
 
-- 🎯 **Mejores Rendimientos**: Estrategias optimizadas superan la mayoría de los enfoques DIY
-- ⚡ **Optimización de Gas**: Los costos compartidos reducen las tarifas en un 60-80%
+- 🎯 **Mejores Rendimientos**: Estrategias optimizadas superan la mayoría de enfoques DIY
+- ⚡ **Optimización de Gas**: Costos compartidos reducen tarifas 60-80%
 - 🛡️ **Gestión de Riesgos**: Supervisión profesional previene errores costosos
-- 😌 **Tranquilidad**: Enfoque de "configúralo y olvídate"
+- 😌 **Tranquilidad**: Enfoque de configurar y olvidar
 
 ## ⛽ Optimización de Tarifas de Gas
 
-### Cómo Minimizamos Sus Costos
+### Cómo Minimizamos Tus Costos
 
 #### **Operaciones por Lotes**
 
 - 🔄 **Combinar transacciones**: Múltiples operaciones en una sola transacción
-- 👥 **Costos compartidos**: Dividir las tarifas de gas entre todos los usuarios
-- ⏰ **Optimización de tiempo**: Ejecutar durante períodos de bajo gas
-- 🎯 **Optimización de rutas**: Encontrar las rutas de ejecución más baratas
+- 👥 **Costos compartidos**: Dividir tarifas de gas entre todos los usuarios
+- ⏰ **Optimización de tiempo**: Ejecutar durante períodos de gas bajo
+- 🎯 **Optimización de rutas**: Encontrar rutas de ejecución más baratas
 
 #### **Inteligencia Cross-Chain**
 
-- 🌉 **Selección de cadena**: Usar automáticamente la cadena más barata y adecuada
-- 🔀 **Optimización de puentes**: Minimizar los costos de transferencia entre cadenas
-- 📊 **Predicción de costos**: Monitoreo en tiempo real del precio del gas
-- 🔄 **Enrutamiento adaptativo**: Cambiar de cadena según los costos
+- 🌉 **Selección de cadena**: Usar automáticamente la cadena más barata adecuada
+- 🔀 **Optimización de puentes**: Minimizar costos de transferencia cross-chain
+- 📊 **Predicción de costos**: Monitoreo en tiempo real de precios de gas
+- 🔄 **Enrutamiento adaptativo**: Cambiar cadenas basado en costos
 
 #### **Ejemplos de Ahorro de Gas**
 
 ```
 Gestión Individual:
-- Reequilibrio mensual: $150 en gas
-- Reclamación de recompensas: $50 en gas
+- Rebalanceo mensual: $150 en gas
+- Reclamar recompensas: $50 en gas
 - Cambios de protocolo: $100 en gas
 Total: $300/mes
 
-Gestión de Zap Pilot:
+Gestión Zap Pilot:
 - Operaciones por lotes compartidas: $40 en gas
-- Tiempo optimizado: $20 en gas
+- Timing optimizado: $20 en gas
 - Enrutamiento eficiente: $15 en gas
-Total: $75/mes (75% de ahorro)
+Total: $75/mes (75% ahorro)
 ```
 
 ### Transparencia de Tarifas de Gas
 
 #### **Seguimiento en Tiempo Real**
 
-- 📊 **Panel de gas en vivo**: Costos actuales en todas las cadenas
-- 💰 **Desglose de tarifas**: Exactamente cuánto ha pagado
-- 📈 **Informe de ahorros**: Cuánto ha ahorrado vs DIY
-- 🎯 **Puntuación de optimización**: Qué tan eficientemente se usó su gas
+- 📊 **Dashboard de gas en vivo**: Costos actuales en todas las cadenas
+- 💰 **Desglose de tarifas**: Exactamente cuánto has pagado
+- 📈 **Reporte de ahorros**: Cuánto has ahorrado vs DIY
+- 🎯 **Puntuación de optimización**: Qué tan eficientemente se usó tu gas
 
 #### **Costos Predecibles**
 
-- 📅 **Estimaciones mensuales**: Costos de gas previstos para su estrategia
-- ⚖️ **Límites de tarifas**: Nunca pague más de los límites razonables
+- 📅 **Estimaciones mensuales**: Costos de gas predichos para tu estrategia
+- ⚖️ **Límites de tarifas**: Nunca pagar más que límites razonables
 - 🚫 **Sin cargos sorpresa**: Todos los costos estimados por adelantado
-- 🔄 **Política de reembolso**: Obtenga reembolsos por optimizaciones fallidas
+- 🔄 **Política de reembolso**: Obtener reembolsos por optimizaciones fallidas
 
 ## 🏆 Programas de Eficiencia de Tarifas
 
@@ -212,34 +181,34 @@ Total: $75/mes (75% de ahorro)
 #### **Niveles de Inversión**
 
 - 🥉 **Bronce ($1K-$10K)**: Tarifas estándar
-- 🥈 **Plata ($10K-$100K)**: 10% de descuento en tarifas
-- 🥇 **Oro ($100K-$1M)**: 25% de descuento en tarifas
-- 💎 **Platino ($1M+)**: Negociación de tarifas personalizada
+- 🥈 **Plata ($10K-$100K)**: 10% descuento en tarifas
+- 🥇 **Oro ($100K-$1M)**: 25% descuento en tarifas
+- 💎 **Platino ($1M+)**: Negociación personalizada de tarifas
 
-#### **Recompensas por Lealtad**
+#### **Recompensas de Lealtad**
 
-- 📅 **6+ meses**: 5% de descuento en tarifas
-- 📅 **12+ meses**: 10% de descuento en tarifas
-- 📅 **24+ meses**: 15% de descuento en tarifas
-- 🏆 **Usuarios de por vida**: Beneficios especiales y acceso anticipado
+- 📅 **6+ meses**: 5% descuento en tarifas
+- 📅 **12+ meses**: 10% descuento en tarifas
+- 📅 **24+ meses**: 15% descuento en tarifas
+- 🏆 **Usuarios de por vida**: Beneficios especiales y acceso temprano
 
 ### Programa de Reembolso de Tarifas
 
 #### **Compartir Rendimiento**
 
-- 🎯 **Bono por rendimiento superior**: Rendimientos adicionales compartidos con los usuarios
-- 📊 **Superación de puntos de referencia**: Recompensas por superar los objetivos
+- 🎯 **Bono de sobrerendimiento**: Rendimientos extra compartidos con usuarios
+- 📊 **Superar benchmarks**: Recompensas por exceder objetivos
 - 🔄 **Bonos de eficiencia**: Compartir ahorros de optimización de gas
-- 💡 **Recompensas por innovación**: Acceso anticipado a nuevas estrategias
+- 💡 **Recompensas de innovación**: Acceso temprano a nuevas estrategias
 
 ## 🧮 Calculadora de Tarifas
 
-### Estime Sus Costos
+### Estima Tus Costos
 
 #### **Calculadora Simple**
 
-Cantidad de Inversión: **$**\_\_\***\* Estrategia: **[Seleccionar Estrategia]** Período de Tiempo:
-**[Seleccionar Período]\*\*
+Cantidad de Inversión: **$**\_\_\_\_ Estrategia: **[Seleccionar Estrategia]** Período de Tiempo:
+**[Seleccionar Período]**
 
 **Costos Anuales Estimados:**
 
@@ -250,65 +219,63 @@ Cantidad de Inversión: **$**\_\_\***\* Estrategia: **[Seleccionar Estrategia]**
 
 **Rendimientos Netos Estimados:**
 
-- Rendimiento Esperado de la Estrategia: \_\_\_\_%
+- Rendimiento Esperado de Estrategia: \_\_\_\_%
 - Después de Todas las Tarifas: \_\_\_\_%
 - **Ganancia Total**: $\_\_\_\_
 
-👉 **[Use Nuestra Calculadora Interactiva →](https://app.zap-pilot.com/calculator)**
+👉 **[Usar Nuestra Calculadora Interactiva →](https://app.zap-pilot.com/calculator)**
 
 ## 💡 Consejos de Optimización de Tarifas
 
-### Maximice Sus Rendimientos
+### Maximiza Tus Rendimientos
 
 #### **Selección de Estrategia**
 
-- 🎯 **Coincidir con la tolerancia al riesgo**: No pague por una complejidad que no necesita
-- 📊 **Considerar el horizonte temporal**: Las inversiones a más largo plazo amortizan mejor las
-  tarifas
-- 💰 **Tamaño apropiado**: Las inversiones más grandes obtienen una mejor eficiencia de tarifas
+- 🎯 **Coincidir tolerancia al riesgo**: No pagar por complejidad que no necesitas
+- 📊 **Considerar horizonte temporal**: Inversiones más largas amortizan mejor las tarifas
+- 💰 **Dimensionar apropiadamente**: Inversiones más grandes obtienen mejor eficiencia de tarifas
 
-#### **Estrategias de Tiempo**
+#### **Estrategias de Timing**
 
-- 📅 **Planificación anual**: Las tarifas de rendimiento se restablecen cada año
-- 🔄 **Frecuencia de reequilibrio**: Menos frecuente = menores costos
-- ⏰ **Momento de retiro**: Planifique las salidas durante períodos de bajo gas
+- 📅 **Planificación anual**: Las tarifas de rendimiento se reinician cada año
+- 🔄 **Frecuencia de rebalanceo**: Menos frecuente = costos menores
+- ⏰ **Timing de retiros**: Planificar salidas durante períodos de gas bajo
 
-#### **Estructura de la Cartera**
+#### **Estructura de Portafolio**
 
-- 🎯 **Consolidar estrategias**: Menos estrategias = menor sobrecarga
-- 🔄 **Auto-composición**: Deje que los rendimientos se compongan para maximizar la eficiencia
-- 📊 **Revisiones regulares**: Optimice la selección de estrategias anualmente
+- 🎯 **Consolidar estrategias**: Menos estrategias = menor overhead
+- 🔄 **Auto-compound**: Dejar que los rendimientos se compongan para máxima eficiencia
+- 📊 **Revisiones regulares**: Optimizar selección de estrategia anualmente
 
-## ❓ Preguntas Frecuentes sobre Tarifas
+## ❓ FAQs de Tarifas
 
 ### Preguntas Comunes
 
 #### **P: ¿Hay tarifas ocultas?**
 
-R: Absolutamente no. Todas las tarifas se revelan por adelantado y se rastrean en tiempo real. Los
-únicos costos "ocultos" son las tarifas de gas de la blockchain, para las cuales optimizamos y
-compartimos un seguimiento transparente.
+R: [TODO: TRANSLATE] Absolutely not. All fees are disclosed upfront and tracked in real-time. The
+only "hidden" costs are blockchain gas fees, which we optimize and share transparent tracking for.
 
 #### **P: ¿Qué pasa si no obtengo ganancias?**
 
-R: Solo paga la tarifa de gestión (que cubre las operaciones). No se cobran tarifas de rendimiento
-si no supera el umbral de ganancias.
+R: [TODO: TRANSLATE] You only pay the management fee (which covers operations). No performance fees
+are charged if you don't exceed the profit threshold.
 
-#### **P: ¿Pueden cambiar las tarifas sin previo aviso?**
+#### **P: ¿Pueden cambiar las tarifas sin aviso?**
 
-R: No. Los cambios de tarifas requieren un aviso con 30 días de anticipación y solo se aplican a
-nuevos depósitos. Sus inversiones existentes mantienen su estructura de tarifas original.
+R: [TODO: TRANSLATE] No. Fee changes require 30-day advance notice and only apply to new deposits.
+Your existing investments maintain their original fee structure.
 
 #### **P: ¿Cómo justifican las tarifas de rendimiento?**
 
-R: Creemos que una tarifa de entrada simple y única del 1% es el modelo más transparente y justo.
-Alinea nuestros intereses con los suyos al fomentar la inversión a largo plazo, no al tomar una
-parte de sus ganancias.
+R: [TODO: TRANSLATE] We believe that a simple, one-time 1% entry fee is the most transparent and
+fair model. It aligns our interests with yours by encouraging long-term investment, not by taking a
+cut of your profits.
 
-#### **P: ¿Qué pasa con los impuestos sobre las tarifas?**
+#### **P: ¿Qué pasa con los impuestos sobre tarifas?**
 
-R: Las tarifas de rendimiento suelen ser deducibles de impuestos como gastos de inversión. Consulte
-a su asesor fiscal para obtener orientación específica.
+R: [TODO: TRANSLATE] Performance fees are typically tax-deductible as investment expenses. Consult
+your tax advisor for specific guidance.
 
 ---
 
@@ -316,12 +283,12 @@ a su asesor fiscal para obtener orientación específica.
 
 ### Promesa de Transparencia de Tarifas
 
-- 📊 **Seguimiento en tiempo real**: Siempre sepa lo que está pagando
-- 📧 **Estados de cuenta mensuales**: Desgloses detallados de tarifas
-- 🔄 **Optimización continua**: Siempre trabajando para reducir sus costos
-- 💬 **Comunicación abierta**: Preguntas respondidas de manera rápida y honesta
+- 📊 **Seguimiento en tiempo real**: Siempre saber qué estás pagando
+- 📧 **Estados mensuales**: Desgloses detallados de tarifas
+- 🔄 **Optimización continua**: Siempre trabajando para reducir tus costos
+- 💬 **Comunicación abierta**: Preguntas respondidas rápida y honestamente
 
-Su éxito es nuestro éxito. Cada tarifa está diseñada para alinear nuestros intereses con los suyos y
-ofrecer un valor excepcional para su inversión.
+Tu éxito es nuestro éxito. Cada tarifa está diseñada para alinear nuestros intereses con los tuyos y
+entregar valor excepcional para tu inversión.
 
 👉 **[Comparar Estrategias →](./strategies)**

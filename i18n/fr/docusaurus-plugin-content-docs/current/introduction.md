@@ -12,6 +12,8 @@ Pour les utilisateurs DeFi occupés, Zap Pilot réduit le rééquilibrage de por
 à 30 secondes, déplaçant vos cryptomonnaies entre les chaînes vers des pools à plus haut rendement
 en un clic tandis que chaque token reste dans votre propre portefeuille.
 
+[pitch deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)
+
 ## 🎯 Le problème que nous résolvons
 
 L'investissement DeFi traditionnel est **compliqué** :

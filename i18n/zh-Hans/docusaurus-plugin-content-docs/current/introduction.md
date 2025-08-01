@@ -11,6 +11,8 @@ sidebar_position: 1
 针对繁忙的DeFi用户，Zap
 Pilot将投资组合再平衡从30分钟缩短到30秒，一键将您的加密货币跨链转移到更高收益的池中，而每个代币都保留在您自己的钱包中。
 
+[pitch deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)
+
 ## 🎯 我们解决的问题
 
 传统的 DeFi 投资非常**复杂**：
