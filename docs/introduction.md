@@ -11,6 +11,8 @@ We’re an on-chain portfolio autopilot.
 For busy DeFi users, Zap Pilot cuts portfolio rebalancing from 30 min to 30 sec, moving your crypto
 across chains into higher-yield pools with one click while every token stays in your own wallet.
 
+[pitch deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)
+
 ## 🎯 The Problem We Solve
 
 Traditional DeFi investing is **complicated**:

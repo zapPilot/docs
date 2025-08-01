@@ -47,7 +47,12 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Safety & Security',
-      items: ['security/index'],
+      items: ['security/index', 'security/incidents'],
+    },
+    {
+      type: 'category',
+      label: 'Tokenomics',
+      items: ['tokenomics/tokenomics', 'tokenomics/compensation_plan'],
     },
     'about',
     'fees',

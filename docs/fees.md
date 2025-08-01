@@ -30,37 +30,7 @@ pay and why our fee structure is designed to maximize your returns.
 
 ## 📊 Universal Fee Structure
 
-### All Strategies - Same Simple Pricing
-
-#### 🏦 Stablecoin Vaults
-
-- **Entry Fee**: 1% (one-time)
-- **Ongoing Fees**: 0%
-- **Withdrawal Fee**: Free
-- **Total Annual Cost**: 0% after entry
-
-#### 📈 Index Funds
-
-- **Entry Fee**: 1% (one-time)
-- **Ongoing Fees**: 0%
-- **Withdrawal Fee**: Free
-- **Total Annual Cost**: 0% after entry
-
-#### ₿ Bitcoin Strategies
-
-- **Entry Fee**: 1% (one-time)
-- **Ongoing Fees**: 0%
-- **Withdrawal Fee**: Free
-- **Total Annual Cost**: 0% after entry
-
-#### Ξ Ethereum Strategies
-
-- **Entry Fee**: 1% (one-time)
-- **Ongoing Fees**: 0%
-- **Withdrawal Fee**: Free
-- **Total Annual Cost**: 0% after entry
-
-#### ⚙️ Custom Strategies
+### All Strategies
 
 - **Entry Fee**: 1% (one-time)
 - **Ongoing Fees**: 0%
