@@ -1,99 +1,95 @@
-# [TODO: TRANSLATE] Zap Pilot Tokenomics (v2 – 2025)
+# Zap Pilot 代幣經濟學 (v2 – 2025)
 
-## [TODO: TRANSLATE] Overview
+## 總覽
 
-Zap Pilot [TODO: TRANSLATE] is an on-chain portfolio autopilot. For busy DeFi users, Zap Pilot cuts
-portfolio rebalancing from 30 min to 30 sec — moving your crypto across chains into higher-yield
-pools with one click, while every token stays in your own wallet.
+Zap Pilot 是一個鏈上投資組合自動駕駛儀。對於忙碌的 DeFi 用戶，Zap
+Pilot 將投資組合再平衡時間從 30 分鐘縮短到 30 秒——一鍵將您的加密貨幣跨鏈轉移到更高收益的資金池中，而所有代幣都保留在您自己的錢包中。
 
-[TODO: TRANSLATE] The $ZAP token uses a buyback-based token economy: no staking, no passive rewards,
-no empty emissions — just value aligned with actual protocol usage.
+$ZAP 代幣採用基於回購的代幣經濟：沒有質押，沒有被動獎勵，沒有空洞的排放——只有與實際協議使用情況相符的價值。
 
-## [TODO: TRANSLATE] Token Details
+## 代幣詳情
 
-| [TODO: TRANSLATE] Field         | [TODO: TRANSLATE] Value                               |
-| ------------------------------- | ----------------------------------------------------- |
-| [TODO: TRANSLATE] Name          | Zap Pilot Token                                       |
-| [TODO: TRANSLATE] Symbol        | $ZAP ([TODO: TRANSLATE] tentative, may rebrand)       |
-| [TODO: TRANSLATE] Supply Cap    | 100,000,000 ([TODO: TRANSLATE] fixed)                 |
-| [TODO: TRANSLATE] Standard      | LayerZero OFT ([TODO: TRANSLATE] Omnichain)           |
-| [TODO: TRANSLATE] Issuance      | Via ThirdWeb + LayerZero                              |
-| [TODO: TRANSLATE] Primary Chain | Base ([TODO: TRANSLATE] with Optimism, Polygon, etc.) |
+| 欄位     | 值                               |
+| -------- | -------------------------------- |
+| 名稱     | Zap Pilot 代幣                   |
+| 符號     | $ZAP (暫定，可能會更名)          |
+| 供應上限 | 100,000,000 (固定)               |
+| 標準     | LayerZero OFT (全鏈)             |
+| 發行     | 透過 ThirdWeb + LayerZero        |
+| 主鏈     | Base (以及 Optimism, Polygon 等) |
 
-## [TODO: TRANSLATE] Utility & Design Philosophy
+## 效用與設計理念
 
-[TODO: TRANSLATE] No staking, no protocol-controlled yield. Instead: Every fee collected → used to
-buy $ZAP from the market → price support via real usage.
+無質押，無協議控制的收益。相反：收取的每一筆費用 → 用於從市場上購買 $ZAP → 透過實際使用來支持價格。
 
-| [TODO: TRANSLATE] Utility                                                      | [TODO: TRANSLATE] Description                                               | [TODO: TRANSLATE] Price Support |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ------------------------------- |
-| [TODO: TRANSLATE] Protocol fees are used to buy $ZAP via Uniswap or other DEXs |                                                                             | ✅                              |
-| [TODO: TRANSLATE] User Incentives                                              | [TODO: TRANSLATE] Distributed via retroactive airdrops based on Zap Score   |                                 |
-| [TODO: TRANSLATE] Governance (optional)                                        | [TODO: TRANSLATE] $ZAP may be used for future DAO voting or proposal rights |                                 |
+| 效用                                          | 描述                               | 價格支持 |
+| --------------------------------------------- | ---------------------------------- | -------- |
+| 協議費用用於透過 Uniswap 或其他 DEX 購買 $ZAP |                                    | ✅       |
+| 用戶激勵                                      | 基於 Zap Score 透過追溯空投分發    |          |
+| 治理 (可選)                                   | $ZAP 可用於未來的 DAO 投票或提案權 |          |
 
-## [TODO: TRANSLATE] Buyback Mechanism
+## 回購機制
 
-| [TODO: TRANSLATE] Component                                            | [TODO: TRANSLATE] Implementation                                          | [TODO: TRANSLATE] Source of Funds |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
-| [TODO: TRANSLATE] Protocol-level zap-in fees (ETH / USDC)              |                                                                           |                                   |
-| [TODO: TRANSLATE] Automated or manual buybacks on DEXs (e.g., Uniswap) |                                                                           |                                   |
-| [TODO: TRANSLATE] Token Handling                                       | [TODO: TRANSLATE] Burned or redirected to DAO treasury                    |                                   |
-| [TODO: TRANSLATE] Transparency                                         | [TODO: TRANSLATE] Weekly public reporting of buyback volume (optional UI) |                                   |
+| 組件                                       | 實現                             | 資金來源 |
+| ------------------------------------------ | -------------------------------- | -------- |
+| 協議級注入費用 (ETH / USDC)                |                                  |          |
+| 在 DEX (例如 Uniswap) 上進行自動或手動回購 |                                  |          |
+| 代幣處理                                   | 銷毀或重定向到 DAO 金庫          |          |
+| 透明度                                     | 每週公開發布回購量報告 (可選 UI) |          |
 
-## [TODO: TRANSLATE] Token Allocation
+## 代幣分配
 
-| [TODO: TRANSLATE] Category                 | [TODO: TRANSLATE] % Allocation | [TODO: TRANSLATE] Notes                                                   |
-| ------------------------------------------ | ------------------------------ | ------------------------------------------------------------------------- |
-| [TODO: TRANSLATE] User Airdrop (Zap Score) | 40%                            | [TODO: TRANSLATE] Based on usage, referrals, social engagement            |
-| [TODO: TRANSLATE] Team                     | 20%                            | [TODO: TRANSLATE] 1-year cliff + 2-year linear vesting                    |
-| [TODO: TRANSLATE] Partners & Advisors      | 10%                            | [TODO: TRANSLATE] Includes incubators (1–2%), launchpads (1–2%), KOL pool |
-| [TODO: TRANSLATE] DAO Treasury             | 20%                            | [TODO: TRANSLATE] Buybacks, incentive campaigns, governance               |
-| [TODO: TRANSLATE] Liquidity Bootstrapping  | 10%                            | Uniswap/Aerodrome LP [TODO: TRANSLATE] seeding                            |
+| 類別                 | 分配比例 | 備註                                       |
+| -------------------- | -------- | ------------------------------------------ |
+| 用戶空投 (Zap Score) | 40%      | 基於使用情況、推薦、社交參與               |
+| 團隊                 | 20%      | 1 年懸崖期 + 2 年線性釋放                  |
+| 合作夥伴與顧問       | 10%      | 包括孵化器 (1–2%)、啟動平台 (1–2%)、KOL 池 |
+| DAO 金庫             | 20%      | 回購、激勵活動、治理                       |
+| 流動性引導           | 10%      | Uniswap/Aerodrome LP 種子資金              |
 
-[TODO: TRANSLATE] Partner/Advisor tokens are vested based on contribution type, generally using a
-6-month cliff + 12-month linear unlock, but flexible per case.
+合作夥伴/顧問代幣根據貢獻類型进行歸屬，通常採用 6 個月懸崖期 +
+12 個月線性解鎖，但可根據具體情況靈活調整。
 
-## [TODO: TRANSLATE] Zap Score-Based Airdrop
+## 基於 Zap Score 的空投
 
-| [TODO: TRANSLATE] Metric            | [TODO: TRANSLATE] Weight | [TODO: TRANSLATE] Example |
-| ----------------------------------- | ------------------------ | ------------------------- |
-| [TODO: TRANSLATE] Zap-in Volume     | 40%                      |                           |
-| [TODO: TRANSLATE] Zap-in Frequency  | 40%                      |                           |
-| [TODO: TRANSLATE] Referrals         | 10%                      |                           |
-| [TODO: TRANSLATE] Community Actions | 10%                      |                           |
+| 指標     | 權重 | 範例 |
+| -------- | ---- | ---- |
+| 注入量   | 40%  |      |
+| 注入頻率 | 40%  |      |
+| 推薦     | 10%  |      |
+| 社區行動 | 10%  |      |
 
-[TODO: TRANSLATE] Zap Score is off-chain, tracked via backend, Notion or Sheets. Airdrop
-distribution is staged, and partially locked to prevent instant dumping.
+Zap
+Score 是鏈下的，透過後端、Notion 或 Sheets 進行跟踪。空投分發是分階段的，並部分鎖定以防止即時拋售。
 
-## [TODO: TRANSLATE] Tech Stack Overview
+## 技術棧總覽
 
-| [TODO: TRANSLATE] Function              | [TODO: TRANSLATE] Tool/Provider                           | [TODO: TRANSLATE] Notes |
-| --------------------------------------- | --------------------------------------------------------- | ----------------------- |
-| [TODO: TRANSLATE] Intent Infrastructure | Thirdweb/ZeroDev (EIP-7702 + Paymaster)                   |                         |
-| [TODO: TRANSLATE] Token Infrastructure  | ThirdWeb + LayerZero (OFT)                                |                         |
-| [TODO: TRANSLATE] Buyback Script        | Node.js + Uniswap SDK [TODO: TRANSLATE] or custom relayer |                         |
-| [TODO: TRANSLATE] Score Tracking        | Notion / Airtable / Firebase                              |                         |
-| [TODO: TRANSLATE] Airdrop Tools         | ThirdWeb SDK / Galxe / Airdrop.so                         |                         |
-| [TODO: TRANSLATE] LPs & Launchpads      | Uniswap / Aerodrome / [TODO: TRANSLATE] Partnered IDO     |                         |
+| 功能          | 工具/提供商                             | 備註 |
+| ------------- | --------------------------------------- | ---- |
+| 意圖基礎設施  | Thirdweb/ZeroDev (EIP-7702 + Paymaster) |      |
+| 代幣基礎設施  | ThirdWeb + LayerZero (OFT)              |      |
+| 回購腳本      | Node.js + Uniswap SDK 或自定義中繼器    |      |
+| 分數跟踪      | Notion / Airtable / Firebase            |      |
+| 空投工具      | ThirdWeb SDK / Galxe / Airdrop.so       |      |
+| LP 和啟動平台 | Uniswap / Aerodrome / 合作的 IDO        |      |
 
-## [TODO: TRANSLATE] Launchpad & Partner Vesting
+## 啟動平台和合作夥伴歸屬
 
-[TODO: TRANSLATE] Tokens allocated to launchpads or advisors follow a 6-month cliff + 12-month
-linear vesting schedule. For example, if a launchpad receives 2,000,000 $ZAP:
+分配給啟動平台或顧問的代幣遵循 6 個月懸崖期 +
+12 個月線性歸屬時間表。例如，如果一個啟動平台收到 2,000,000 $ZAP：
 
-- [TODO: TRANSLATE] Months 1–6: 0% unlocked
-- [TODO: TRANSLATE] Month 7 onward: unlocks 1/12 per month (≈166,666 tokens per month)
-- [TODO: TRANSLATE] Fully unlocked after month 18
+- 第 1-6 個月：0% 解鎖
+- 第 7 個月起：每月解鎖 1/12 (約 166,666 個代幣/月)
+- 第 18 個月後完全解鎖
 
-[TODO: TRANSLATE] Vesting schedules are flexible and negotiated based on actual value contributed
-(e.g. marketing push, liquidity support, advisory work).
+歸屬時間表是靈活的，並根據實際貢獻的價值進行協商 (例如，行銷推廣、流動性支持、顧問工作)。
 
-## [TODO: TRANSLATE] Why This Model Works
+## 為甚麼這個模型有效
 
-| [TODO: TRANSLATE] Feature                | [TODO: TRANSLATE] Benefit                                          |
-| ---------------------------------------- | ------------------------------------------------------------------ |
-| [TODO: TRANSLATE] No staking             | [TODO: TRANSLATE] No contract risk, no passive yield dilution      |
-| [TODO: TRANSLATE] Buyback-based          | [TODO: TRANSLATE] Price is backed by real usage & revenue          |
-| [TODO: TRANSLATE] Fair Airdrop           | [TODO: TRANSLATE] Encourages real participation, not speculation   |
-| [TODO: TRANSLATE] OFT design             | [TODO: TRANSLATE] Native cross-chain movement via LayerZero        |
-| [TODO: TRANSLATE] Smart EOA wallet infra | [TODO: TRANSLATE] Seamless UX for end users, gas sponsorship ready |
+| 特性                  | 好處                                          |
+| --------------------- | --------------------------------------------- |
+| 無質押                | 無合約風險，無被動收益稀釋                    |
+| 基於回購              | 價格由實際使用和收入支持                      |
+| 公平空投              | 鼓勵真實參與，而非投機                        |
+| OFT 設計              | 透過 LayerZero 實現原生跨鏈移動               |
+| 智能 EOA 錢包基礎設施 | 為最終用戶提供無縫的用戶體驗，準備好 Gas 贊助 |

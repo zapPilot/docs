@@ -6,19 +6,20 @@ sidebar_position: 6
 
 **Transparent, compétitif et aligné sur votre succès** 💰
 
-[TODO: TRANSLATE] We believe in complete fee transparency and aligning our success with yours.
-Here's exactly what you pay and why our fee structure is designed to maximize your returns.
+Nous croyons en une transparence totale des frais et à l'alignement de notre succès sur le vôtre.
+Voici exactement ce que vous payez et pourquoi notre structure de frais est conçue pour maximiser
+vos rendements.
 
 ## 💎 Aperçu de la Structure des Frais
 
 ### Notre Philosophie des Frais
 
-- 🎯 **[TODO: TRANSLATE] Simple and transparent**: Un frais, pas de coûts cachés
-- 🏆 **[TODO: TRANSLATE] Industry-leading low fees**: Seulement 1% de frais d'entrée, rien d'autre
+- 🎯 **Simple et transparent**: Un frais, pas de coûts cachés
+- 🏆 **Frais les plus bas du secteur**: Seulement 1% de frais d'entrée, rien d'autre
 - 🔍 **Pas de frais continus**: Pas de frais de gestion ou de performance
-- ⚖️ **[TODO: TRANSLATE] Pay once, invest forever**: [TODO: TRANSLATE] Our single 1% entry fee is
-  the only fee you'll pay for that deposit. As long as your funds remain invested, you'll never be
-  charged by us again.
+- ⚖️ **Payez une fois, investissez pour toujours**: Nos frais d'entrée uniques de 1% sont les seuls
+  que vous paierez pour ce dépôt. Tant que vos fonds restent investis, nous ne vous facturerons plus
+  jamais.
 
 ### Structure des Frais
 
@@ -42,16 +43,16 @@ Here's exactly what you pay and why our fee structure is designed to maximize yo
 
 ### Notre Philosophie
 
-[TODO: TRANSLATE] We believe in aligning our success with yours through simplicity, not complex fee
-structures. Here's why our approach is revolutionary:
+Nous croyons qu'il faut aligner notre succès sur le vôtre par la simplicité, et non par des
+structures de frais complexes. Voici pourquoi notre approche est révolutionnaire:
 
-#### **[TODO: TRANSLATE] One-Time Payment Model**
+#### **Modèle de Paiement Unique**
 
-- **Pas de frais continus**: [TODO: TRANSLATE] Once you pay the 1% entry fee, you're done paying
-  forever
-- **Pas de frais de performance**: [TODO: TRANSLATE] We don't take a cut of your profits
-- **Pas de frais de gestion**: [TODO: TRANSLATE] No annual fees eating into your returns
-- **Pas de frais de retrait**: [TODO: TRANSLATE] Exit anytime without penalties
+- **Pas de frais continus**: Une fois que vous avez payé les frais d'entrée de 1%, vous n'avez plus
+  jamais à payer
+- **Pas de frais de performance**: Nous ne prenons pas de part de vos bénéfices
+- **Pas de frais de gestion**: Pas de frais annuels qui grugent vos rendements
+- **Pas de frais de retrait**: Sortez à tout moment sans pénalités
 
 #### **Exemple: Investissement de $10,000**
 
@@ -253,29 +254,30 @@ Montant d'Investissement: **$**\_\_\_\_ Stratégie: **[Sélectionner Stratégie]
 
 #### **Q: Y a-t-il des frais cachés?**
 
-R: [TODO: TRANSLATE] Absolutely not. All fees are disclosed upfront and tracked in real-time. The
-only "hidden" costs are blockchain gas fees, which we optimize and share transparent tracking for.
+R: Absolument pas. Tous les frais sont divulgués à l'avance et suivis en temps réel. Les seuls coûts
+« cachés » sont les frais de gaz de la blockchain, que nous optimisons et pour lesquels nous
+partageons un suivi transparent.
 
 #### **Q: Que se passe-t-il si je ne fais pas de profits?**
 
-R: [TODO: TRANSLATE] You only pay the management fee (which covers operations). No performance fees
-are charged if you don't exceed the profit threshold.
+R: Vous ne payez que les frais de gestion (qui couvrent les opérations). Aucun frais de performance
+n'est facturé si vous ne dépassez pas le seuil de rentabilité.
 
 #### **Q: Les frais peuvent-ils changer sans préavis?**
 
-R: [TODO: TRANSLATE] No. Fee changes require 30-day advance notice and only apply to new deposits.
-Your existing investments maintain their original fee structure.
+R: Non. Les modifications de frais nécessitent un préavis de 30 jours et ne s'appliquent qu'aux
+nouveaux dépôts. Vos investissements existants conservent leur structure de frais d'origine.
 
 #### **Q: Comment justifiez-vous les frais de performance?**
 
-R: [TODO: TRANSLATE] We believe that a simple, one-time 1% entry fee is the most transparent and
-fair model. It aligns our interests with yours by encouraging long-term investment, not by taking a
-cut of your profits.
+R: Nous pensons qu'un simple frais d'entrée unique de 1 % est le modèle le plus transparent et le
+plus juste. Il aligne nos intérêts sur les vôtres en encourageant l'investissement à long terme, et
+non en prenant une part de vos bénéfices.
 
 #### **Q: Qu'en est-il des taxes sur les frais?**
 
-R: [TODO: TRANSLATE] Performance fees are typically tax-deductible as investment expenses. Consult
-your tax advisor for specific guidance.
+R: Les frais de performance sont généralement déductibles d'impôt en tant que frais de placement.
+Consultez votre conseiller fiscal pour obtenir des conseils spécifiques.
 
 ---
 
@@ -288,7 +290,7 @@ your tax advisor for specific guidance.
 - 🔄 **Optimisation continue**: Toujours travailler pour réduire vos coûts
 - 💬 **Communication ouverte**: Questions répondues rapidement et honnêtement
 
-Votre succès est notre succès. Chaque frais est conçu pour align nos intérêts avec les vôtres et
+Votre succès est notre succès. Chaque frais est conçu pour aligner nos intérêts avec les vôtres et
 délivrer une valeur exceptionnelle pour votre investissement.
 
 👉 **[Comparer les Stratégies →](./strategies)**

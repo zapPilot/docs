@@ -6,19 +6,18 @@ sidebar_position: 6
 
 **투명하고 경쟁력 있으며 당신의 성공과 일치합니다** 💰
 
-[TODO: TRANSLATE] We believe in complete fee transparency and aligning our success with yours.
-Here's exactly what you pay and why our fee structure is designed to maximize your returns.
+우리는 완전한 수수료 투명성을 믿으며 우리의 성공을 당신의 성공과 일치시킵니다. 여기 당신이 지불하는
+것과 우리의 수수료 구조가 당신의 수익을 극대화하도록 설계된 이유가 정확히 나와 있습니다.
 
 ## 💎 수수료 구조 개요
 
 ### 우리의 수수료 철학
 
-- 🎯 **[TODO: TRANSLATE] Simple and transparent**: 하나의 수수료, 숨겨진 비용 없음
-- 🏆 **[TODO: TRANSLATE] Industry-leading low fees**: 단 1%의 진입 수수료만
+- 🎯 **단순하고 투명함**: 하나의 수수료, 숨겨진 비용 없음
+- 🏆 **업계 최고의 저렴한 수수료**: 단 1%의 진입 수수료만
 - 🔍 **지속적인 수수료 없음**: 관리 또는 성과 수수료 없음
-- ⚖️ **[TODO: TRANSLATE] Pay once, invest forever**: [TODO: TRANSLATE] Our single 1% entry fee is
-  the only fee you'll pay for that deposit. As long as your funds remain invested, you'll never be
-  charged by us again.
+- ⚖️ **한 번 지불하고 영원히 투자**: 우리의 단일 1% 진입 수수료는 해당 예치금에 대해 지불하는 유일한
+  수수료입니다. 귀하의 자금이 투자된 상태로 있는 한, 우리는 다시는 귀하에게 청구하지 않을 것입니다.
 
 ### 수수료 구조
 
@@ -42,16 +41,15 @@ Here's exactly what you pay and why our fee structure is designed to maximize yo
 
 ### 우리의 철학
 
-[TODO: TRANSLATE] We believe in aligning our success with yours through simplicity, not complex fee
-structures. Here's why our approach is revolutionary:
+우리는 복잡한 수수료 구조가 아닌 단순함을 통해 당신의 성공과 우리의 성공을 일치시키는 것을 믿습니다.
+우리의 접근 방식이 혁명적인 이유는 다음과 같습니다.
 
-#### **[TODO: TRANSLATE] One-Time Payment Model**
+#### **일회성 지불 모델**
 
-- **지속적인 수수료 없음**: [TODO: TRANSLATE] Once you pay the 1% entry fee, you're done paying
-  forever
-- **성과 수수료 없음**: [TODO: TRANSLATE] We don't take a cut of your profits
-- **관리 수수료 없음**: [TODO: TRANSLATE] No annual fees eating into your returns
-- **인출 수수료 없음**: [TODO: TRANSLATE] Exit anytime without penalties
+- **지속적인 수수료 없음**: 1%의 진입 수수료를 지불하면 영원히 지불할 필요가 없습니다.
+- **성과 수수료 없음**: 우리는 당신의 이익에서 일부를 가져가지 않습니다.
+- **관리 수수료 없음**: 연간 수수료가 당신의 수익을 잠식하지 않습니다.
+- **인출 수수료 없음**: 언제든지 위약금 없이 해지할 수 있습니다.
 
 #### **예시: $10,000 투자**
 
@@ -252,29 +250,29 @@ Zap Pilot 관리:
 
 #### **Q: 숨겨진 수수료가 있나요?**
 
-답: [TODO: TRANSLATE] Absolutely not. All fees are disclosed upfront and tracked in real-time. The
-only "hidden" costs are blockchain gas fees, which we optimize and share transparent tracking for.
+답: 절대 없습니다. 모든 수수료는 사전에 공개되고 실시간으로 추적됩니다. 유일한 "숨겨진" 비용은
+블록체인 가스 수수료이며, 이를 최적화하고 투명한 추적을 공유합니다.
 
 #### **Q: 이익을 얻지 못하면 어떻게 되나요?**
 
-답: [TODO: TRANSLATE] You only pay the management fee (which covers operations). No performance fees
-are charged if you don't exceed the profit threshold.
+답: 운영을 충당하는 관리 수수료만 지불하면 됩니다. 이익 기준을 초과하지 않으면 성과 수수료는
+부과되지 않습니다.
 
 #### **Q: 수수료가 예고 없이 변경될 수 있나요?**
 
-답: [TODO: TRANSLATE] No. Fee changes require 30-day advance notice and only apply to new deposits.
-Your existing investments maintain their original fee structure.
+답: 아니요. 수수료 변경은 30일 전에 통지해야 하며 신규 예치금에만 적용됩니다. 기존 투자는 원래
+수수료 구조를 유지합니다.
 
 #### **Q: 성과 수수료를 어떻게 정당화하나요?**
 
-답: [TODO: TRANSLATE] We believe that a simple, one-time 1% entry fee is the most transparent and
-fair model. It aligns our interests with yours by encouraging long-term investment, not by taking a
-cut of your profits.
+답: 우리는 간단한 일회성 1% 진입 수수료가 가장 투명하고 공정한 모델이라고 믿습니다. 이는 귀하의
+이익에서 일부를 가져가는 것이 아니라 장기 투자를 장려함으로써 우리의 이익을 귀하의 이익과
+일치시킵니다.
 
 #### **Q: 수수료 세금은 어떻게 처리되나요?**
 
-답: [TODO: TRANSLATE] Performance fees are typically tax-deductible as investment expenses. Consult
-your tax advisor for specific guidance.
+답: 성과 수수료는 일반적으로 투자 비용으로 세금 공제가 가능합니다. 구체적인 지침은 세무사에게
+문의하십시오.
 
 ---
 

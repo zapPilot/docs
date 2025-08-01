@@ -1,38 +1,28 @@
-# [TODO: TRANSLATE] V1 Exploit Compensation Plan
+# V1 漏洞利用补偿计划
 
-[TODO: TRANSLATE] To fairly reimburse early adopters who personally covered losses from the V1
-exploit, we have established a Compensation Pool worth US$20,380. The allocation is proportional to
-the actual loss each user incurred, and includes a modest interest adjustment to account for the
-opportunity cost during this period.
+为了公平地补偿在 V1 漏洞利用中个人承担损失的早期采用者，我们设立了一个价值 20,380 美元的补偿池。分配与每个用户遭受的实际损失成比例，并包括适度的利息调整，以弥补此期间的机会成本。
 
-## [TODO: TRANSLATE] Compensation Method
+## 补偿方法
 
-[TODO: TRANSLATE] compensation will be paid using **stablecoins and ETH generated from protocol fees
-and revenue**, rather than $ZAP tokens. This approach:
+补偿将使用**协议费用和收入产生的稳定币和 ETH** 支付，而不是 $ZAP 代币。这种方法：
 
-- [TODO: TRANSLATE] Preserves $ZAP token value by avoiding token dumps for compensation
-- [TODO: TRANSLATE] Uses sustainable protocol-generated revenue (stablecoins/ETH)
-- [TODO: TRANSLATE] Ensures fair compensation without negatively impacting token holders
+- 通过避免代币抛售以进行补偿来保持 $ZAP 代币的价值
+- 使用可持续的协议产生的收入 (稳定币/ETH)
+- 确保公平补偿，而不会对代币持有者产生负面影响
 
-## [TODO: TRANSLATE] Impact on Token Buybacks
+## 对代币回购的影响
 
-**[TODO: TRANSLATE] Note**: [TODO: TRANSLATE] This compensation method will temporarily slow down
-the $ZAP token buyback program, as a portion of protocol revenue will be allocated to V1 exploit
-compensation instead of token buybacks. Once compensation is complete, the full protocol revenue
-will resume supporting token buybacks.
+**注意**：此补偿方法将暂时减缓 $ZAP 代币回购计划，因为一部分协议收入将分配给 V1 漏洞利用补偿，而不是代币回购。一旦补偿完成，全部协议收入将恢复支持代币回购。
 
-## [TODO: TRANSLATE] Compensation Details
+## 补偿详情
 
-| [TODO: TRANSLATE] Recipient | [TODO: TRANSLATE] Covered Loss | [TODO: TRANSLATE] Payment Schedule                          |
-| --------------------------- | ------------------------------ | ----------------------------------------------------------- |
-| Eugene Chang                | 5 ETH (≈ $15,000)              | [TODO: TRANSLATE] Paid from protocol revenue over 12 months |
-| Adrian Wu                   | $5,380                         | [TODO: TRANSLATE] Paid from protocol revenue over 12 months |
+| 收款人       | 承担的损失         | 付款时间表                   |
+| ------------ | ------------------ | ---------------------------- |
+| Eugene Chang | 5 ETH (约 $15,000) | 在 12 个月内从协议收入中支付 |
+| Adrian Wu    | $5,380             | 在 12 个月内从协议收入中支付 |
 
-**[TODO: TRANSLATE] Total Compensation Pool**: $20,380 in stablecoins/ETH from protocol fees
+**总补偿池**：来自协议费用的 20,380 美元稳定币/ETH
 
-**[TODO: TRANSLATE] Payment Source**: [TODO: TRANSLATE] Protocol-generated fees and revenue
-(stablecoins, ETH)  
-**[TODO: TRANSLATE] Payment Method**: [TODO: TRANSLATE] Monthly distributions over 12 months
-starting from protocol revenue generation  
-**[TODO: TRANSLATE] Interest Rate**: [TODO: TRANSLATE] Modest interest adjustment applied based on
-project's financial capacity
+**付款来源**：协议产生的费用和收入 (稳定币, ETH)
+**付款方式**：从协议收入产生开始，在 12 个月内按月分配
+**利率**：根据项目的财务能力应用适度的利息调整

@@ -1,13 +1,13 @@
-# [TODO: TRANSLATE] Security Incidents
+# Incidents de sécurité
 
-[TODO: TRANSLATE] This page documents past security incidents and deprecated contracts.
+Cette page documente les incidents de sécurité passés et les contrats dépréciés.
 
-## [TODO: TRANSLATE] V1 Audits on Arbitrum (Deprecated)
+## Audits V1 sur Arbitrum (Déprécié)
 
-[TODO: TRANSLATE] Due to a router upgrade by GMX, our portfolio contract was affected. We reimbursed
-all of our users on November 17, 2024.
+En raison d'une mise à niveau du routeur par GMX, notre contrat de portefeuille a été affecté. Nous
+avons remboursé tous nos utilisateurs le 17 novembre 2024.
 
-### [TODO: TRANSLATE] Reimbursement Transactions
+### Transactions de remboursement
 
 - [0x316c4baf20c54a3c520ed33a91a692c575efd9051d6213c43ccc8f69a97b6056](https://arbiscan.io/tx/0x316c4baf20c54a3c520ed33a91a692c575efd9051d6213c43ccc8f69a97b6056)
 - [0x0c1e06f16eba9e38076b91264e3410fa68cc5815f34006b4be311ee3de23dd13](https://arbiscan.io/tx/0x0c1e06f16eba9e38076b91264e3410fa68cc5815f34006b4be311ee3de23dd13)
@@ -17,20 +17,20 @@ all of our users on November 17, 2024.
 - [0x726287ec44bb1699e5a4bddf27a916d262a1fa1b5b4cdf0a4bee2f866489cb8e](https://arbiscan.io/tx/0x726287ec44bb1699e5a4bddf27a916d262a1fa1b5b4cdf0a4bee2f866489cb8e)
 - [0xde412ce59a8a742b1b1ce25300dbb86442ad03472e7a32cbf160c94c6cf97e7f](https://arbiscan.io/tx/0xde412ce59a8a742b1b1ce25300dbb86442ad03472e7a32cbf160c94c6cf97e7f)
 
-### [TODO: TRANSLATE] Deprecated V1 Contracts (Arbitrum)
+### Contrats V1 dépréciés (Arbitrum)
 
-[TODO: TRANSLATE] You can still access your funds by inputting your address via Arbiscan.
+Vous pouvez toujours accéder à vos fonds en saisissant votre adresse via Arbiscan.
 
-- **[TODO: TRANSLATE] Check Your Balance:**
+- **Vérifiez votre solde:**
   [https://arbiscan.io/token/0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4#balances](https://arbiscan.io/token/0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4#balances)
-- **[TODO: TRANSLATE] Check Your Claimable Rewards**
-- **[TODO: TRANSLATE] Claim Your Rewards**
+- **Vérifiez vos récompenses réclamables**
+- **Réclamez vos récompenses**
 
-#### [TODO: TRANSLATE] Portfolio Contracts
+#### Contrats de portefeuille
 
-- **Permanent Portfolio:** `0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4`
+- **Portefeuille permanent:** `0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4`
 
-#### [TODO: TRANSLATE] Vault Contracts
+#### Contrats de coffre-fort
 
 - **Magic Vault:** `0xA3CDd5a4b9f5a69C5C3a297A428A10B742F1c6E1`
 - **Equilibria GLP Vault:** `0xBb4D0819089879d83ae13fEe71aBeAa345629389`
@@ -41,52 +41,51 @@ all of our users on November 17, 2024.
 
 ---
 
-## [TODO: TRANSLATE] Contracts on BSC
+## Contrats sur BSC
 
-### [TODO: TRANSLATE] Portfolio Contracts (deprecated)
+### Contrats de portefeuille (déprécié)
 
-- **Permanent Portfolio:** `0x24D22cA076Dc055A6b0faD59678d91BA4C948000`
+- **Portefeuille permanent:** `0x24D22cA076Dc055A6b0faD59678d91BA4C948000`
 
-### [TODO: TRANSLATE] Vault Contracts
+### Contrats de coffre-fort
 
 - **ApolloX Vault:** `0xd56d8Dfd3A3D6F6dafc0b7b6945F6E7AB138706e`
 
-### [TODO: TRANSLATE] Portfolio Contracts (v2, got exploited)
+### Contrats de portefeuille (v2, exploité)
 
-- **Permanent Portfolio:** `0xD188492217F09D18f2B0ecE3F8948015981e961a`
+- **Portefeuille permanent:** `0xD188492217F09D18f2B0ecE3F8948015981e961a`
 
-### [TODO: TRANSLATE] Vault Contracts (v2)
+### Contrats de coffre-fort (v2)
 
 - **ApolloX Vault:** `0x9Ad45D46e2A2ca19BBB5D5a50Df319225aD60e0d`
 
 ---
 
-## [TODO: TRANSLATE] V2 Security Incident
+## Incident de sécurité V2
 
-[TODO: TRANSLATE] The V2 contract was exploited on March 5th and 6th, resulting in a loss of
-approximately $10,760.
+Le contrat V2 a été exploité les 5 et 6 mars, entraînant une perte d'environ 10 760 $.
 
-- **[TODO: TRANSLATE] Attacker's Address:**
+- **Adresse de l'attaquant:**
   [https://debank.com/profile/0xff61ba33ed51322bb716eab4137adf985644b94d](https://debank.com/profile/0xff61ba33ed51322bb716eab4137adf985644b94d)
-- **[TODO: TRANSLATE] Transaction 1:**
+- **Transaction 1:**
   [https://bscscan.com/tx/0x541260769bd8c389a5896fb46982ff4f8821a8b22b6e1e4399bf01e841fb9ce4](https://bscscan.com/tx/0x541260769bd8c389a5896fb46982ff4f8821a8b22b6e1e4399bf01e841fb9ce4)
-- **[TODO: TRANSLATE] Transaction 2:**
+- **Transaction 2:**
   [https://bscscan.com/tx/0x9983ca8eaee9ee69629f74537eaf031272af75f1e5a7725911d8b06df17c67ca](https://bscscan.com/tx/0x9983ca8eaee9ee69629f74537eaf031272af75f1e5a7725911d8b06df17c67ca)
 
-[TODO: TRANSLATE] We have compensated all losses to our users, with our co-founders personally
-covering the losses.
+Nous avons indemnisé toutes les pertes de nos utilisateurs, nos co-fondateurs couvrant
+personnellement les pertes.
 
-### [TODO: TRANSLATE] Reimbursement Transactions
+### Transactions de remboursement
 
-- **[TODO: TRANSLATE] Transaction 1:**
+- **Transaction 1:**
   [https://arbiscan.io/tx/0x2ca790c16af0dac48c8f44b2fae98423164d17ac32e812b62af56117951ac4ef](https://arbiscan.io/tx/0x2ca790c16af0dac48c8f44b2fae98423164d17ac32e812b62af56117951ac4ef)
-- **[TODO: TRANSLATE] Transaction 2:**
+- **Transaction 2:**
   [https://arbiscan.io/tx/0xe365eda955d5fa48c2aceee6375cb6600c02587a74c434c036b069900933bf5e](https://arbiscan.io/tx/0xe365eda955d5fa48c2aceee6375cb6600c02587a74c434c036b069900933bf5e)
-- **[TODO: TRANSLATE] Transaction 3:**
+- **Transaction 3:**
   [https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989](https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989)
-- **[TODO: TRANSLATE] Transaction 4:**
+- **Transaction 4:**
   [https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989](https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989)
-- **[TODO: TRANSLATE] Transaction 5:**
+- **Transaction 5:**
   [https://arbiscan.io/tx/0x5c7a92902435dda8b521eea5706cf73a81497a7154b82c3f2f5a0126b1f5076a](https://arbiscan.io/tx/0x5c7a92902435dda8b521eea5706cf73a81497a7154b82c3f2f5a0126b1f5076a)
-- **[TODO: TRANSLATE] Transaction 6:**
+- **Transaction 6:**
   [https://arbiscan.io/tx/0x8e6dfbf7b660a2c9e5d4dbdb595948bf4506ff70492f9fdb2c582c9a7ae8d9e7](https://arbiscan.io/tx/0x8e6dfbf7b660a2c9e5d4dbdb595948bf4506ff70492f9fdb2c582c9a7ae8d9e7)

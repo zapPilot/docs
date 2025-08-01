@@ -6,19 +6,17 @@ sidebar_position: 6
 
 **透明、具竞争力，并与您的成功保持一致** 💰
 
-[TODO: TRANSLATE] We believe in complete fee transparency and aligning our success with yours.
-Here's exactly what you pay and why our fee structure is designed to maximize your returns.
+我们坚信费用完全透明，并将我们的成功与您的成功紧密联系在一起。以下是您需要支付的费用以及我们的费用结构为何旨在最大化您的回报。
 
 ## 💎 费用结构概述
 
 ### 我们的费用哲学
 
-- 🎯 **[TODO: TRANSLATE] Simple and transparent**: 一项费用，无隐藏成本
-- 🏆 **[TODO: TRANSLATE] Industry-leading low fees**: 仅 1% 入门费
+- 🎯 **简单透明**: 一项费用，无隐藏成本
+- 🏆 **行业领先的低费用**: 仅 1% 入门费
 - 🔍 **无持续费用**: 无管理费或绩效费
-- ⚖️ **[TODO: TRANSLATE] Pay once, invest forever**: [TODO: TRANSLATE] Our single 1% entry fee is
-  the only fee you'll pay for that deposit. As long as your funds remain invested, you'll never be
-  charged by us again.
+- ⚖️
+  **一次支付，终身投资**: 我们唯一的 1% 入门费是您为该笔存款支付的唯一费用。只要您的资金仍在投资，我们将不再向您收取任何费用。
 
 ### 费用结构
 
@@ -42,15 +40,14 @@ Here's exactly what you pay and why our fee structure is designed to maximize yo
 
 ### 我们的理念
 
-[TODO: TRANSLATE] We believe in aligning our success with yours through simplicity, not complex fee
-structures. Here's why our approach is revolutionary:
+我们坚信通过简单而非复杂的费用结构，将我们的成功与您的成功紧密联系在一起。以下是我们的革命性方法：
 
-#### **[TODO: TRANSLATE] One-Time Payment Model**
+#### **一次性支付模式**
 
-- **无持续费用**: [TODO: TRANSLATE] Once you pay the 1% entry fee, you're done paying forever
-- **无绩效费**: [TODO: TRANSLATE] We don't take a cut of your profits
-- **无管理费**: [TODO: TRANSLATE] No annual fees eating into your returns
-- **无提款费**: [TODO: TRANSLATE] Exit anytime without penalties
+- **无持续费用**: 一旦您支付了 1% 的入门费，您就再也无需支付任何费用
+- **无绩效费**: 我们不从您的利润中抽成
+- **无管理费**: 没有年费侵蚀您的回报
+- **无提款费**: 随时退出，无任何罚款
 
 #### **示例：$10,000 投资**
 
@@ -251,29 +248,23 @@ Zap Pilot 管理：
 
 #### **问: 有没有任何隐藏费用？**
 
-答: [TODO: TRANSLATE] Absolutely not. All fees are disclosed upfront and tracked in real-time. The
-only "hidden" costs are blockchain gas fees, which we optimize and share transparent tracking for.
+答: 绝对没有。所有费用都预先披露并实时跟踪。唯一的“隐藏”成本是区块链 Gas 费，我们对其进行优化并共享透明的跟踪信息。
 
 #### **问: 如果我没有赚取任何利润怎么办？**
 
-答: [TODO: TRANSLATE] You only pay the management fee (which covers operations). No performance fees
-are charged if you don't exceed the profit threshold.
+答: 您只需支付管理费（用于运营）。如果您未超过利润门槛，则不收取任何绩效费。
 
 #### **问: 费用会否在没有通知的情况下更改？**
 
-答: [TODO: TRANSLATE] No. Fee changes require 30-day advance notice and only apply to new deposits.
-Your existing investments maintain their original fee structure.
+答: 不会。费用变更需要提前 30 天通知，并且仅适用于新的存款。您现有的投资将维持其原始费用结构。
 
 #### **问: 你们如何证明绩效费的合理性？**
 
-答: [TODO: TRANSLATE] We believe that a simple, one-time 1% entry fee is the most transparent and
-fair model. It aligns our interests with yours by encouraging long-term investment, not by taking a
-cut of your profits.
+答: 我们认为，简单的一次性 1% 入门费是最透明、最公平的模式。它通过鼓励长期投资，而不是从您的利润中抽成，使我们的利益与您的利益保持一致。
 
 #### **问: 费用税务如何处理？**
 
-答: [TODO: TRANSLATE] Performance fees are typically tax-deductible as investment expenses. Consult
-your tax advisor for specific guidance.
+答: 绩效费通常可作为投资费用进行税收减免。请咨询您的税务顾问以获取具体指导。
 
 ---
 

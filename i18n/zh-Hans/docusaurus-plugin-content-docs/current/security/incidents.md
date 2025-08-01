@@ -1,13 +1,12 @@
-# [TODO: TRANSLATE] Security Incidents
+# 安全事故
 
-[TODO: TRANSLATE] This page documents past security incidents and deprecated contracts.
+本页面记录了过去的安全事故和已弃用的合同。
 
-## [TODO: TRANSLATE] V1 Audits on Arbitrum (Deprecated)
+## V1 Arbitrum 审计 (已弃用)
 
-[TODO: TRANSLATE] Due to a router upgrade by GMX, our portfolio contract was affected. We reimbursed
-all of our users on November 17, 2024.
+由于 GMX 的路由器升级，我们的投资组合合同受到了影响。我们已于 2024 年 11 月 17 日向所有用户进行了赔偿。
 
-### [TODO: TRANSLATE] Reimbursement Transactions
+### 报销交易
 
 - [0x316c4baf20c54a3c520ed33a91a692c575efd9051d6213c43ccc8f69a97b6056](https://arbiscan.io/tx/0x316c4baf20c54a3c520ed33a91a692c575efd9051d6213c43ccc8f69a97b6056)
 - [0x0c1e06f16eba9e38076b91264e3410fa68cc5815f34006b4be311ee3de23dd13](https://arbiscan.io/tx/0x0c1e06f16eba9e38076b91264e3410fa68cc5815f34006b4be311ee3de23dd13)
@@ -17,76 +16,74 @@ all of our users on November 17, 2024.
 - [0x726287ec44bb1699e5a4bddf27a916d262a1fa1b5b4cdf0a4bee2f866489cb8e](https://arbiscan.io/tx/0x726287ec44bb1699e5a4bddf27a916d262a1fa1b5b4cdf0a4bee2f866489cb8e)
 - [0xde412ce59a8a742b1b1ce25300dbb86442ad03472e7a32cbf160c94c6cf97e7f](https://arbiscan.io/tx/0xde412ce59a8a742b1b1ce25300dbb86442ad03472e7a32cbf160c94c6cf97e7f)
 
-### [TODO: TRANSLATE] Deprecated V1 Contracts (Arbitrum)
+### 已弃用的 V1 合同 (Arbitrum)
 
-[TODO: TRANSLATE] You can still access your funds by inputting your address via Arbiscan.
+您仍然可以通过 Arbiscan 输入您的地址来访问您的资金。
 
-- **[TODO: TRANSLATE] Check Your Balance:**
+- **查询您的余额:**
   [https://arbiscan.io/token/0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4#balances](https://arbiscan.io/token/0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4#balances)
-- **[TODO: TRANSLATE] Check Your Claimable Rewards**
-- **[TODO: TRANSLATE] Claim Your Rewards**
+- **查询您可领取的奖励**
+- **领取您的奖励**
 
-#### [TODO: TRANSLATE] Portfolio Contracts
+#### 投资组合合同
 
-- **Permanent Portfolio:** `0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4`
+- **永久投资组合:** `0x95503FfAffD9E8B2aEa782F36bb5C8B85a4e41D4`
 
-#### [TODO: TRANSLATE] Vault Contracts
+#### 金库合同
 
 - **Magic Vault:** `0xA3CDd5a4b9f5a69C5C3a297A428A10B742F1c6E1`
 - **Equilibria GLP Vault:** `0xBb4D0819089879d83ae13fEe71aBeAa345629389`
 - **Equilibria GDAI Vault:** `0x0F658FC0C72A729F1B8F8444601D657D3F30Db41`
 - **Equilibria RETH Vault:** `0x5073bf9aE65963A5881F36560072adf5d4c6e870`
 - **Equilibria Pendle Vault:** `0x4999AE9fDD361Ca6278B0295dd65776b4587E1aA`
-- **Radiant Arbitrum Vault:** `0x99E9cE14C807e95329a2A35aDD52683528e53231`
+- **Radiant Arbitrum Vault:** `0x99E9cE9c14C807e95329a2A35aDD52683528e53231`
 
 ---
 
-## [TODO: TRANSLATE] Contracts on BSC
+## BSC 上的合同
 
-### [TODO: TRANSLATE] Portfolio Contracts (deprecated)
+### 投资组合合同 (已弃用)
 
-- **Permanent Portfolio:** `0x24D22cA076Dc055A6b0faD59678d91BA4C948000`
+- **永久投资组合:** `0x24D22cA076Dc055A6b0faD59678d91BA4C948000`
 
-### [TODO: TRANSLATE] Vault Contracts
+### 金库合同
 
 - **ApolloX Vault:** `0xd56d8Dfd3A3D6F6dafc0b7b6945F6E7AB138706e`
 
-### [TODO: TRANSLATE] Portfolio Contracts (v2, got exploited)
+### 投资组合合同 (v2, 被利用)
 
-- **Permanent Portfolio:** `0xD188492217F09D18f2B0ecE3F8948015981e961a`
+- **永久投资组合:** `0xD188492217F09D18f2B0ecE3F8948015981e961a`
 
-### [TODO: TRANSLATE] Vault Contracts (v2)
+### 金库合同 (v2)
 
 - **ApolloX Vault:** `0x9Ad45D46e2A2ca19BBB5D5a50Df319225aD60e0d`
 
 ---
 
-## [TODO: TRANSLATE] V2 Security Incident
+## V2 安全事故
 
-[TODO: TRANSLATE] The V2 contract was exploited on March 5th and 6th, resulting in a loss of
-approximately $10,760.
+V2 合同于 3 月 5 日和 6 日被利用，造成约 10,760 美元的损失。
 
-- **[TODO: TRANSLATE] Attacker's Address:**
+- **攻击者地址:**
   [https://debank.com/profile/0xff61ba33ed51322bb716eab4137adf985644b94d](https://debank.com/profile/0xff61ba33ed51322bb716eab4137adf985644b94d)
-- **[TODO: TRANSLATE] Transaction 1:**
+- **交易 1:**
   [https://bscscan.com/tx/0x541260769bd8c389a5896fb46982ff4f8821a8b22b6e1e4399bf01e841fb9ce4](https://bscscan.com/tx/0x541260769bd8c389a5896fb46982ff4f8821a8b22b6e1e4399bf01e841fb9ce4)
-- **[TODO: TRANSLATE] Transaction 2:**
+- **交易 2:**
   [https://bscscan.com/tx/0x9983ca8eaee9ee69629f74537eaf031272af75f1e5a7725911d8b06df17c67ca](https://bscscan.com/tx/0x9983ca8eaee9ee69629f74537eaf031272af75f1e5a7725911d8b06df17c67ca)
 
-[TODO: TRANSLATE] We have compensated all losses to our users, with our co-founders personally
-covering the losses.
+我们已经向所有用户赔偿了所有损失，我们的联合创始人个人承担了这些损失。
 
-### [TODO: TRANSLATE] Reimbursement Transactions
+### 报销交易
 
-- **[TODO: TRANSLATE] Transaction 1:**
+- **交易 1:**
   [https://arbiscan.io/tx/0x2ca790c16af0dac48c8f44b2fae98423164d17ac32e812b62af56117951ac4ef](https://arbiscan.io/tx/0x2ca790c16af0dac48c8f44b2fae98423164d17ac32e812b62af56117951ac4ef)
-- **[TODO: TRANSLATE] Transaction 2:**
+- **交易 2:**
   [https://arbiscan.io/tx/0xe365eda955d5fa48c2aceee6375cb6600c02587a74c434c036b069900933bf5e](https://arbiscan.io/tx/0xe365eda955d5fa48c2aceee6375cb6600c02587a74c434c036b069900933bf5e)
-- **[TODO: TRANSLATE] Transaction 3:**
+- **交易 3:**
   [https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989](https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989)
-- **[TODO: TRANSLATE] Transaction 4:**
+- **交易 4:**
   [https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989](https://arbiscan.io/tx/0x6f3155dcad603017fd49d17112ccabba6c7645acc99c1fc1c7c655fb2a408989)
-- **[TODO: TRANSLATE] Transaction 5:**
+- **交易 5:**
   [https://arbiscan.io/tx/0x5c7a92902435dda8b521eea5706cf73a81497a7154b82c3f2f5a0126b1f5076a](https://arbiscan.io/tx/0x5c7a92902435dda8b521eea5706cf73a81497a7154b82c3f2f5a0126b1f5076a)
-- **[TODO: TRANSLATE] Transaction 6:**
+- **交易 6:**
   [https://arbiscan.io/tx/0x8e6dfbf7b660a2c9e5d4dbdb595948bf4506ff70492f9fdb2c582c9a7ae8d9e7](https://arbiscan.io/tx/0x8e6dfbf7b660a2c9e5d4dbdb595948bf4506ff70492f9fdb2c582c9a7ae8d9e7)

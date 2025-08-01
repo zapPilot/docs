@@ -1,99 +1,98 @@
-# [TODO: TRANSLATE] Zap Pilot Tokenomics (v2 – 2025)
+# Zap Pilot 토크노믹스 (v2 – 2025)
 
-## [TODO: TRANSLATE] Overview
+## 개요
 
-Zap Pilot [TODO: TRANSLATE] is an on-chain portfolio autopilot. For busy DeFi users, Zap Pilot cuts
-portfolio rebalancing from 30 min to 30 sec — moving your crypto across chains into higher-yield
-pools with one click, while every token stays in your own wallet.
+Zap Pilot은 온체인 포트폴리오 자동 조종 장치입니다. 바쁜 DeFi 사용자를 위해 Zap Pilot은 포트폴리오
+리밸런싱을 30분에서 30초로 단축하여 한 번의 클릭으로 암호화폐를 여러 체인에 걸쳐 더 높은 수익률의
+풀로 이동시키면서 모든 토큰은 자신의 지갑에 보관합니다.
 
-[TODO: TRANSLATE] The $ZAP token uses a buyback-based token economy: no staking, no passive rewards,
-no empty emissions — just value aligned with actual protocol usage.
+$ZAP 토큰은 바이백 기반 토큰 경제를 사용합니다. 스테이킹, 패시브 보상, 빈 배출이 없으며 실제
+프로토콜 사용과 일치하는 가치만 있습니다.
 
-## [TODO: TRANSLATE] Token Details
+## 토큰 세부 정보
 
-| [TODO: TRANSLATE] Field         | [TODO: TRANSLATE] Value                               |
-| ------------------------------- | ----------------------------------------------------- |
-| [TODO: TRANSLATE] Name          | Zap Pilot Token                                       |
-| [TODO: TRANSLATE] Symbol        | $ZAP ([TODO: TRANSLATE] tentative, may rebrand)       |
-| [TODO: TRANSLATE] Supply Cap    | 100,000,000 ([TODO: TRANSLATE] fixed)                 |
-| [TODO: TRANSLATE] Standard      | LayerZero OFT ([TODO: TRANSLATE] Omnichain)           |
-| [TODO: TRANSLATE] Issuance      | Via ThirdWeb + LayerZero                              |
-| [TODO: TRANSLATE] Primary Chain | Base ([TODO: TRANSLATE] with Optimism, Polygon, etc.) |
+| 필드      | 값                               |
+| --------- | -------------------------------- |
+| 이름      | Zap Pilot 토큰                   |
+| 심볼      | $ZAP (잠정, 리브랜딩될 수 있음)  |
+| 공급 한도 | 100,000,000 (고정)               |
+| 표준      | LayerZero OFT (옴니체인)         |
+| 발행      | ThirdWeb + LayerZero를 통해      |
+| 기본 체인 | Base (Optimism, Polygon 등 포함) |
 
-## [TODO: TRANSLATE] Utility & Design Philosophy
+## 유틸리티 및 디자인 철학
 
-[TODO: TRANSLATE] No staking, no protocol-controlled yield. Instead: Every fee collected → used to
-buy $ZAP from the market → price support via real usage.
+스테이킹, 프로토콜 제어 수익률 없음. 대신: 수집된 모든 수수료 → 시장에서 $ZAP를 구매하는 데 사용 →
+실제 사용을 통한 가격 지원.
 
-| [TODO: TRANSLATE] Utility                                                      | [TODO: TRANSLATE] Description                                               | [TODO: TRANSLATE] Price Support |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ------------------------------- |
-| [TODO: TRANSLATE] Protocol fees are used to buy $ZAP via Uniswap or other DEXs |                                                                             | ✅                              |
-| [TODO: TRANSLATE] User Incentives                                              | [TODO: TRANSLATE] Distributed via retroactive airdrops based on Zap Score   |                                 |
-| [TODO: TRANSLATE] Governance (optional)                                        | [TODO: TRANSLATE] $ZAP may be used for future DAO voting or proposal rights |                                 |
+| 유틸리티                                                                      | 설명                                                   | 가격 지원 |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------ | --------- |
+| 프로토콜 수수료는 Uniswap 또는 기타 DEX를 통해 $ZAP를 구매하는 데 사용됩니다. |                                                        | ✅        |
+| 사용자 인센티브                                                               | Zap 점수를 기반으로 한 소급 에어드랍을 통해 배포       |           |
+| 거버넌스 (선택 사항)                                                          | $ZAP는 향후 DAO 투표 또는 제안권에 사용될 수 있습니다. |           |
 
-## [TODO: TRANSLATE] Buyback Mechanism
+## 바이백 메커니즘
 
-| [TODO: TRANSLATE] Component                                            | [TODO: TRANSLATE] Implementation                                          | [TODO: TRANSLATE] Source of Funds |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
-| [TODO: TRANSLATE] Protocol-level zap-in fees (ETH / USDC)              |                                                                           |                                   |
-| [TODO: TRANSLATE] Automated or manual buybacks on DEXs (e.g., Uniswap) |                                                                           |                                   |
-| [TODO: TRANSLATE] Token Handling                                       | [TODO: TRANSLATE] Burned or redirected to DAO treasury                    |                                   |
-| [TODO: TRANSLATE] Transparency                                         | [TODO: TRANSLATE] Weekly public reporting of buyback volume (optional UI) |                                   |
+| 구성 요소                                   | 구현                                          | 자금 출처 |
+| ------------------------------------------- | --------------------------------------------- | --------- |
+| 프로토콜 수준 잽인 수수료 (ETH / USDC)      |                                               |           |
+| DEX에서 자동 또는 수동 바이백 (예: Uniswap) |                                               |           |
+| 토큰 처리                                   | 소각되거나 DAO 재무부로 리디렉션됨            |           |
+| 투명성                                      | 바이백 볼륨에 대한 주간 공개 보고 (선택적 UI) |           |
 
-## [TODO: TRANSLATE] Token Allocation
+## 토큰 할당
 
-| [TODO: TRANSLATE] Category                 | [TODO: TRANSLATE] % Allocation | [TODO: TRANSLATE] Notes                                                   |
-| ------------------------------------------ | ------------------------------ | ------------------------------------------------------------------------- |
-| [TODO: TRANSLATE] User Airdrop (Zap Score) | 40%                            | [TODO: TRANSLATE] Based on usage, referrals, social engagement            |
-| [TODO: TRANSLATE] Team                     | 20%                            | [TODO: TRANSLATE] 1-year cliff + 2-year linear vesting                    |
-| [TODO: TRANSLATE] Partners & Advisors      | 10%                            | [TODO: TRANSLATE] Includes incubators (1–2%), launchpads (1–2%), KOL pool |
-| [TODO: TRANSLATE] DAO Treasury             | 20%                            | [TODO: TRANSLATE] Buybacks, incentive campaigns, governance               |
-| [TODO: TRANSLATE] Liquidity Bootstrapping  | 10%                            | Uniswap/Aerodrome LP [TODO: TRANSLATE] seeding                            |
+| 카테고리                   | 할당 비율 | 참고                                            |
+| -------------------------- | --------- | ----------------------------------------------- |
+| 사용자 에어드랍 (Zap 점수) | 40%       | 사용량, 추천, 소셜 참여 기반                    |
+| 팀                         | 20%       | 1년 클리프 + 2년 선형 베스팅                    |
+| 파트너 및 고문             | 10%       | 인큐베이터 (1–2%), 런치패드 (1–2%), KOL 풀 포함 |
+| DAO 재무부                 | 20%       | 바이백, 인센티브 캠페인, 거버넌스               |
+| 유동성 부트스트래핑        | 10%       | Uniswap/Aerodrome LP 시딩                       |
 
-[TODO: TRANSLATE] Partner/Advisor tokens are vested based on contribution type, generally using a
-6-month cliff + 12-month linear unlock, but flexible per case.
+파트너/고문 토큰은 기여 유형에 따라 베스팅되며 일반적으로 6개월 클리프 + 12개월 선형 잠금 해제를
+사용하지만 경우에 따라 유연합니다.
 
-## [TODO: TRANSLATE] Zap Score-Based Airdrop
+## Zap 점수 기반 에어드랍
 
-| [TODO: TRANSLATE] Metric            | [TODO: TRANSLATE] Weight | [TODO: TRANSLATE] Example |
-| ----------------------------------- | ------------------------ | ------------------------- |
-| [TODO: TRANSLATE] Zap-in Volume     | 40%                      |                           |
-| [TODO: TRANSLATE] Zap-in Frequency  | 40%                      |                           |
-| [TODO: TRANSLATE] Referrals         | 10%                      |                           |
-| [TODO: TRANSLATE] Community Actions | 10%                      |                           |
+| 메트릭        | 가중치 | 예  |
+| ------------- | ------ | --- |
+| 잽인 볼륨     | 40%    |     |
+| 잽인 빈도     | 40%    |     |
+| 추천          | 10%    |     |
+| 커뮤니티 활동 | 10%    |     |
 
-[TODO: TRANSLATE] Zap Score is off-chain, tracked via backend, Notion or Sheets. Airdrop
-distribution is staged, and partially locked to prevent instant dumping.
+Zap 점수는 오프체인이며 백엔드, Notion 또는 Sheets를 통해 추적됩니다. 에어드랍 배포는 단계적으로
+이루어지며 즉시 덤핑을 방지하기 위해 부분적으로 잠겨 있습니다.
 
-## [TODO: TRANSLATE] Tech Stack Overview
+## 기술 스택 개요
 
-| [TODO: TRANSLATE] Function              | [TODO: TRANSLATE] Tool/Provider                           | [TODO: TRANSLATE] Notes |
-| --------------------------------------- | --------------------------------------------------------- | ----------------------- |
-| [TODO: TRANSLATE] Intent Infrastructure | Thirdweb/ZeroDev (EIP-7702 + Paymaster)                   |                         |
-| [TODO: TRANSLATE] Token Infrastructure  | ThirdWeb + LayerZero (OFT)                                |                         |
-| [TODO: TRANSLATE] Buyback Script        | Node.js + Uniswap SDK [TODO: TRANSLATE] or custom relayer |                         |
-| [TODO: TRANSLATE] Score Tracking        | Notion / Airtable / Firebase                              |                         |
-| [TODO: TRANSLATE] Airdrop Tools         | ThirdWeb SDK / Galxe / Airdrop.so                         |                         |
-| [TODO: TRANSLATE] LPs & Launchpads      | Uniswap / Aerodrome / [TODO: TRANSLATE] Partnered IDO     |                         |
+| 기능            | 도구/공급자                                     | 참고 |
+| --------------- | ----------------------------------------------- | ---- |
+| 인텐트 인프라   | Thirdweb/ZeroDev (EIP-7702 + Paymaster)         |      |
+| 토큰 인프라     | ThirdWeb + LayerZero (OFT)                      |      |
+| 바이백 스크립트 | Node.js + Uniswap SDK 또는 사용자 지정 릴레이어 |      |
+| 점수 추적       | Notion / Airtable / Firebase                    |      |
+| 에어드랍 도구   | ThirdWeb SDK / Galxe / Airdrop.so               |      |
+| LP 및 런치패드  | Uniswap / Aerodrome / 파트너 IDO                |      |
 
-## [TODO: TRANSLATE] Launchpad & Partner Vesting
+## 런치패드 및 파트너 베스팅
 
-[TODO: TRANSLATE] Tokens allocated to launchpads or advisors follow a 6-month cliff + 12-month
-linear vesting schedule. For example, if a launchpad receives 2,000,000 $ZAP:
+런치패드 또는 고문에게 할당된 토큰은 6개월 클리프 + 12개월 선형 베스팅 일정을 따릅니다. 예를 들어
+런치패드가 2,000,000 $ZAP를 받는 경우:
 
-- [TODO: TRANSLATE] Months 1–6: 0% unlocked
-- [TODO: TRANSLATE] Month 7 onward: unlocks 1/12 per month (≈166,666 tokens per month)
-- [TODO: TRANSLATE] Fully unlocked after month 18
+- 1–6개월: 0% 잠금 해제
+- 7개월부터: 매월 1/12 잠금 해제 (월 약 166,666 토큰)
+- 18개월 후 완전히 잠금 해제됨
 
-[TODO: TRANSLATE] Vesting schedules are flexible and negotiated based on actual value contributed
-(e.g. marketing push, liquidity support, advisory work).
+베스팅 일정은 유연하며 실제 기여 가치 (예: 마케팅 푸시, 유동성 지원, 자문 업무)에 따라 협상됩니다.
 
-## [TODO: TRANSLATE] Why This Model Works
+## 이 모델이 작동하는 이유
 
-| [TODO: TRANSLATE] Feature                | [TODO: TRANSLATE] Benefit                                          |
-| ---------------------------------------- | ------------------------------------------------------------------ |
-| [TODO: TRANSLATE] No staking             | [TODO: TRANSLATE] No contract risk, no passive yield dilution      |
-| [TODO: TRANSLATE] Buyback-based          | [TODO: TRANSLATE] Price is backed by real usage & revenue          |
-| [TODO: TRANSLATE] Fair Airdrop           | [TODO: TRANSLATE] Encourages real participation, not speculation   |
-| [TODO: TRANSLATE] OFT design             | [TODO: TRANSLATE] Native cross-chain movement via LayerZero        |
-| [TODO: TRANSLATE] Smart EOA wallet infra | [TODO: TRANSLATE] Seamless UX for end users, gas sponsorship ready |
+| 기능                   | 이점                                         |
+| ---------------------- | -------------------------------------------- |
+| 스테이킹 없음          | 계약 위험 없음, 패시브 수익 희석 없음        |
+| 바이백 기반            | 가격은 실제 사용량 및 수익으로 뒷받침됩니다. |
+| 공정한 에어드랍        | 투기가 아닌 실제 참여를 장려합니다.          |
+| OFT 디자인             | LayerZero를 통한 기본 크로스체인 이동        |
+| 스마트 EOA 지갑 인프라 | 최종 사용자를 위한 원활한 UX, 가스 후원 준비 |

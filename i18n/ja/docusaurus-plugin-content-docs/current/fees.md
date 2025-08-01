@@ -6,19 +6,17 @@ sidebar_position: 6
 
 **透明で競争力があり、あなたの成功と一致** 💰
 
-[TODO: TRANSLATE] We believe in complete fee transparency and aligning our success with yours.
-Here's exactly what you pay and why our fee structure is designed to maximize your returns.
+私たちは完全な手数料の透明性を信じ、私たちの成功をあなたの成功と一致させます。ここでは、あなたが支払う料金と、なぜ私たちの料金体系があなたのリターンを最大化するように設計されているかを正確に説明します。
 
 ## 💎 手数料構造の概要
 
 ### 私たちの手数料哲学
 
-- 🎯 **[TODO: TRANSLATE] Simple and transparent**: 1つの手数料、隠れたコストなし
-- 🏆 **[TODO: TRANSLATE] Industry-leading low fees**: わずか1%のエントリー手数料のみ
+- 🎯 **シンプルで透明**: 1つの手数料、隠れたコストなし
+- 🏆 **業界をリードする低手数料**: わずか1%のエントリー手数料のみ
 - 🔍 **継続手数料なし**: 管理手数料やパフォーマンス手数料なし
-- ⚖️ **[TODO: TRANSLATE] Pay once, invest forever**: [TODO: TRANSLATE] Our single 1% entry fee is
-  the only fee you'll pay for that deposit. As long as your funds remain invested, you'll never be
-  charged by us again.
+- ⚖️
+  **一度支払えば、永久に投資**: 私たちの単一の1%のエントリー手数料は、その預金に対して支払う唯一の手数料です。あなたの資金が投資されている限り、二度と請求されることはありません。
 
 ### 手数料構造
 
@@ -42,15 +40,14 @@ Here's exactly what you pay and why our fee structure is designed to maximize yo
 
 ### 私たちの哲学
 
-[TODO: TRANSLATE] We believe in aligning our success with yours through simplicity, not complex fee
-structures. Here's why our approach is revolutionary:
+私たちは、複雑な手数料体系ではなく、シンプルさを通じてあなたの成功と私たちの成功を一致させることを信じています。私たちの革命的なアプローチの理由は次のとおりです。
 
-#### **[TODO: TRANSLATE] One-Time Payment Model**
+#### **一度きりの支払いモデル**
 
-- **継続手数料なし**: [TODO: TRANSLATE] Once you pay the 1% entry fee, you're done paying forever
-- **パフォーマンス手数料なし**: [TODO: TRANSLATE] We don't take a cut of your profits
-- **管理手数料なし**: [TODO: TRANSLATE] No annual fees eating into your returns
-- **出金手数料なし**: [TODO: TRANSLATE] Exit anytime without penalties
+- **継続手数料なし**: 1%のエントリー手数料を支払えば、永久に支払う必要はありません
+- **パフォーマンス手数料なし**: 私たちはあなたの利益から分け前を取りません
+- **管理手数料なし**: 年間手数料があなたのリターンを食いつぶすことはありません
+- **出金手数料なし**: いつでもペナルティなしで終了できます
 
 #### **例：$10,000の投資**
 
@@ -251,29 +248,23 @@ Zap Pilot管理:
 
 #### **Q：隠れた手数料はありますか？**
 
-A：[TODO: TRANSLATE] Absolutely not. All fees are disclosed upfront and tracked in real-time. The
-only "hidden" costs are blockchain gas fees, which we optimize and share transparent tracking for.
+A：絶対にありません。すべての手数料は事前に開示され、リアルタイムで追跡されます。唯一の「隠れた」コストはブロックチェーンのガス手数料であり、私たちはそれを最適化し、透明な追跡を共有しています。
 
 #### **Q：利益が出なかった場合はどうなりますか？**
 
-A：[TODO: TRANSLATE] You only pay the management fee (which covers operations). No performance fees
-are charged if you don't exceed the profit threshold.
+A：運用をカバーする管理手数料のみをお支払いいただきます。利益のしきい値を超えなかった場合、パフォーマンス手数料は請求されません。
 
 #### **Q：手数料は予告なしに変更されますか？**
 
-A：[TODO: TRANSLATE] No. Fee changes require 30-day advance notice and only apply to new deposits.
-Your existing investments maintain their original fee structure.
+A：いいえ。手数料の変更には30日前の通知が必要であり、新規の預金にのみ適用されます。既存の投資は元の手数料体系を維持します。
 
 #### **Q：パフォーマンス手数料をどう正当化しますか？**
 
-A：[TODO: TRANSLATE] We believe that a simple, one-time 1% entry fee is the most transparent and
-fair model. It aligns our interests with yours by encouraging long-term investment, not by taking a
-cut of your profits.
+A：私たちは、シンプルで一度きりの1%のエントリー手数料が最も透明で公正なモデルであると信じています。それは、あなたの利益から分け前を取るのではなく、長期的な投資を奨励することによって、私たちの利益をあなたの利益と一致させます。
 
 #### **Q：手数料の税金はどうなりますか？**
 
-A：[TODO: TRANSLATE] Performance fees are typically tax-deductible as investment expenses. Consult
-your tax advisor for specific guidance.
+A：パフォーマンス手数料は通常、投資費用として税控除の対象となります。具体的なガイダンスについては、税務アドバイザーにご相談ください。
 
 ---
 
