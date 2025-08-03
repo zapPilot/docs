@@ -1,38 +1,37 @@
-# [TODO: TRANSLATE] V1 Exploit Compensation Plan
+# Plan de compensación por el exploit de la V1
 
-[TODO: TRANSLATE] To fairly reimburse early adopters who personally covered losses from the V1
-exploit, we have established a Compensation Pool worth US$20,380. The allocation is proportional to
-the actual loss each user incurred, and includes a modest interest adjustment to account for the
-opportunity cost during this period.
+Para reembolsar de manera justa a los primeros usuarios que cubrieron personalmente las pérdidas del
+exploit de la V1, hemos establecido un Fondo de Compensación por valor de 20.380 dólares. La
+asignación es proporcional a la pérdida real que cada usuario incurrió e incluye un modesto ajuste
+de intereses para tener en cuenta el costo de oportunidad durante este período.
 
-## [TODO: TRANSLATE] Compensation Method
+## Método de compensación
 
-[TODO: TRANSLATE] compensation will be paid using **stablecoins and ETH generated from protocol fees
-and revenue**, rather than $ZAP tokens. This approach:
+La compensación se pagará utilizando **stablecoins y ETH generados a partir de las comisiones e
+ingresos del protocolo**, en lugar de tokens $ZAP. Este enfoque:
 
-- [TODO: TRANSLATE] Preserves $ZAP token value by avoiding token dumps for compensation
-- [TODO: TRANSLATE] Uses sustainable protocol-generated revenue (stablecoins/ETH)
-- [TODO: TRANSLATE] Ensures fair compensation without negatively impacting token holders
+- Preserva el valor del token $ZAP al evitar la venta masiva de tokens para la compensación.
+- Utiliza los ingresos sostenibles generados por el protocolo (stablecoins/ETH).
+- Garantiza una compensación justa sin afectar negativamente a los poseedores de tokens.
 
-## [TODO: TRANSLATE] Impact on Token Buybacks
+## Impacto en la recompra de tokens
 
-**[TODO: TRANSLATE] Note**: [TODO: TRANSLATE] This compensation method will temporarily slow down
-the $ZAP token buyback program, as a portion of protocol revenue will be allocated to V1 exploit
-compensation instead of token buybacks. Once compensation is complete, the full protocol revenue
-will resume supporting token buybacks.
+**Nota**: Este método de compensación ralentizará temporalmente el programa de recompra de tokens
+$ZAP, ya que una parte de los ingresos del protocolo se destinará a la compensación por el exploit
+de la V1 en lugar de a la recompra de tokens. Una vez que se complete la compensación, la totalidad
+de los ingresos del protocolo volverá a respaldar la recompra de tokens.
 
-## [TODO: TRANSLATE] Compensation Details
+## Detalles de la compensación
 
-| [TODO: TRANSLATE] Recipient | [TODO: TRANSLATE] Covered Loss | [TODO: TRANSLATE] Payment Schedule                          |
-| --------------------------- | ------------------------------ | ----------------------------------------------------------- |
-| Eugene Chang                | 5 ETH (≈ $15,000)              | [TODO: TRANSLATE] Paid from protocol revenue over 12 months |
-| Adrian Wu                   | $5,380                         | [TODO: TRANSLATE] Paid from protocol revenue over 12 months |
+| Beneficiario | Pérdida cubierta  | Calendario de pagos                                    |
+| ------------ | ----------------- | ------------------------------------------------------ |
+| Eugene Chang | 5 ETH (≈ $15,000) | Pagado con los ingresos del protocolo durante 12 meses |
+| Adrian Wu    | $5,380            | Pagado con los ingresos del protocolo durante 12 meses |
 
-**[TODO: TRANSLATE] Total Compensation Pool**: $20,380 in stablecoins/ETH from protocol fees
+**Fondo total de compensación**: 20.380 $ en stablecoins/ETH procedentes de las comisiones e
+ingresos del protocolo
 
-**[TODO: TRANSLATE] Payment Source**: [TODO: TRANSLATE] Protocol-generated fees and revenue
-(stablecoins, ETH)  
-**[TODO: TRANSLATE] Payment Method**: [TODO: TRANSLATE] Monthly distributions over 12 months
-starting from protocol revenue generation  
-**[TODO: TRANSLATE] Interest Rate**: [TODO: TRANSLATE] Modest interest adjustment applied based on
-project's financial capacity
+**Fuente de pago**: Comisiones e ingresos generados por el protocolo (stablecoins, ETH) **Método de
+pago**: Distribuciones mensuales durante 12 meses a partir de la generación de ingresos del
+protocolo **Tasa de interés**: Se aplica un modesto ajuste de intereses en función de la capacidad
+financiera del proyecto

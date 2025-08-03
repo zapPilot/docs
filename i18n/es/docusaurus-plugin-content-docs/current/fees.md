@@ -6,8 +6,8 @@ sidebar_position: 6
 
 **Transparente, competitivo y alineado con tu éxito** 💰
 
-[TODO: TRANSLATE] We believe in complete fee transparency and aligning our success with yours.
-Here's exactly what you pay and why our fee structure is designed to maximize your returns.
+Creemos en la total transparencia de las tarifas y en alinear nuestro éxito con el tuyo. Here's
+exactly what you pay and why our fee structure is designed to maximize your returns.
 
 ## 💎 Resumen de Estructura de Tarifas
 
@@ -16,9 +16,8 @@ Here's exactly what you pay and why our fee structure is designed to maximize yo
 - 🎯 **Simple y transparente**: Una tarifa, sin costos ocultos
 - 🏆 **Tarifas bajas líderes en la industria**: Solo 1% de tarifa de entrada, nada más
 - 🔍 **Sin tarifas continuas**: Sin tarifas de gestión o rendimiento
-- ⚖️ **[TODO: TRANSLATE] Pay once, invest forever**: [TODO: TRANSLATE] Our single 1% entry fee is
-  the only fee you'll pay for that deposit. As long as your funds remain invested, you'll never be
-  charged by us again.
+- ⚖️ **Paga una vez, invierte para siempre**: Nuestra única tarifa de entrada del 1% es la única que
+  pagarás por ese depósito. Mientras tus fondos permanezcan invertidos, nunca más te cobraremos.
 
 ### Estructura de Tarifas
 
@@ -268,14 +267,14 @@ Your existing investments maintain their original fee structure.
 
 #### **P: ¿Cómo justifican las tarifas de rendimiento?**
 
-R: [TODO: TRANSLATE] We believe that a simple, one-time 1% entry fee is the most transparent and
-fair model. It aligns our interests with yours by encouraging long-term investment, not by taking a
-cut of your profits.
+R: Creemos que una tarifa de entrada única y sencilla del 1% es el modelo más transparente y justo.
+Alinea nuestros intereses con los tuyos al fomentar la inversión a largo plazo, no al tomar una
+parte de tus ganancias.
 
 #### **P: ¿Qué pasa con los impuestos sobre tarifas?**
 
-R: [TODO: TRANSLATE] Performance fees are typically tax-deductible as investment expenses. Consult
-your tax advisor for specific guidance.
+R: Las tarifas de rendimiento suelen ser deducibles de impuestos como gastos de inversión. Consulta
+a tu asesor fiscal para obtener una orientación específica.
 
 ---
 

@@ -1,38 +1,37 @@
-# [TODO: TRANSLATE] V1 Exploit Compensation Plan
+# Plan d'indemnisation pour l'exploit V1
 
-[TODO: TRANSLATE] To fairly reimburse early adopters who personally covered losses from the V1
-exploit, we have established a Compensation Pool worth US$20,380. The allocation is proportional to
-the actual loss each user incurred, and includes a modest interest adjustment to account for the
-opportunity cost during this period.
+Pour rembourser équitablement les premiers adoptants qui ont personnellement couvert les pertes de
+l'exploit V1, nous avons mis en place un pool d'indemnisation d'une valeur de 20 380 $ US.
+L'allocation est proportionnelle à la perte réelle subie par chaque utilisateur et comprend un
+modeste ajustement des intérêts pour tenir compte du coût d'opportunité pendant cette période.
 
-## [TODO: TRANSLATE] Compensation Method
+## Méthode d'indemnisation
 
-[TODO: TRANSLATE] compensation will be paid using **stablecoins and ETH generated from protocol fees
-and revenue**, rather than $ZAP tokens. This approach:
+L'indemnisation sera versée en **stablecoins et en ETH générés par les frais et les revenus du
+protocole**, plutôt qu'en jetons $ZAP. Cette approche :
 
-- [TODO: TRANSLATE] Preserves $ZAP token value by avoiding token dumps for compensation
-- [TODO: TRANSLATE] Uses sustainable protocol-generated revenue (stablecoins/ETH)
-- [TODO: TRANSLATE] Ensures fair compensation without negatively impacting token holders
+- Préserve la valeur du jeton $ZAP en évitant les ventes de jetons pour l'indemnisation
+- Utilise les revenus durables générés par le protocole (stablecoins/ETH)
+- Garantit une indemnisation équitable sans nuire aux détenteurs de jetons
 
-## [TODO: TRANSLATE] Impact on Token Buybacks
+## Impact sur les rachats de jetons
 
-**[TODO: TRANSLATE] Note**: [TODO: TRANSLATE] This compensation method will temporarily slow down
-the $ZAP token buyback program, as a portion of protocol revenue will be allocated to V1 exploit
-compensation instead of token buybacks. Once compensation is complete, the full protocol revenue
-will resume supporting token buybacks.
+**Remarque** : Cette méthode d'indemnisation ralentira temporairement le programme de rachat de
+jetons $ZAP, car une partie des revenus du protocole sera allouée à l'indemnisation de l'exploit V1
+au lieu des rachats de jetons. Une fois l'indemnisation terminée, l'intégralité des revenus du
+protocole reprendra le soutien aux rachats de jetons.
 
-## [TODO: TRANSLATE] Compensation Details
+## Détails de l'indemnisation
 
-| [TODO: TRANSLATE] Recipient | [TODO: TRANSLATE] Covered Loss | [TODO: TRANSLATE] Payment Schedule                          |
-| --------------------------- | ------------------------------ | ----------------------------------------------------------- |
-| Eugene Chang                | 5 ETH (≈ $15,000)              | [TODO: TRANSLATE] Paid from protocol revenue over 12 months |
-| Adrian Wu                   | $5,380                         | [TODO: TRANSLATE] Paid from protocol revenue over 12 months |
+| Bénéficiaire | Perte couverte     | Calendrier de paiement                        |
+| ------------ | ------------------ | --------------------------------------------- |
+| Eugene Chang | 5 ETH (≈ 15 000 $) | Payé sur les revenus du protocole sur 12 mois |
+| Adrian Wu    | 5 380 $            | Payé sur les revenus du protocole sur 12 mois |
 
-**[TODO: TRANSLATE] Total Compensation Pool**: $20,380 in stablecoins/ETH from protocol fees
+**Pool d'indemnisation total** : 20 380 $ en stablecoins/ETH provenant des frais et revenus du
+protocole
 
-**[TODO: TRANSLATE] Payment Source**: [TODO: TRANSLATE] Protocol-generated fees and revenue
-(stablecoins, ETH)  
-**[TODO: TRANSLATE] Payment Method**: [TODO: TRANSLATE] Monthly distributions over 12 months
-starting from protocol revenue generation  
-**[TODO: TRANSLATE] Interest Rate**: [TODO: TRANSLATE] Modest interest adjustment applied based on
-project's financial capacity
+**Source de paiement** : Frais et revenus générés par le protocole (stablecoins, ETH) **Méthode de
+paiement** : Distributions mensuelles sur 12 mois à compter de la génération des revenus du
+protocole **Taux d'intérêt** : Modeste ajustement des intérêts appliqué en fonction de la capacité
+financière du projet

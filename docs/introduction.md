@@ -13,111 +13,41 @@ across chains into higher-yield pools with one click while every token stays in 
 
 [pitch deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)
 
-## 🎯 The Problem We Solve
+Why Zap Pilot?
 
-Traditional DeFi investing is **complicated**:
+🔁 Intent-Centric Rebalancing You tell us what you want — we do the rest. Sell winners, buy
+laggards, shift yield — all in one click. Zap into predefined strategies or build your own.
 
-- Multiple wallets across different chains
-- Complex transaction sequences
-- High gas fees and failed transactions
-- Constant portfolio monitoring and rebalancing
-- Technical knowledge barriers
+🔒 Non-Custodial by Design We never touch your funds. All zaps are executed directly from your own
+Account Abstraction (AA) wallet, giving you full control and ownership.
 
-## ✨ The Zap Pilot Solution
+🌉 Cross-Chain by Default No more juggling bridges, swaps, or interfaces. Zap Pilot seamlessly
+handles bridging, swapping, staking, and more — across chains and protocols.
 
-We transform complex DeFi operations into **simple intentions**:
+📈 Curated Vaults, Indices, and Memes Choose a passive yield vault, a cross-chain index, or a meme
+portfolio. Zap Pilot supports any investment intent that can be codified — and rebalanced with one
+click.
 
-```
-"I want to invest $1,000 in a balanced crypto portfolio with medium risk"
-```
+## Product Comparison Table
 
-That's it. Our engine handles:
+| Product             | Cross-chain Ops | Custody Type                               | Auto Rebalancing |
+| ------------------- | --------------- | ------------------------------------------ | ---------------- | --- |
+| **Zap Pilot**       | ✅              | ✅ User wallet                             | ❌               |
+| **vfat**            | ❌              | ⚠️ AA wallet and approve Vfat to access it | ✅               |
+| **Superform**       | ✅              | ⚠️ Vault custody                           | ❌               | ❌  |
+| **Yo Protocol**     | ✅              | ⚠️ Strategy custody                        | ✅               | ✅  |
+| **DeBank + Manual** | ❌              | User wallet ✅                             | ❌               | ❌  |
 
-- ✅ Cross-chain asset allocation
-- ✅ Optimal routing and execution
-- ✅ Continuous rebalancing
-- ✅ Risk management
-- ✅ Yield optimization
+## Use Cases
 
-## 🔐 Built on Trust
-
-### Non-Custodial by Design
-
-- **Your keys, your crypto** - funds never leave your wallet
-- **Reduced platform risk** - As an intent-execution engine, Zap Pilot doesn't have its own smart
-  contracts for you to deposit into. You interact directly with audited third-party protocols.
-- **Full transparency** - all operations on-chain and auditable
-
-### Security First
-
-- Smart contracts audited by leading security firms
-- Insurance coverage through DeFi protocols
-- Battle-tested infrastructure
-- Open source and community verified
-
-## 🌐 True Cross-Chain DeFi
-
-Unlike other platforms that require bridging or multiple transactions, Zap Pilot natively operates
-across:
-
-- **Leading Layer 2s** (Arbitrum, Base, Optimism)
-- **Ethereum**
-- **Solana** (coming soon)
-- **with more chains being added**
-
-## 🎭 For Everyone
-
-### 🔰 **DeFi Beginners**
-
-Start with simple, guided strategies. No need to understand the underlying complexity.
-
-### 📈 **Experienced Investors**
-
-Create custom strategies with granular control over risk, allocation, and rebalancing.
-
-### 🏛️ **Institutions**
-
-Enterprise-grade infrastructure with advanced analytics and reporting.
-
-## 🚀 Investment Strategies
-
-Choose from our curated strategies or build your own:
-
-- **🏦 Stablecoin Vaults** - Low risk, steady yields (15-25% APY)
-- **📊 Index Funds** - Diversified crypto exposure (5-15% APY)
-- **₿ Single Asset** - Bitcoin or Ethereum focused strategies
-- **⚙️ Custom Strategies** - Build exactly what you want (upcoming)
-
-## 💡 Why Intent-Based?
-
-Traditional DeFi requires you to know **how** to do something. Intent-based DeFi lets you focus on
-**what** you want to achieve.
-
-**Traditional Way:**
-
-1. Bridge assets to target chain
-2. Swap to required tokens
-3. Add liquidity to pools
-4. Stake LP tokens
-5. Monitor and rebalance
-6. Claim and compound rewards
-7. Repeat across multiple protocols...
-
-**Zap Pilot Way:**
-
-1. "I want medium-risk yield farming"
-2. ✨ Done ✨
-
-## 🎯 Our Mission
-
-**Democratize access to sophisticated DeFi strategies** while maintaining the core principles of
-decentralization, transparency, and user control.
-
-We believe everyone should have access to the same advanced financial tools that institutions use,
-without the complexity or custody risks.
+- Rebalance your multi chain portfolio with one click, it would move your stablecoins/btc/eth etc
+  liquidity from low APR pool to high APR pool according to that time's pool conditions
+- Zap into stablecoin yield vaults on L2s
+- Deploy into a meme index for market sentiment plays
+- Invest in your own custom portfolio across chains
 
 ---
 
-Ready to experience the future of DeFi investing?
+Ready to experience the future of portfolio autopilot?
 
 👉 **[Get Started →](./getting-started)**

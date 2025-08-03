@@ -1,99 +1,103 @@
-# [TODO: TRANSLATE] Zap Pilot Tokenomics (v2 – 2025)
+# Tokenomics de Zap Pilot (v2 – 2025)
 
-## [TODO: TRANSLATE] Overview
+## Aperçu
 
-Zap Pilot [TODO: TRANSLATE] is an on-chain portfolio autopilot. For busy DeFi users, Zap Pilot cuts
-portfolio rebalancing from 30 min to 30 sec — moving your crypto across chains into higher-yield
-pools with one click, while every token stays in your own wallet.
+Zap Pilot est un pilote automatique de portefeuille en chaîne. Pour les utilisateurs de DeFi très
+occupés, Zap Pilot réduit le rééquilibrage de portefeuille de 30 minutes à 30 secondes - en
+déplaçant vos cryptomonnaies d'une chaîne à l'autre dans des pools à plus haut rendement en un seul
+clic, tandis que chaque jeton reste dans votre propre portefeuille.
 
-[TODO: TRANSLATE] The $ZAP token uses a buyback-based token economy: no staking, no passive rewards,
-no empty emissions — just value aligned with actual protocol usage.
+Le jeton $ZAP utilise une économie de jetons basée sur le rachat : pas de jalonnement, pas de
+récompenses passives, pas d'émissions vides - juste une valeur alignée sur l'utilisation réelle du
+protocole.
 
-## [TODO: TRANSLATE] Token Details
+## Détails du jeton
 
-| [TODO: TRANSLATE] Field         | [TODO: TRANSLATE] Value                               |
-| ------------------------------- | ----------------------------------------------------- |
-| [TODO: TRANSLATE] Name          | Zap Pilot Token                                       |
-| [TODO: TRANSLATE] Symbol        | $ZAP ([TODO: TRANSLATE] tentative, may rebrand)       |
-| [TODO: TRANSLATE] Supply Cap    | 100,000,000 ([TODO: TRANSLATE] fixed)                 |
-| [TODO: TRANSLATE] Standard      | LayerZero OFT ([TODO: TRANSLATE] Omnichain)           |
-| [TODO: TRANSLATE] Issuance      | Via ThirdWeb + LayerZero                              |
-| [TODO: TRANSLATE] Primary Chain | Base ([TODO: TRANSLATE] with Optimism, Polygon, etc.) |
+| Champ                       | Valeur                                 |
+| --------------------------- | -------------------------------------- |
+| Nom                         | Jeton Zap Pilot                        |
+| Symbole                     | $ZAP (provisoire, peut être rebaptisé) |
+| Plafond d'approvisionnement | 100 000 000 (fixe)                     |
+| Norme                       | LayerZero OFT (Omnichain)              |
+| Émission                    | Via ThirdWeb + LayerZero               |
+| Chaîne principale           | Base (avec Optimism, Polygon, etc.)    |
 
-## [TODO: TRANSLATE] Utility & Design Philosophy
+## Utilité et philosophie de conception
 
-[TODO: TRANSLATE] No staking, no protocol-controlled yield. Instead: Every fee collected → used to
-buy $ZAP from the market → price support via real usage.
+Pas de jalonnement, pas de rendement contrôlé par le protocole. Au lieu de cela : chaque frais perçu
+→ utilisé pour acheter des $ZAP sur le marché → soutien des prix via une utilisation réelle.
 
-| [TODO: TRANSLATE] Utility                                                      | [TODO: TRANSLATE] Description                                               | [TODO: TRANSLATE] Price Support |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ------------------------------- |
-| [TODO: TRANSLATE] Protocol fees are used to buy $ZAP via Uniswap or other DEXs |                                                                             | ✅                              |
-| [TODO: TRANSLATE] User Incentives                                              | [TODO: TRANSLATE] Distributed via retroactive airdrops based on Zap Score   |                                 |
-| [TODO: TRANSLATE] Governance (optional)                                        | [TODO: TRANSLATE] $ZAP may be used for future DAO voting or proposal rights |                                 |
+| Utilité                                                                                | Description                                                                            | Soutien des prix |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------- |
+| Les frais de protocole sont utilisés pour acheter des $ZAP via Uniswap ou d'autres DEX |                                                                                        | ✅               |
+| Incitations des utilisateurs                                                           | Distribuées via des parachutages rétroactifs basés sur le score Zap                    |                  |
+| Gouvernance (facultatif)                                                               | Le $ZAP peut être utilisé pour les futurs votes de la DAO ou les droits de proposition |                  |
 
-## [TODO: TRANSLATE] Buyback Mechanism
+## Mécanisme de rachat
 
-| [TODO: TRANSLATE] Component                                            | [TODO: TRANSLATE] Implementation                                          | [TODO: TRANSLATE] Source of Funds |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
-| [TODO: TRANSLATE] Protocol-level zap-in fees (ETH / USDC)              |                                                                           |                                   |
-| [TODO: TRANSLATE] Automated or manual buybacks on DEXs (e.g., Uniswap) |                                                                           |                                   |
-| [TODO: TRANSLATE] Token Handling                                       | [TODO: TRANSLATE] Burned or redirected to DAO treasury                    |                                   |
-| [TODO: TRANSLATE] Transparency                                         | [TODO: TRANSLATE] Weekly public reporting of buyback volume (optional UI) |                                   |
+| Composant                                                         | Implémentation                                                                             | Source de fonds |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------- |
+| Frais de zap-in au niveau du protocole (ETH / USDC)               |                                                                                            |                 |
+| Rachats automatisés ou manuels sur les DEX (par exemple, Uniswap) |                                                                                            |                 |
+| Traitement des jetons                                             | Brûlés ou redirigés vers la trésorerie de la DAO                                           |                 |
+| Transparence                                                      | Rapports publics hebdomadaires sur le volume de rachat (interface utilisateur facultative) |                 |
 
-## [TODO: TRANSLATE] Token Allocation
+## Allocation de jetons
 
-| [TODO: TRANSLATE] Category                 | [TODO: TRANSLATE] % Allocation | [TODO: TRANSLATE] Notes                                                   |
-| ------------------------------------------ | ------------------------------ | ------------------------------------------------------------------------- |
-| [TODO: TRANSLATE] User Airdrop (Zap Score) | 40%                            | [TODO: TRANSLATE] Based on usage, referrals, social engagement            |
-| [TODO: TRANSLATE] Team                     | 20%                            | [TODO: TRANSLATE] 1-year cliff + 2-year linear vesting                    |
-| [TODO: TRANSLATE] Partners & Advisors      | 10%                            | [TODO: TRANSLATE] Includes incubators (1–2%), launchpads (1–2%), KOL pool |
-| [TODO: TRANSLATE] DAO Treasury             | 20%                            | [TODO: TRANSLATE] Buybacks, incentive campaigns, governance               |
-| [TODO: TRANSLATE] Liquidity Bootstrapping  | 10%                            | Uniswap/Aerodrome LP [TODO: TRANSLATE] seeding                            |
+| Catégorie                              | % d'allocation | Remarques                                                                         |
+| -------------------------------------- | -------------- | --------------------------------------------------------------------------------- |
+| Parachutage d'utilisateurs (score Zap) | 40 %           | Basé sur l'utilisation, les références, l'engagement social                       |
+| Équipe                                 | 20 %           | Falaise d'un an + acquisition linéaire de deux ans                                |
+| Partenaires et conseillers             | 10 %           | Comprend les incubateurs (1–2 %), les rampes de lancement (1–2 %), le pool de KOL |
+| Trésorerie de la DAO                   | 20 %           | Rachats, campagnes d'incitation, gouvernance                                      |
+| Amorçage de la liquidité               | 10 %           | Amorçage de LP Uniswap/Aerodrome                                                  |
 
-[TODO: TRANSLATE] Partner/Advisor tokens are vested based on contribution type, generally using a
-6-month cliff + 12-month linear unlock, but flexible per case.
+Les jetons des partenaires/conseillers sont acquis en fonction du type de contribution, en utilisant
+généralement une falaise de 6 mois + un déverrouillage linéaire de 12 mois, mais flexible selon les
+cas.
 
-## [TODO: TRANSLATE] Zap Score-Based Airdrop
+## Parachutage basé sur le score Zap
 
-| [TODO: TRANSLATE] Metric            | [TODO: TRANSLATE] Weight | [TODO: TRANSLATE] Example |
-| ----------------------------------- | ------------------------ | ------------------------- |
-| [TODO: TRANSLATE] Zap-in Volume     | 40%                      |                           |
-| [TODO: TRANSLATE] Zap-in Frequency  | 40%                      |                           |
-| [TODO: TRANSLATE] Referrals         | 10%                      |                           |
-| [TODO: TRANSLATE] Community Actions | 10%                      |                           |
+| Métrique                 | Poids | Exemple |
+| ------------------------ | ----- | ------- |
+| Volume de zap-in         | 40 %  |         |
+| Fréquence de zap-in      | 40 %  |         |
+| Références               | 10 %  |         |
+| Actions de la communauté | 10 %  |         |
 
-[TODO: TRANSLATE] Zap Score is off-chain, tracked via backend, Notion or Sheets. Airdrop
-distribution is staged, and partially locked to prevent instant dumping.
+Le score Zap est hors chaîne, suivi via le backend, Notion ou Sheets. La distribution du parachutage
+est échelonnée et partiellement verrouillée pour empêcher le dumping instantané.
 
-## [TODO: TRANSLATE] Tech Stack Overview
+## Aperçu de la pile technologique
 
-| [TODO: TRANSLATE] Function              | [TODO: TRANSLATE] Tool/Provider                           | [TODO: TRANSLATE] Notes |
-| --------------------------------------- | --------------------------------------------------------- | ----------------------- |
-| [TODO: TRANSLATE] Intent Infrastructure | Thirdweb/ZeroDev (EIP-7702 + Paymaster)                   |                         |
-| [TODO: TRANSLATE] Token Infrastructure  | ThirdWeb + LayerZero (OFT)                                |                         |
-| [TODO: TRANSLATE] Buyback Script        | Node.js + Uniswap SDK [TODO: TRANSLATE] or custom relayer |                         |
-| [TODO: TRANSLATE] Score Tracking        | Notion / Airtable / Firebase                              |                         |
-| [TODO: TRANSLATE] Airdrop Tools         | ThirdWeb SDK / Galxe / Airdrop.so                         |                         |
-| [TODO: TRANSLATE] LPs & Launchpads      | Uniswap / Aerodrome / [TODO: TRANSLATE] Partnered IDO     |                         |
+| Fonction                   | Outil/Fournisseur                            | Remarques |
+| -------------------------- | -------------------------------------------- | --------- |
+| Infrastructure d'intention | Thirdweb/ZeroDev (EIP-7702 + Paymaster)      |           |
+| Infrastructure de jetons   | ThirdWeb + LayerZero (OFT)                   |           |
+| Script de rachat           | Node.js + SDK Uniswap ou relais personnalisé |           |
+| Suivi du score             | Notion / Airtable / Firebase                 |           |
+| Outils de parachutage      | SDK ThirdWeb / Galxe / Airdrop.so            |           |
+| LP et rampes de lancement  | Uniswap / Aerodrome / IDO en partenariat     |           |
 
-## [TODO: TRANSLATE] Launchpad & Partner Vesting
+## Acquisition par la rampe de lancement et les partenaires
 
-[TODO: TRANSLATE] Tokens allocated to launchpads or advisors follow a 6-month cliff + 12-month
-linear vesting schedule. For example, if a launchpad receives 2,000,000 $ZAP:
+Les jetons alloués aux rampes de lancement ou aux conseillers suivent un calendrier d'acquisition
+linéaire de 6 mois de falaise + 12 mois. Par exemple, si une rampe de lancement reçoit 2 000 000 de
+$ZAP :
 
-- [TODO: TRANSLATE] Months 1–6: 0% unlocked
-- [TODO: TRANSLATE] Month 7 onward: unlocks 1/12 per month (≈166,666 tokens per month)
-- [TODO: TRANSLATE] Fully unlocked after month 18
+- Mois 1 à 6 : 0 % débloqué
+- À partir du 7e mois : débloque 1/12e par mois (≈166 666 jetons par mois)
+- Entièrement débloqué après le 18e mois
 
-[TODO: TRANSLATE] Vesting schedules are flexible and negotiated based on actual value contributed
-(e.g. marketing push, liquidity support, advisory work).
+Les calendriers d'acquisition sont flexibles et négociés en fonction de la valeur réelle apportée
+(par exemple, effort de marketing, soutien à la liquidité, travail de conseil).
 
-## [TODO: TRANSLATE] Why This Model Works
+## Pourquoi ce modèle fonctionne
 
-| [TODO: TRANSLATE] Feature                | [TODO: TRANSLATE] Benefit                                          |
-| ---------------------------------------- | ------------------------------------------------------------------ |
-| [TODO: TRANSLATE] No staking             | [TODO: TRANSLATE] No contract risk, no passive yield dilution      |
-| [TODO: TRANSLATE] Buyback-based          | [TODO: TRANSLATE] Price is backed by real usage & revenue          |
-| [TODO: TRANSLATE] Fair Airdrop           | [TODO: TRANSLATE] Encourages real participation, not speculation   |
-| [TODO: TRANSLATE] OFT design             | [TODO: TRANSLATE] Native cross-chain movement via LayerZero        |
-| [TODO: TRANSLATE] Smart EOA wallet infra | [TODO: TRANSLATE] Seamless UX for end users, gas sponsorship ready |
+| Fonctionnalité                           | Avantage                                                                                 |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Pas de jalonnement                       | Pas de risque de contrat, pas de dilution de rendement passif                            |
+| Basé sur le rachat                       | Le prix est soutenu par une utilisation et des revenus réels                             |
+| Parachutage équitable                    | Encourage la participation réelle, pas la spéculation                                    |
+| Conception OFT                           | Mouvement natif inter-chaînes via LayerZero                                              |
+| Infrastructure de portefeuille Smart EOA | Expérience utilisateur transparente pour les utilisateurs finaux, parrainage de gaz prêt |
