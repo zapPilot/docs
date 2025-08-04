@@ -14,62 +14,63 @@ const FeatureList: FeatureItem[] = [
   {
     title: (
       <Translate
-        id='homepage.features.intentExecution.title'
-        description='The title for Intent-Based Execution feature'
+        id='homepage.features.fastRebalancing.title'
+        description='The title for 30-Second Rebalancing feature'
       >
-        Intent-Based Execution
+        30-Second Rebalancing
       </Translate>
     ),
     Svg: require('@site/static/img/intent-execution.svg').default,
     description: (
       <Translate
-        id='homepage.features.intentExecution.description'
-        description='The description for Intent-Based Execution feature'
+        id='homepage.features.fastRebalancing.description'
+        description='The description for 30-Second Rebalancing feature'
       >
-        Specify your desired outcomes, not transaction sequences. Zap Pilot
-        interprets your intents and executes the optimal path across DeFi
-        protocols automatically.
+        Cut portfolio rebalancing from 30 minutes to 30 seconds. Our autopilot
+        instantly moves your crypto across chains into higher-yield pools with
+        one click.
       </Translate>
     ),
   },
   {
     title: (
       <Translate
-        id='homepage.features.multiVault.title'
-        description='The title for Multi-Vault Strategies feature'
+        id='homepage.features.selfCustody.title'
+        description='The title for 100% Self-Custody feature'
       >
-        Multi-Vault Strategies
+        100% Self-Custody
       </Translate>
     ),
     Svg: require('@site/static/img/multi-vault.svg').default,
     description: (
       <Translate
-        id='homepage.features.multiVault.description'
-        description='The description for Multi-Vault Strategies feature'
+        id='homepage.features.selfCustody.description'
+        description='The description for 100% Self-Custody feature'
       >
-        Choose from Stablecoin Vault, Index500 (S&P500-like), BTC Vault, ETH
-        Vault, or create custom strategies. Automated rebalancing keeps your
-        portfolio optimized.
+        Based on EIP-7702, every token stays in your own EOA wallet. No custody
+        risks, no protocol control - you maintain complete ownership while the
+        autopilot optimizes your yields.
       </Translate>
     ),
   },
   {
     title: (
       <Translate
-        id='homepage.features.crossChain.title'
-        description='The title for Cross-Chain & Gasless feature'
+        id='homepage.features.yieldOptimization.title'
+        description='The title for Cross-Chain Yield Optimization feature'
       >
-        Cross-Chain & Gasless
+        Cross-Chain Yield Optimization
       </Translate>
     ),
     Svg: require('@site/static/img/cross-chain.svg').default,
     description: (
       <Translate
-        id='homepage.features.crossChain.description'
-        description='The description for Cross-Chain & Gasless feature'
+        id='homepage.features.yieldOptimization.description'
+        description='The description for Cross-Chain Yield Optimization feature'
       >
-        Support for 20+ blockchain networks with EIP-7702 enabling gasless
-        transactions. Seamless DeFi operations across multiple chains.
+        Automatically discovers and moves your assets to the highest-yielding
+        opportunities across 20+ blockchain networks. Seamless cross-chain
+        operations with optimal yield capture.
       </Translate>
     ),
   },
