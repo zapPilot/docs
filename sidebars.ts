@@ -24,20 +24,12 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Investment Strategies',
-      items: [
-        'strategies/index',
-        'strategies/stablecoin',
-        'strategies/index-funds',
-        'strategies/bitcoin',
-        'strategies/ethereum',
-        'strategies/custom',
-        'strategies/comparison',
-      ],
+      items: ['strategies/index', 'strategies/kelly-criterion'],
     },
     {
       type: 'category',
       label: 'Getting Started',
-      items: ['getting-started/index', 'getting-started/risk-assessment'],
+      items: ['getting-started/index'],
     },
     {
       type: 'category',
@@ -51,8 +43,8 @@ const sidebars: SidebarsConfig = {
     },
     'about',
     'fees',
-    'faq',
-    'support',
+    'roadmap',
+    'investment-potential',
   ],
 };
 

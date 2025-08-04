@@ -160,4 +160,4 @@ sidebar_position: 9
 私たちのロードマップに影響を与えたいですか？私たちのコミュニティに参加してアイデアを共有してください！
 
 👉 **[Discord参加 →](https://discord.gg/zap-pilot)** 👉
-**[アップデートをフォロー →](https://twitter.com/zappilot)**
+**[アップデートをフォロー →](https://x.com/zapPilot)**

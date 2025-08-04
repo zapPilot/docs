@@ -66,7 +66,7 @@ profundas sobre estrategias, nuestro equipo y la comunidad están listos para ay
 
 #### 🐦 **Redes Sociales**
 
-- **Twitter**: [@ZapPilotDeFi](https://twitter.com/ZapPilotDeFi)
+- **Twitter**: [@ZapPilotDeFi](https://x.com/zapPilotDeFi)
 - **LinkedIn**: [Zap Pilot Oficial](https://linkedin.com/company/zap-pilot)
 - **Características**: Actualizaciones, información del mercado, aspectos destacados de la comunidad
 

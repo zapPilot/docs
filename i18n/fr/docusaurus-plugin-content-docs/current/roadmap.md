@@ -165,4 +165,4 @@ plus tard.
 Vous voulez influencer notre roadmap ? Rejoignez notre communauté et partagez vos idées !
 
 👉 **[Rejoindre Discord →](https://discord.gg/zap-pilot)** 👉
-**[Suivre les Mises à Jour →](https://twitter.com/zappilot)**
+**[Suivre les Mises à Jour →](https://x.com/zapPilot)**

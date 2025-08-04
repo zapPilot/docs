@@ -65,7 +65,7 @@ sidebar_position: 8
 
 #### 🐦 **社群媒體**
 
-- **Twitter**：[@ZapPilotDeFi](https://twitter.com/ZapPilotDeFi)
+- **Twitter**：[@ZapPilotDeFi](https://x.com/zapPilotDeFi)
 - **LinkedIn**：[Zap Pilot Official](https://linkedin.com/company/zap-pilot)
 - **功能**：更新、市場洞察、社群亮點
 

@@ -67,7 +67,7 @@ aider.
 
 #### 🐦 **Réseaux sociaux**
 
-- **Twitter**: [@ZapPilotDeFi](https://twitter.com/ZapPilotDeFi)
+- **Twitter**: [@ZapPilotDeFi](https://x.com/zapPilotDeFi)
 - **LinkedIn**: [Zap Pilot Officiel](https://linkedin.com/company/zap-pilot)
 - **Fonctionnalités**: Mises à jour, aperçus du marché, faits saillants de la communauté
 
