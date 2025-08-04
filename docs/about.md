@@ -42,7 +42,7 @@ core principles of decentralization and user control.
   design and usability. He excels at translating product requirements into seamless, performant user
   experiences.
 
-### Eric Chan - Strategy Advisor
+### Eric Chen - Strategy Advisor
 
 - **Background**: Senior Engineering Manager with a proven track record in both technical leadership
   and business strategy.

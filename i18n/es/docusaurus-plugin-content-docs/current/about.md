@@ -45,7 +45,7 @@ de DeFi mientras mantenemos los principios fundamentales de descentralización y
   para el diseño y la usabilidad. Ella sobresale en la traducción de requisitos de producto en
   experiencias de usuario fluidas y de alto rendimiento.
 
-### Eric Chan - Asesor Estratégico
+### Eric Chen - Asesor Estratégico
 
 - **Antecedentes**: Gerente de Ingeniería Senior con una trayectoria probada tanto en liderazgo
   técnico como en estrategia de negocios.
