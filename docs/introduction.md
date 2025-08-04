@@ -18,10 +18,8 @@ sidebar_position: 1
 
 **Traditional approach:**
 
-```
-1.	Check yields across protocols → 2. Unstake assets → 3. Bridge tokens →
-2.	Swap into new allocations → 5. Restake → 6. Repeat every week or month
-```
+1. Check yields across protocols → 2. Unstake assets → 3. Bridge tokens →
+2. Swap into new allocations → 5. Restake → 6. Repeat every week or month
 
 **With Zap Pilot:**
 
