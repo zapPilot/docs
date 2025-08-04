@@ -304,8 +304,9 @@ Diligenceなどの主要なセキュリティ企業によって監査されて�
 
 まだ質問がありますか？私たちがお手伝いします！
 
-👉 **[私たちのDiscordに参加する](https://discord.gg/zap-pilot)** コミュニティサポートのために 👉
-**[相談を予約する](https://cal.com/zap-pilot)** パーソナライズされたガイダンスのために  
+👉 **[私たちのDiscordに参加する](https://discord.com/invite/sNsMmtsCCV)**
+コミュニティサポートのために 👉 **[相談を予約する](https://cal.com/zap-pilot)**
+パーソナライズされたガイダンスのために  
 👉 **[投資を始める](./getting-started)** 自信を持って
 
 _あなたの質問が見つかりませんか？ support@zap-pilot.com

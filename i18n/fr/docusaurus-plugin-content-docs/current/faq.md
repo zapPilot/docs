@@ -332,8 +332,9 @@ effet de levier.
 
 Vous avez encore des questions ? Nous sommes là pour vous aider !
 
-👉 **[Rejoignez notre Discord](https://discord.gg/zap-pilot)** pour le support communautaire 👉
-**[Planifiez une consultation](https://cal.com/zap-pilot)** pour des conseils personnalisés  
+👉 **[Rejoignez notre Discord](https://discord.com/invite/sNsMmtsCCV)** pour le support
+communautaire 👉 **[Planifiez une consultation](https://cal.com/zap-pilot)** pour des conseils
+personnalisés  
 👉 **[Commencez à investir](./getting-started)** en toute confiance
 
 _Vous ne trouvez pas votre question ? Envoyez-nous un e-mail à support@zap-pilot.com et nous

@@ -16,6 +16,16 @@ const sidebars: SidebarsConfig = {
   // 主要文档侧边栏
   tutorialSidebar: [
     'introduction',
+    'faq',
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: [
+        'getting-started/index',
+        'getting-started/wallet-setup',
+        'getting-started/first-investment',
+      ],
+    },
     {
       type: 'category',
       label: 'How It Works',
@@ -28,23 +38,20 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Getting Started',
-      items: ['getting-started/index'],
-    },
-    {
-      type: 'category',
       label: 'Safety & Security',
       items: ['security/index', 'security/incidents'],
     },
+    'fees',
     {
       type: 'category',
       label: 'Tokenomics',
       items: ['tokenomics/tokenomics', 'tokenomics/compensation_plan'],
     },
-    'about',
-    'fees',
-    'roadmap',
-    'investment-potential',
+    {
+      type: 'category',
+      label: 'About',
+      items: ['about', 'investment-potential', 'roadmap'],
+    },
   ],
 };
 

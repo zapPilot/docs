@@ -50,7 +50,7 @@ sidebar_position: 8
 
 #### 💬 **Discord 伺服器**
 
-- **加入**：[discord.gg/zap-pilot](https://discord.gg/zap-pilot)
+- **加入**：[discord.gg/zap-pilot](https://discord.com/invite/sNsMmtsCCV)
 - **功能**：
   - 與團隊和社群即時聊天
   - 策略討論和技巧
@@ -365,4 +365,4 @@ sidebar_position: 8
 - 尊重、知識淵博且樂於助人的服務
 
 👉 **[開始對話](https://app.zap-pilot.com/support)** - 我們在這裡提供協助！ 👉
-**[加入我們的社群](https://discord.gg/zap-pilot)** - 與其他用戶和我們的團隊聯繫
+**[加入我們的社群](https://discord.com/invite/sNsMmtsCCV)** - 與其他用戶和我們的團隊聯繫

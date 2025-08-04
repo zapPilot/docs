@@ -52,7 +52,7 @@ aider.
 
 #### 💬 **Serveur Discord**
 
-- **Rejoindre**: [discord.gg/zap-pilot](https://discord.gg/zap-pilot)
+- **Rejoindre**: [discord.gg/zap-pilot](https://discord.com/invite/sNsMmtsCCV)
 - **Fonctionnalités**:
   - Chat en temps réel avec l'équipe et la communauté
   - Discussions et astuces stratégiques
@@ -370,5 +370,5 @@ aider à naviguer dans votre parcours d'investissement en toute confiance.
 - Service respectueux, compétent et utile
 
 👉 **[Démarrer une conversation](https://app.zap-pilot.com/support)** - Nous sommes là pour vous
-aider ! 👉 **[Rejoignez notre communauté](https://discord.gg/zap-pilot)** - Connectez-vous avec
-d'autres utilisateurs et notre équipe
+aider ! 👉 **[Rejoignez notre communauté](https://discord.com/invite/sNsMmtsCCV)** - Connectez-vous
+avec d'autres utilisateurs et notre équipe

@@ -51,7 +51,7 @@ profundas sobre estrategias, nuestro equipo y la comunidad están listos para ay
 
 #### 💬 **Servidor de Discord**
 
-- **Unirse**: [discord.gg/zap-pilot](https://discord.gg/zap-pilot)
+- **Unirse**: [discord.gg/zap-pilot](https://discord.com/invite/sNsMmtsCCV)
 - **Características**:
   - Chat en tiempo real con el equipo y la comunidad
   - Discusiones y consejos de estrategia
@@ -368,5 +368,5 @@ para ayudarle a navegar su viaje de inversión con confianza.
 - Servicio respetuoso, informado y útil
 
 👉 **[Iniciar una conversación](https://app.zap-pilot.com/support)** - ¡Estamos aquí para ayudarle!
-👉 **[Únase a nuestra comunidad](https://discord.gg/zap-pilot)** - Conéctese con otros usuarios y
-nuestro equipo
+👉 **[Únase a nuestra comunidad](https://discord.com/invite/sNsMmtsCCV)** - Conéctese con otros
+usuarios y nuestro equipo

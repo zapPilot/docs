@@ -91,7 +91,7 @@ Ref: CoinGecko Q3 2024, PwC, ARK Invest
 ### ✅ Short-Term
 
 - DeFi yield is no longer hype → fewer competitors
-- Omni-chain + AA wallet integration is technically hard
+- Omni-chain + Smart EOA wallet integration is technically hard
 
 ### ✅ Long-Term
 
@@ -107,8 +107,8 @@ Ref: CoinGecko Q3 2024, PwC, ARK Invest
 | Direct   | Etherfi Liquid, SuperForm, Tokemak, Overnight |
 | Indirect | Aave, Pendle, Lido, CEX platforms             |
 
-Zap Pilot is unique in being a **non-custodial, AA wallet-native, high-yield aggregator** focused on
-middle-tier (“BBB”) risk-return pools.
+Zap Pilot is unique in being a **non-custodial, Smart EOA wallet-native, high-yield aggregator**
+focused on middle-tier (“BBB”) risk-return pools.
 
 ---
 
@@ -178,7 +178,7 @@ stability and confidence, not just raw numbers.
 ## 📌 Why Now?
 
 - Yield aggregator narrative is underpriced
-- AA wallet infra is maturing
+- Smart EOA wallet infra is maturing
 - DeFi has no true “Wealthfront” yet
 
 We believe this is DeFi’s iPhone moment — and Zap Pilot is ready to lead.

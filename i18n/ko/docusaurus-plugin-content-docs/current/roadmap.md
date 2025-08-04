@@ -161,5 +161,5 @@ sidebar_position: 9
 
 우리의 로드맵에 영향을 주고 싶으신가요? 우리 커뮤니티에 참여하고 아이디어를 공유해주세요!
 
-👉 **[Discord 가입 →](https://discord.gg/zap-pilot)** 👉
+👉 **[Discord 가입 →](https://discord.com/invite/sNsMmtsCCV)** 👉
 **[업데이트 팔로우 →](https://x.com/zapPilot)**

@@ -70,7 +70,7 @@ Pick a strategy, rebalance anytime:
 
 ## Supported Networks
 
-Zap Pilot works seamlessly across **3+ blockchains** — including Ethereum, Arbitrum, and Base.
+Zap Pilot works seamlessly across **3+ blockchains** — including Optimism, Arbitrum, and Base.
 
 ---
 

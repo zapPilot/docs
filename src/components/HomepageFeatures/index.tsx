@@ -68,8 +68,8 @@ const FeatureList: FeatureItem[] = [
         id='homepage.features.crossChain.description'
         description='The description for Cross-Chain & Gasless feature'
       >
-        Support for 20+ blockchain networks with account abstraction enabling
-        gasless transactions. Seamless DeFi operations across multiple chains.
+        Support for 20+ blockchain networks with EIP-7702 enabling gasless
+        transactions. Seamless DeFi operations across multiple chains.
       </Translate>
     ),
   },

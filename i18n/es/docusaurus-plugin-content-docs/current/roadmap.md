@@ -163,5 +163,5 @@ después.
 
 ¿Quieres influir en nuestra hoja de ruta? ¡Únete a nuestra comunidad y comparte tus ideas!
 
-👉 **[Únete a Discord →](https://discord.gg/zap-pilot)** 👉
+👉 **[Únete a Discord →](https://discord.com/invite/sNsMmtsCCV)** 👉
 **[Sigue Actualizaciones →](https://x.com/zapPilot)**

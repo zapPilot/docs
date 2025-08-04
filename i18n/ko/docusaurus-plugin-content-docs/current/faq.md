@@ -307,7 +307,7 @@ FTX)과 달리, 우리는 당신의 자산을 절대 보관하지 않습니다. 
 
 아직 질문이 있으신가요? 저희가 도와드리겠습니다!
 
-👉 **[Discord에 참여하기](https://discord.gg/zap-pilot)** 커뮤니티 지원을 위해 👉
+👉 **[Discord에 참여하기](https://discord.com/invite/sNsMmtsCCV)** 커뮤니티 지원을 위해 👉
 **[상담 예약하기](https://cal.com/zap-pilot)** 맞춤형 안내를 위해 👉
 **[투자 시작하기](./getting-started)** 자신감을 가지고
 

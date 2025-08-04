@@ -330,7 +330,7 @@ enfoques sostenibles y gestionados por el riesgo en lugar de la especulación de
 
 ¿Todavía tiene preguntas? ¡Estamos aquí para ayudar!
 
-👉 **[Únase a nuestro Discord](https://discord.gg/zap-pilot)** para soporte comunitario 👉
+👉 **[Únase a nuestro Discord](https://discord.com/invite/sNsMmtsCCV)** para soporte comunitario 👉
 **[Programe una consulta](https://cal.com/zap-pilot)** para orientación personalizada  
 👉 **[Empiece a invertir](./getting-started)** con confianza
 

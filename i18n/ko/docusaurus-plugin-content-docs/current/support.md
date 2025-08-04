@@ -51,7 +51,7 @@ sidebar_position: 8
 
 #### 💬 **Discord 서버**
 
-- **참여**: [discord.gg/zap-pilot](https://discord.gg/zap-pilot)
+- **참여**: [discord.gg/zap-pilot](https://discord.com/invite/sNsMmtsCCV)
 - **기능**:
   - 팀 및 커뮤니티와 실시간 채팅
   - 전략 토론 및 팁
@@ -368,4 +368,4 @@ sidebar_position: 8
 - 존중하고 지식이 풍부하며 도움이 되는 서비스
 
 👉 **[대화 시작하기](https://app.zap-pilot.com/support)** - 저희가 도와드리겠습니다! 👉
-**[커뮤니티 참여하기](https://discord.gg/zap-pilot)** - 다른 사용자 및 저희 팀과 연결하세요
+**[커뮤니티 참여하기](https://discord.com/invite/sNsMmtsCCV)** - 다른 사용자 및 저희 팀과 연결하세요

@@ -296,7 +296,7 @@ Diligence。我们还维持 50 万美元的错误赏金计划，以增加安全�
 
 还有问题吗？我们随时为您提供帮助！
 
-👉 **[加入我们的 Discord](https://discord.gg/zap-pilot)** 以获得社区支持 👉
+👉 **[加入我们的 Discord](https://discord.com/invite/sNsMmtsCCV)** 以获得社区支持 👉
 **[安排咨询](https://cal.com/zap-pilot)** 以获得个性化指导👉 **[开始投资](./getting-started)**
 充满信心
 

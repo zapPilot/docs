@@ -159,4 +159,5 @@ sidebar_position: 9
 
 想要影響我們的路線圖？加入我們的社群並分享您的想法！
 
-👉 **[加入Discord →](https://discord.gg/zap-pilot)** 👉 **[關注更新 →](https://x.com/zapPilot)**
+👉 **[加入Discord →](https://discord.com/invite/sNsMmtsCCV)** 👉
+**[關注更新 →](https://x.com/zapPilot)**

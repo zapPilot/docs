@@ -300,7 +300,7 @@ Diligence。我們還維持 50 萬美元的錯誤賞金計畫，以增加安全�
 
 還有問題嗎？我們隨時為您提供協助！
 
-👉 **[加入我們的 Discord](https://discord.gg/zap-pilot)** 以獲得社群支援 👉
+👉 **[加入我們的 Discord](https://discord.com/invite/sNsMmtsCCV)** 以獲得社群支援 👉
 **[安排諮詢](https://cal.com/zap-pilot)** 以獲得個人化指導👉 **[開始投資](./getting-started)**
 充滿信心
 

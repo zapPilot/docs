@@ -7,7 +7,7 @@ sidebar_position: 1
 ## 🧠 Protocol Mechanism
 
 Zap Pilot is a **non-custodial, algorithmic portfolio autopilot** ✨  
-You stay in full control of your funds via your own smart wallet (**EIP-7702**).  
+You stay in full control of your funds via your own **Smart EOA wallet** powered by EIP-7702.  
 We help you **optimize**, **rebalance**, and **route funds** with one click —  
 No custody. No lock-ins. Just strategic suggestions and execution.
 
@@ -21,7 +21,7 @@ No custody. No lock-ins. Just strategic suggestions and execution.
 
 ## 1️⃣ User Deposit
 
-👜 You deposit directly from your **smart EOA wallet** (EIP-7702).  
+👜 You deposit directly from your **Smart EOA wallet** (powered by EIP-7702).  
 💡 Funds go into a **strategy vault** — a bundle of handpicked DeFi opportunities across chains.
 
 **See Also:** [Getting Started Guide](../getting-started)
