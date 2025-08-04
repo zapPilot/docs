@@ -7,73 +7,135 @@ sidebar_position: 2
 Zap Pilot helps users achieve stable, high-yield portfolios through intent-based execution,
 mathematical allocation, and full user custody.
 
+## 🎯 Our Strategic Philosophy
+
+At the core of our approach are three key principles:
+
+- **Mathematically Optimized Allocation**
+- **Transparent User Control**
+- **Adaptive Risk Management**
+
 ---
 
 ## ⚖️ 1. Allocation Strategy: Kelly Criterion
 
-We use the **Kelly Criterion** to compute optimal allocation weights for each pool within a Vault.
-This strategy balances **expected return** against **volatility**, aiming to maximize long-term
-geometric growth.
+### What is the Kelly Criterion?
 
-### 📐 Simplified Formula:
+The Kelly Criterion is a sophisticated mathematical approach to portfolio allocation that balances
+potential returns against risk. It helps us determine the optimal amount to invest in each
+opportunity.
+
+**Full Explanation:** [Kelly Criterion Detailed Guide](./kelly-criterion)
+
+#### 📐 Simplified Formula:
 
 ```
 allocation ∝ expected return / variance
 ```
 
-### ✅ Benefits:
+#### ✅ Key Benefits:
 
-- 📈 Higher weights for low-volatility, high-reward pools
-- 🛡️ Reduced risk from overexposure to any single protocol
-- 🔄 Allocation is **recalculated quarterly** to reflect market changes
+- 📈 Prioritizes low-volatility, high-reward opportunities
+- 🛡️ Minimizes risk of over-concentration
+- 🔄 Quarterly recalculation to adapt to market changes
 
 ---
 
-## 🔁 2. Rebalancing: User-Driven
+## 🔁 2. Rebalancing: User-Driven Optimization
 
-Since Zap Pilot is non-custodial and assets remain in your **AA wallet**, the protocol **cannot
-rebalance on your behalf**.  
-Instead, we offer a **hybrid rebalancing model**:
+### Why User-Driven?
 
-- 📬 **Quarterly Suggestions**:  
-  Personalized rebalancing recommendations via email, based on updated Kelly weights
+Since Zap Pilot is non-custodial, we empower you to control your investments while providing expert
+guidance.
 
-- 🖱️ **One-Click Rebalance Tool**:  
-  Users can apply changes via frontend in just one click (executed from their wallet)
+#### Rebalancing Features:
 
-> You stay in control. We help optimize.
+- 📬 **Quarterly Insights**:  
+  Personalized recommendations based on updated Kelly weights
+
+- 🖱️ **One-Click Rebalance**:  
+  Easy frontend tool to execute strategy updates from your wallet
+
+> **Principle**: Your funds, your control, our optimization strategy.
+
+**Related:** [How Our Rebalancing Works](../how-it-works#4️⃣-♻️-rebalancing-user-driven)
 
 ---
 
 ## 🔐 3. Security & Non-Custodial Design
 
-Zap Pilot is **strictly non-custodial**. Our frontend coordinates, but never holds or accesses user
+### Our Commitment to Security
+
+Zap Pilot is **strictly non-custodial**. We coordinate, but never hold or directly access your
 funds.
 
-### 🛡️ Security Principles:
+#### 🛡️ Security Principles:
 
-- ✅ All transactions are signed & executed from **your own AA wallet**
+- ✅ Transactions signed & executed from **your AA wallet**
 - ✅ No smart contract custody
-- ✅ Fully transparent and on-chain traceable
+- ✅ Full on-chain transparency
 
 > Your keys, your coins — always.
 
+**Learn More:** [Security Incidents & Transparency](../security)
+
 ---
 
-## 🛠️ 4. Coming Soon: Customizable Vaults
+## 🛠️ 4. Future: Customizable Vaults
 
-While current Vaults are predefined, we're building toward **flexible, user-generated strategies**.
+While our current Vaults are predefined, we're building toward **flexible, user-generated
+strategies**.
 
 ### 🚧 Upcoming Features:
 
-- 🧩 **User-Created Vaults**: Select pools, customize weights, and name your strategy
-- 🌐 **Strategy Marketplace**: Publish your Vaults for others to follow
-- 🏆 **Vault Leaderboards**: Track performance, compete, and earn rewards
+- 🧩 **User-Created Vaults**: Customize pool selection and weights
+- 🌐 **Strategy Marketplace**: Share and discover strategies
+- 🏆 **Vault Leaderboards**: Performance tracking and rewards
+
+---
+
+## 📊 Available Strategies
+
+### 🏦 Stablecoin Vaults
+
+- **Risk Level**: Low
+- **Expected APY**: 15-25%
+- **Best For**: First-time DeFi investors
+
+### 📈 Index Funds
+
+- **Risk Level**: Medium
+- **Expected APY**: 5-15%
+- **Best For**: Diversified crypto exposure
+
+### ₿ Bitcoin Strategies
+
+- **Risk Level**: Medium-High
+- **Expected APY**: 3-10%
+- **Best For**: Bitcoin enthusiasts
+
+### Ξ Ethereum Strategies
+
+- **Risk Level**: Medium-High
+- **Expected APY**: 5-10%
+- **Best For**: ETH ecosystem participants
+
+### ⚙️ Custom Strategies
+
+- **Risk Level**: Variable
+- **Expected APY**: Variable
+- **Best For**: Advanced users seeking maximum control
 
 ---
 
 ## 🚀 Ready to Start?
 
-Choose the strategy that matches your investment style:
+Choose the strategy that matches your investment style and risk tolerance.
 
-👉 **[Get Started →](../getting-started)** 👉 **[View Investment Strategies →](./)**
+👉 **[Get Started →](../getting-started)** 👉 **[Explore Strategy Details →](./)**
+
+### Related Resources
+
+- [How Zap Pilot Works](../how-it-works)
+- [Getting Started Guide](../getting-started)
+- [Kelly Criterion Explained](./kelly-criterion)
