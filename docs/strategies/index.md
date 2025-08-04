@@ -76,5 +76,4 @@ While current Vaults are predefined, we're building toward **flexible, user-gene
 
 Choose the strategy that matches your investment style:
 
-👉 **[Take Risk Assessment →](../getting-started/risk-assessment)**  
-👉 **[Compare All Strategies →](./comparison)**
+👉 **[Get Started →](../getting-started)** 👉 **[View Investment Strategies →](./)**

@@ -48,13 +48,13 @@ Not sure which strategy fits you? Take our 2-minute assessment:
 
 ### Strategy Quick Reference
 
-| Strategy                                    | Risk     | Expected APY | Best For                    |
-| ------------------------------------------- | -------- | ------------ | --------------------------- |
-| [🏦 Stablecoin](../strategies/stablecoin)   | Low      | 15-25%       | First-time DeFi users       |
-| [📈 Index Funds](../strategies/index-funds) | Medium   | 15-25%       | Diversified crypto exposure |
-| [₿ Bitcoin](../strategies/bitcoin)          | Med-High | 10-30%       | Bitcoin believers           |
-| [Ξ Ethereum](../strategies/ethereum)        | Med-High | 12-35%       | ETH ecosystem fans          |
-| [⚙️ Custom](../strategies/custom)           | Variable | Variable     | Advanced users              |
+| Strategy       | Risk     | Expected APY | Best For                    |
+| -------------- | -------- | ------------ | --------------------------- |
+| 🏦 Stablecoin  | Low      | 15-25%       | First-time DeFi users       |
+| 📈 Index Funds | Medium   | 5-15%        | Diversified crypto exposure |
+| ₿ Bitcoin      | Med-High | 3-10%        | Bitcoin believers           |
+| Ξ Ethereum     | Med-High | 5-10%        | ETH ecosystem fans          |
+| ⚙️ Custom      | Variable | Variable     | Advanced users              |
 
 ## 🔗 Step 2: Connect Your Wallet
 

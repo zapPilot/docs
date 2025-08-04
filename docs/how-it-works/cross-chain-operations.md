@@ -274,6 +274,4 @@ Cross-chain operations are what make Zap Pilot truly powerful - accessing the en
 while maintaining simplicity for users. You get the benefits of all chains without the complexity of
 managing them individually.
 
-👉 **[Learn About Rebalancing →](./rebalancing)** 👉
-**[Explore Strategy Execution →](./intent-execution)** 👉
-**[View Supported Networks →](../security)**
+👉 **[Learn More →](../strategies)** 👉 **[View Supported Networks →](../security)**

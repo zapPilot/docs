@@ -114,8 +114,8 @@ middle-tier (“BBB”) risk-return pools.
 
 ## 💼 Business Model
 
-- 0.3% fee per zap/rebalance/withdraw
-- 2.1% annual average fee per active user (bi-monthly rebalance + entry/exit)
+- 1% entry fee only
+- No ongoing or per-transaction fees
 - Core user LTV ~$60 (assuming $3K TVL)
 - Breakeven: if CAC < $60 → profitable from Year 1
 
@@ -168,8 +168,8 @@ stability and confidence, not just raw numbers.
 
 ## 💵 Monetization Strategy
 
-- Fees: 0.3% per Zap/Rebalance
-- Target: 2.1% annual revenue per user
+- Fees: 1% entry fee
+- Target: Sustainable growth through user value
 - Example: 1M TVL = $20K/year revenue
 - Growth: Acquire 333 core users ($3K TVL) → break even
 
