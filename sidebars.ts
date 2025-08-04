@@ -19,7 +19,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'How It Works',
-      items: ['how-it-works/index', 'how-it-works/cross-chain-operations'],
+      items: ['how-it-works/index'],
     },
     {
       type: 'category',

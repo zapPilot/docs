@@ -197,4 +197,4 @@ const dcaIntent = {
 
 意圖執行引擎是 Zap Pilot 的神奇之處——它將複雜性轉化為簡單性，同時保持 DeFi 的強大功能和靈活性。
 
-👉 **[了解跨鏈操作 →](./cross-chain-operations)** 👉 **[探索自動再平衡 →](./rebalancing)**
+👉 **[探索自動再平衡 →](./rebalancing)**

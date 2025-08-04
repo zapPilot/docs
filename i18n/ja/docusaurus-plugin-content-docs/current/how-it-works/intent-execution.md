@@ -198,5 +198,4 @@ const dcaIntent = {
 意図実行エンジンこそがZap
 Pilotを魔法のようにするものです。複雑さをシンプルさに変えながら、DeFiのパワーと柔軟性を維持します。
 
-👉 **[クロスチェーンオペレーションについて学ぶ→](./cross-chain-operations)** 👉
-**[リバランスを探る→](./rebalancing)**
+👉 **[リバランスを探る→](./rebalancing)**

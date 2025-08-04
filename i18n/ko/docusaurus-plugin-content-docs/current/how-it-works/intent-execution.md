@@ -198,5 +198,4 @@ const dcaIntent = {
 의도 실행 엔진은 Zap Pilot을 마법처럼 만듭니다. 복잡성을 단순성으로 변환하면서 DeFi의 힘과 유연성을
 유지합니다.
 
-👉 **[크로스체인 운영에 대해 알아보기 →](./cross-chain-operations)** 👉
-**[리밸런싱 탐색 →](./rebalancing)**
+👉 **[리밸런싱 탐색 →](./rebalancing)**

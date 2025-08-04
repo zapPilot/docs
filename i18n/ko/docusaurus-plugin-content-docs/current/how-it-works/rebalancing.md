@@ -407,5 +407,4 @@ interface CustomRebalancing {
 연중무휴로 투자를 모니터링하고 최적화를 제안하는 것과 같습니다. 당신은 모든 거래에 대한 최종
 결정권을 가지며, 항상 자산을 통제할 수 있습니다.
 
-👉 **[의도 실행에 대해 알아보기 →](./intent-execution)** 👉
-**[크로스체인 운영 탐색 →](./cross-chain-operations)** 👉 **[전략 성과 보기 →](../strategies)**
+👉 **[의도 실행에 대해 알아보기 →](./intent-execution)** 👉 **[전략 성과 보기 →](../strategies)**
