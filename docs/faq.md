@@ -183,14 +183,15 @@ Common causes and solutions:
 
 ### What networks does Zap Pilot support?
 
-We operate across multiple networks:
+Zap Pilot operates across multiple networks:
 
-- **Base:** Maximum security and institutional trust
-- **Arbitrum:** Lower fees, mature DeFi ecosystem
-- **Optimism:** Innovation hub with unique opportunities
+- **Base** – High security and institutional-grade trust
+- **Arbitrum** – Low fees and a mature DeFi ecosystem
+- **Optimism** – A hub for innovation and emerging opportunities
 
-Each operations are all multichain strategy so no matter which chain you start it would
-automatically bridge and allocate funds to other chains as well
+All strategies are multichain by design.  
+No matter which network you start from, your funds will be automatically bridged and allocated
+across chains.
 
 ### How do I track my performance?
 
