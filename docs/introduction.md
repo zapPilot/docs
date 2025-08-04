@@ -42,7 +42,7 @@ higher-yielding pools, all with a single click.
 ### 🔒 **Non-Custodial by Design**
 
 **Your keys, your coins.** Zap Pilot doesn’t hold funds. Every rebalance is executed directly from
-your Account Abstraction (AA) wallet.
+your EOA wallet.
 
 - No protocol custody risk
 - 100% on-chain transparency
