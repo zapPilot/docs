@@ -69,7 +69,7 @@ const FeatureList: FeatureItem[] = [
         description='The description for Cross-Chain Yield Optimization feature'
       >
         Automatically discovers and moves your assets to the highest-yielding
-        opportunities across 20+ blockchain networks. Seamless cross-chain
+        opportunities across 4+ blockchain networks. Seamless cross-chain
         operations with optimal yield capture.
       </Translate>
     ),

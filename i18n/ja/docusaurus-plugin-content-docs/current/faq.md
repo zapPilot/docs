@@ -1,313 +1,284 @@
 ---
-sidebar_position: 7
+sidebar_position: 2
 ---
 
-# よくある質問
+# ❓ よくある質問
 
-**一般的な質問への簡単な回答** ❓
-
-Zap
-Pilot、私たちの戦略、セキュリティ、そして始め方に関する最も一般的な質問への即時の回答を得てください。
-
-## 🔰 はじめに
-
-### **Q: Zap Pilotとは何ですか？**
-
-**A:** Zap
-Pilotは、複雑な暗号通貨投資を自動化する意図ベースのDeFi実行エンジンです。異なるブロックチェーン上の複数のプロトコルを手動で管理する代わりに、投資目標を伝えるだけで、すべてが自動的に処理されます。
-
-### **Q: 取引所で暗号資産を保有するのとどう違いますか？**
-
-**A:** あなたの暗号資産が遊休状態にある取引所とは異なり、Zap
-Pilotはあなたの資産をDeFiプロトコルを通じて収益を上げるために働かせ、あなたは資金の完全なコントロールを維持します。あなたの暗號資産は決してあなたのウォレットを離れません。
-
-### **Q: 始めるための最低額はいくらですか？**
-
-**A:**
-ステーブルコインボールトはわずか50ドルから始めることができます。他の戦略では、費用対効果の高い実行を保証するために100〜200ドルの最低額が必要です。
-
-### **Q: Zap Pilotを使用するためにDeFiを理解する必要がありますか？**
-
-**A:**
-まったくありません！それがまさにポイントです。あなたは投資目標とリスク許容度を知るだけで済みます。私たちは舞台裏ですべての技術的な複雑さを処理します。
-
-### **Q: どの戦略を選ぶべきですか？**
-
-**A:**
-パーソナライズされた推奨を得るために、私たちの[リスク評価](./getting-started)を受けてください。一般的に：
-
-- **保守的な投資家**：ステーブルコインボールト
-- **中程度のリスク**：インデックスファンド
-- **高リスク/暗号資産信者**：ビットコインまたはイーサリアム戦略
-- **上級ユーザー**：カスタム戦略
-
-## 🔐 安全性とセキュリティ
-
-### **Q: 私の資金はどのくらい安全ですか？**
-
-**A:**
-セキュリティは私たちの最優先事項です。私たちの非保管モデルは、あなたが常にあなたの資金を管理していることを意味します。Zap
-Pilotは、あなたが署名するための取引を準備する意図実行エンジンです。私たち自身があなたの資産を保管するスマートコントラクトは持っていません。これは、あなたが直接、最終的なDeFiプロトコルと対話することを意味し、プラットフォーム固有のリスクを大幅に削減します。
-
-### **Q: 「非保管」とはどういう意味ですか？**
-
-**A:**
-それはあなたが常にあなたの秘密鍵と資金を管理していることを意味します。中央集権型プラットフォーム（CelsiusやFTXなど）とは異なり、私たちはあなたの資産を保管することはありません。あなたの暗号資産はあなたのウォレットに留まり、DeFiプロトコルと直接対話します。
-
-### **Q: スマートコントラクトは監査されていますか？**
-
-**A:** はい、私たちのすべてのスマートコントラクトは、Trail of BitsやConsenSys
-Diligenceなどの主要なセキュリティ企業によって監査されています。また、追加のセキュリティのために50万ドルのバグバウンティプログラムを維持しています。
-
-### **Q: DeFiプロトコルがハッキングされた場合はどうなりますか？**
-
-**A:** 私たちは複数の保護層を持っています：
-
-- Nexus Mutualや他のプロバイダーによる保険適用
-- 自動出口手順を備えたリアルタイム監視
-- 露出を制限するための複数のプロトコルにわたる分散化
-- 迅速な対応のための緊急一時停止メカニズム
-
-### **Q: Zap Pilotは私の資金を盗むことができますか？**
-
-**A:**
-いいえ。私たちのスマートコントラクトは、承認された戦略操作のみを実行できるように設計されています。私たちは自分たちの口座に資金を引き出すことも、あなたがあなたのポジションを終了するのを防ぐこともできません。
-
-### **Q: Zap Pilotがシャットダウンした場合はどうなりますか？**
-
-**A:**
-あなたの資金はDeFiプロトコルに安全に残ります。私たちのインターフェースがオフラインになっても、いつでもプロトコルから直接引き出すことができます。すべてのポジションはあなたの名前であり、私たちの名前ではありません。
-
-## 💰 戦略とリターン
-
-### **Q: どのようなリターンが期待できますか？**
-
-**A:** リターンは戦略と市場の状況によって異なります：
-
-- **ステーブルコインボールト**：15-25% APY（低リスク）
-- **インデックスファンド**：15-25% APY（中リスク）
-- **ビットコイン/イーサリアム**：10-35% APY（中〜高リスク）
-- **カスタム**：あなたの設定に基づいて変動
-
-過去のパフォーマンスは将来の結果を保証するものではなく、すべての投資にはリスクが伴います。
-
-### **Q: これらのリターンはどのようにして生み出されるのですか？**
-
-**A:** 高度なDeFi戦略を通じて：
-
-- **貸付**：借り手に貸し付けて利息を得る
-- **流動性提供**：DEX取引から手数料を得る
-- **ステーキング**：プルーフオブステークからネットワーク報酬を得る
-- **イールドファーミング**：プロトコルのインセンティブからトークンを得る
-- **アービトラージ**：プロトコル間の価格差から利益を得る
-
-### **Q: リターンは保証されていますか？**
-
-**A:**
-いいえ、暗号通貨への投資には常にリスクが伴います。市場の低迷期にはリターンがマイナスになる可能性があります。私たちは専門的なリスク管理を使用していますが、利益を保証することはできません。
-
-### **Q: 戦略はどのくらいの頻度でリバランスされますか？**
-
-**A:**
-リバランスは自動化されていません。私たちのシステムは市場の状況に基づいてリバランスを提案しますが、最終的な決定権は常にあなたにあります。すべての操作にはあなたの明確な承認が必要です。
-
-### **Q: いつでも引き出すことができますか？**
-
-**A:**
-はい、ほとんどの戦略は即日引き出しをサポートしています。一部の複雑なポジションは、最適に解消するために24〜48時間かかる場合がありますが、緊急出口は常に利用可能です。
-
-## 💸 料金と費用
-
-### **Q: どのような料金がかかりますか？**
-
-**A:** 私たちは透明でシンプルな料金体系を使用しています：
-
-- **エントリー料金**：入金時に1回限りの1％。
-- **継続料金なし**：管理手数料や成功報酬はありません。
-- **引き出し手数料なし**：いつでも無料で引き出し可能。
-- **ガス料金**：最適化され、ユーザー間で共有されます。
-
-### **Q: なぜ成功報酬を請求するのですか？**
-
-**A:**
-私たちのシンプルな1％のエントリー料金モデルは、複雑な料金体系を必要としないことを意味します。私たちは前もって価値を提供し、あなたにあなたのリターンを保持させることを信じています。
-
-### **Q: 隠れた料金はありますか？**
-
-**A:**
-まったくありません。すべての料金は事前に開示され、リアルタイムで追跡されます。私たちの料金以外の唯一のコストは、私たちが最適化し、透明に表示するブロックチェーンのガス料金です。
-
-### **Q: ガス料金はどのように機能しますか？**
-
-**A:** ガス料金はブロックチェーン上の取引のコストです。私たちはこれらを最適化します：
-
-- 複数の操作をまとめてバッチ処理する
-- 低料金期間中に取引をタイミングする
-- 最も費用対効果の高いチェーンを使用する
-- すべてのユーザーでコストを共有する
-
-### **Q: 支払っているものを正確に確認できますか？**
-
-**A:** はい、あなたのダッシュボードには、以下を含むリアルタイムの料金追跡が表示されます：
-
-- これまでに支払われた合計料金
-- 管理手数料と成功報酬の内訳
-- ガス料金と最適化
-- 年間の料金予測
-
-## 🔄 運用と管理
-
-### **Q: どのくらいの頻度で投資を確認すべきですか？**
-
-**A:**
-好きなだけ頻繁に、または少なく！戦略は完全に自動化されているため、毎日確認する必要はありません。多くのユーザーは週に一度または月に一度確認します。重要な変更があればお知らせします。
-
-### **Q: 開始後に戦略を変更できますか？**
-
-**A:** はい、できます：
-
-- リスクパラメータを調整する
-- 資金を追加または引き出す
-- 異なる戦略に切り替える
-- リバランスの頻度をカスタマイズする
-
-### **Q: どのウォレットをサポートしていますか？**
-
-**A:** 私たちは以下を含むすべての主要なウォレットをサポートしています：
-
-- MetaMask、Coinbase Wallet、Rainbow
-- WalletConnect（200以上のモバイルウォレットをサポート）
-- ハードウェアウォレット（Ledger、Trezor）
-- スマートコントラクトウォレット（近日公開）
-
-### **Q: どのブロックチェーンをサポートしていますか？**
-
-**A:** 私たちは、主要なLayer
-2、イーサリアム、ソラナを含む、ますます多くのネットワークをサポートしています。
-
-### **Q: クロスチェーン戦略はどのように機能しますか？**
-
-**A:**
-私たちのシステムは、最高の機会にアクセスするために、チェーン間で資産を自動的にブリッジします。私たちはすべての複雑さを処理し、あなたは統一されたポートフォリオビューを見ることができます。
-
-## 📊 パフォーマンスとレポート
-
-### **Q: パフォーマンスをどのように追跡しますか？**
-
-**A:** あなたのダッシュボードは、以下を含むリアルタイム追跡を提供します：
-
-- 現在のポートフォリオ価値とリターン
-- ベンチマーク（ビットコイン、S&P 500など）に対するパフォーマンス
-- リスクメトリクスとポートフォリオ分析
-- 詳細な取引履歴
-
-### **Q: 税務報告を提供していますか？**
-
-**A:**
-はい、私たちはあなたが税務申告に使用できる包括的な取引履歴とレポートを提供します。また、人気の暗号資産税務ソフトウェアとの統合も進めています。
-
-### **Q: 私の戦略がうまく機能しているかどうかはどうすればわかりますか？**
-
-**A:** 私たちは複数のパフォーマンスメトリクスを提供します：
-
-- 絶対リターン（どれだけ稼いだか）
-- ベンチマーク比較（ビットコイン/イーサリアムを保有している場合と比較）
-- リスク調整後リターン（シャープレシオ）
-- 他のユーザーとのピア比較（匿名）
-
-### **Q: 私の戦略がアンダーパフォームした場合はどうなりますか？**
-
-**A:**
-私たちはアンダーパフォーマンスの原因の詳細な分析と推奨事項を提供します。いつでも戦略を切り替えたり、リスクパラメータを調整したりできます。変動の激しい市場では、短期的なアンダーパフォーマンスは正常であることを忘れないでください。
-
-## 🆘 サポートとトラブルシューティング
-
-### **Q: 助けが必要な場合はどうすればよいですか？**
-
-**A:** 私たちは複数のサポートチャネルを提供しています：
-
-- **ライブチャット**：当社のウェブサイトで24時間年中無休
-- **Discord**：コミュニティサポートとチームの相互作用
-- **メール**：support@zap-pilot.com
-- **優先サポート**：大規模な投資向け
-
-### **Q: 取引が失敗した場合はどうなりますか？**
-
-**A:**
-私たちのシステムは、最適化されたパラメータで失敗した取引を自動的に再試行します。問題が解決しない場合は、手動で調査して解決し、最新情報をお知らせします。
-
-### **Q: 満足できない場合、返金してもらえますか？**
-
-**A:**
-私たちは返金は提供していませんが、いつでも投資を引き出すことができます。私たちはあなたが私たちのサービスとパフォーマンスに満足すると確信しています。
-
-### **Q: 教育リソースを提供していますか？**
-
-**A:** はい！私たちは提供します：
-
-- 詳細な戦略ドキュメント
-- ビデオチュートリアルとウェビナー
-- 市場分析と洞察
-- 初心者向けのDeFi教育
-
-## 🌟 高度な機能
-
-### **Q: 機関投資家はZap Pilotを使用できますか？**
-
-**A:** はい、私たちは以下を含む機関投資家向け機能を提供しています：
-
-- より高い投資限度額
-- カスタム料金交渉
-- 専用のサポートとレポート
-- 強化されたセキュリティとコンプライアンス機能
-
-### **Q: モバイルアプリはありますか？**
-
-**A:**
-モバイルアプリは近日公開予定です！現在、私たちのウェブインターフェースはモバイル向けに最適化されており、携帯電話やタブレットでうまく機能します。
-
-### **Q: Zap Pilotを他のツールと統合できますか？**
-
-**A:**
-私たちは、ポートフォリオ追跡や他のDeFiツールとの統合のためのAPIを構築しています。開発者向けドキュメントはまもなく利用可能になります。
-
-### **Q: レバレッジや証拠金取引を提供していますか？**
-
-**A:**
-いくつかの上級戦略にはレバレッジコンポーネントが含まれていますが、私たちは高レバレッジの投機ではなく、持続可能でリスク管理されたアプローチに焦点を当てています。
-
-## 🔮 将来の計画
-
-### **Q: どのような新機能が予定されていますか？**
-
-**A:** 私たちのロードマップには以下が含まれます：
-
-- より多くの戦略オプションとカスタマイズ
-- 追加のブロックチェーンサポート
-- 高度な分析とレポート
-- ソーシャル機能と戦略共有
-- モバイルアプリケーション
-
-### **Q: どのプロトコルを統合するかはどのように決定しますか？**
-
-**A:** 私たちは以下を含む厳格な基準を持っています：
-
-- 6ヶ月以上の実績のある運用
-- 強力なセキュリティ監査
-- 重要なTVLと流動性
-- 優れたガバナンスとコミュニティ
-- 私たちの戦略との戦略的適合性
+Zap Pilotについてのよくある質問にすばやく答えます。
 
 ---
 
-## 🚀 始める準備はできましたか？
+## 🚀 はじめに
 
-まだ質問がありますか？私たちがお手伝いします！
+### Zap Pilotを利用するために必要なものは?
 
-👉 **[私たちのDiscordに参加する](https://discord.com/invite/sNsMmtsCCV)**
-コミュニティサポートのために 👉 **[相談を予約する](https://cal.com/zap-pilot)**
-パーソナライズされたガイダンスのために  
-👉 **[投資を始める](./getting-started)** 自信を持って
+以下が必要です：
 
-_あなたの質問が見つかりませんか？ support@zap-pilot.com
-までメールでお問い合わせください。このFAQに追加します！_
+- Web3ウォレット（MetaMask、WalletConnectなど）
+- サポートされている暗号資産で最低100ドル
+- 初期設定に5-10分
+
+### What's the minimum investment amount?
+
+- **Stablecoin Vaults:** $50 minimum
+- **Index Funds:** $100 minimum
+- **Bitcoin/Ethereum Strategies:** $100 minimum
+- **Custom Strategies:** $200 minimum
+
+### Which crypto wallets are supported?
+
+We support all major Web3 wallets including:
+
+- **Browser Extensions:** MetaMask, Coinbase Wallet, Rainbow, Brave Wallet
+- **Mobile Wallets:** Any wallet that supports WalletConnect
+- **Hardware Wallets:** Ledger and Trezor (via MetaMask or WalletConnect)
+
+### What cryptocurrencies can I deposit?
+
+You can start with:
+
+- **Stablecoins:** USDC, USDT
+- **Major Crypto:** ETH
+- **On any supported network:** We support leading Layer 2s
+
+---
+
+## 📊 Strategy & Investment
+
+### How do I choose the right strategy for me?
+
+Consider these factors:
+
+- **Risk Tolerance:** Stablecoin (low) → Index Funds (medium) → Bitcoin/Ethereum (higher)
+- **Investment Goals:** Stable returns vs growth vs maximum control
+- **Time Horizon:** When you might need access to your funds
+
+**Take our 2-minute risk assessment** in the Getting Started guide to find your perfect match.
+
+### What returns can I expect?
+
+Expected annual returns vary by strategy:
+
+- **Stablecoin Vaults:** 15-25% APY
+- **Index Funds:** 5-15% APY
+- **Bitcoin Strategies:** 3-10% APY
+- **Ethereum Strategies:** 5-10% APY
+
+_Returns are estimates based on historical data and market conditions._
+
+### How often should I rebalance?
+
+- **Quarterly rebalancing** is recommended for most strategies
+- We'll email you personalized recommendations every quarter
+- You can rebalance anytime with one click from your dashboard
+- More frequent rebalancing = higher optimization but more gas costs
+
+### Can I change strategies after investing?
+
+Yes! You can:
+
+- **Withdraw** from your current strategy anytime (no withdrawal fees)
+- **Switch** to a different strategy by reinvesting
+- **Diversify** across multiple strategies if desired
+
+---
+
+## 🔒 Security & Safety
+
+### Is my money safe with Zap Pilot?
+
+Yes, Zap Pilot is designed for maximum security:
+
+- **Non-custodial:** Your funds never leave your wallet
+- **No custody risk:** We can't access or freeze your funds
+- **Your keys, your coins:** You maintain full ownership
+- **Transparent:** All transactions are on-chain and verifiable
+
+### What happens if Zap Pilot shuts down?
+
+Your funds remain completely safe because:
+
+- **Funds stay in your wallet:** We never hold your assets
+- **Direct protocol access:** You can interact with DeFi protocols directly
+- **No lock-in period:** Withdraw anytime without permission
+- **Full transparency:** All contract addresses are public
+
+### How is Zap Pilot different from other DeFi platforms?
+
+| Feature          | Zap Pilot           | Traditional Platforms    |
+| ---------------- | ------------------- | ------------------------ |
+| **Custody**      | ✅ Non-custodial    | ⚠️ Often custodial       |
+| **Access**       | ✅ Withdraw anytime | ❌ Lock-up periods       |
+| **Transparency** | ✅ Full on-chain    | ⚠️ Limited visibility    |
+| **Risk**         | ✅ No platform risk | ❌ Platform custody risk |
+
+### What if a protocol in my strategy gets hacked?
+
+We minimize this risk through:
+
+- **Diversification:** Funds spread across multiple protocols
+- **Curation:** Only audited, established protocols
+- **Monitoring:** Continuous security assessment
+- **Risk limits:** No overexposure to any single protocol
+
+If an incident occurs, you're only exposed to your allocation in that specific protocol, not your
+entire investment.
+
+---
+
+## 💰 Fees & Costs
+
+### What fees do I pay?
+
+Zap Pilot has a simple, transparent fee structure:
+
+- **Entry Fee:** 1% one-time when you deposit
+- **Management Fee:** 0% (no ongoing fees)
+- **Performance Fee:** 0% (we don't take a cut of profits)
+- **Withdrawal Fee:** 0% (free to exit anytime)
+
+### Are there any hidden costs?
+
+No hidden fees from Zap Pilot. You'll also pay:
+
+- **Gas fees:** Standard blockchain transaction costs
+- **Protocol fees:** Native fees from DeFi protocols (typically 0.1-0.3%)
+
+We optimize gas costs through batching and timing to minimize your expenses.
+
+### How do gas fees work?
+
+- **Shared costs:** We batch operations to reduce gas fees by 60-80%
+- **Optimal timing:** Execute during low gas periods
+- **Cross-chain optimization:** Use cheapest suitable networks
+- **Transparent tracking:** See exactly what you've paid in gas
+
+### When do I pay the 1% entry fee?
+
+- **One-time payment:** Only when you first deposit into a strategy
+- **No recurring fees:** Never pay again as long as funds remain invested
+- **Example:** $10,000 investment = $100 entry fee, then $0 forever
+
+---
+
+## 🔧 Technical
+
+### How do I withdraw my funds?
+
+1. **Go to your dashboard** and select the strategy
+2. **Click "Withdraw"** and choose the amount
+3. **Confirm the transaction** in your wallet
+4. **Funds return to your wallet** (usually within 10 seconds)
+
+No fees, no waiting periods, no permissions needed.
+
+### Why is my transaction failing?
+
+Common causes and solutions:
+
+- **Insufficient gas:** Increase gas limit in your wallet
+- **Network congestion:** Wait and try again during low usage
+- **Slippage:** Increase slippage tolerance for volatile markets
+- **Wallet issues:** Refresh page and reconnect wallet
+
+### What networks does Zap Pilot support?
+
+Zap Pilot operates across multiple networks:
+
+- **Base** – High security and institutional-grade trust
+- **Arbitrum** – Low fees and a mature DeFi ecosystem
+- **Optimism** – A hub for innovation and emerging opportunities
+
+All strategies are multichain by design.  
+No matter which network you start from, your funds will be automatically bridged and allocated
+across chains.
+
+### How do I track my performance?
+
+Your dashboard shows:
+
+- **Real-time value:** Current USD value of your investment
+- **Total returns:** Profit/loss since you started
+- **APY tracking:** Annualized return rate
+- **Performance charts:** Value over time with benchmarks
+- **Allocation breakdown:** Where your money is working
+
+---
+
+## 🆘 Troubleshooting
+
+### I can't connect my wallet, what should I do?
+
+Try these steps:
+
+1. **Refresh the page** and clear browser cache
+2. **Check network:** Ensure wallet is on correct network
+3. **Update wallet:** Make sure browser extension is updated
+4. **Try different browser:** Some wallets work better on specific browsers
+5. **Disable ad blockers:** They can interfere with wallet connections
+
+### My balance isn't showing, why?
+
+This usually resolves automatically, but you can:
+
+1. **Wait 5 minutes** for network synchronization
+2. **Verify correct network** in your wallet
+3. **Check transaction status** on blockchain explorer
+4. **Refresh dashboard** or reconnect wallet
+
+### How do I contact support?
+
+**Get help fast:**
+
+- 💬 **Discord:** [Join our community server](https://discord.com/invite/sNsMmtsCCV)
+- 📱 **X/Twitter:** [Quick questions and updates](https://x.com/zapPilot)
+
+**For urgent issues:**
+
+- 🚨 **Priority Support:** Available for investments over $10k
+- 📞 **Emergency Contact:** Available during business hours
+
+---
+
+## 🎯 Advanced Topics
+
+### What is the Kelly Criterion?
+
+The Kelly Criterion is a mathematical formula we use to optimize fund allocation:
+
+- **Balances risk and return:** Higher allocation to lower-risk, higher-reward opportunities
+- **Maximizes long-term growth:** Prevents overexposure to any single protocol
+- **Dynamically adjusts:** Recalculated quarterly based on market conditions
+
+**Learn more:** [Kelly Criterion Explained](./strategies/kelly-criterion)
+
+### How does cross-chain operation work?
+
+Our cross-chain system:
+
+- **Automatic routing:** Finds best opportunities across all supported networks
+- **Bridge integration:** Uses Across Protocol for secure, fast transfers
+- **Cost optimization:** Minimizes bridge fees and gas costs
+- **Unified experience:** Appears as single portfolio despite multi-chain deployment
+
+**Learn more:** [How It Works](./how-it-works)
+
+### What is a Smart EOA wallet?
+
+Your wallet gets enhanced with smart contract capabilities through EIP-7702:
+
+- **Same wallet:** Keep using your existing MetaMask or other wallet
+- **Enhanced features:** Better transaction batching and optimization
+- **Automatic upgrades:** We handle the technical improvements
+- **No setup required:** Works seamlessly with your current wallet
+
+**Learn more:** [How It Works](./how-it-works)
+
+---
+
+## 🤔 Still Have Questions?
+
+Can't find what you're looking for? We're here to help!
+
+💬 **[Join Discord](https://discord.com/invite/sNsMmtsCCV)** | 📖
+**[Read Full Documentation](./introduction)**
