@@ -4,122 +4,125 @@ sidebar_position: 1
 
 # ¿Qué es Zap Pilot?
 
-**Tu DeFi, en piloto automático** ✈️
+**Somos un piloto automático de cartera en cadena** ✈️
 
-Somos un piloto automático de portafolio en cadena.
+## El Problema con la Gestión Tradicional de DeFi
 
-Para usuarios de DeFi ocupados, Zap Pilot reduce el rebalanceo de portafolio de 30 minutos a 30
-segundos, moviendo sus criptomonedas entre cadenas hacia pools de mayor rendimiento con un solo clic
-mientras cada token permanece en su propia billetera.
+- **30+ minutos** para rebalancear posiciones manualmente
+- **Múltiples interfaces** para puentes, intercambios y protocolos
+- **Altas tarifas de gas** de múltiples transacciones
+- **Monitoreo constante** requerido para rendimientos óptimos
+- **Barreras técnicas** que limitan la accesibilidad
 
-[pitch deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)
+## La Solución de Zap Pilot
 
-## 🎯 El problema que resolvemos
+**Enfoque tradicional:**
 
-La inversión tradicional en DeFi es **complicada**:
+1. Verificar rendimientos en protocolos → 2. Desaprovisionar activos → 3. Transferir tokens →
+2. Intercambiar a nuevas asignaciones → 5. Reaprovisionar → 6. Repetir cada semana o mes
 
-- Múltiples billeteras en diferentes cadenas
-- Secuencias de transacciones complejas
-- Altas tarifas de gas y transacciones fallidas
-- Monitoreo y reequilibrio constante de la cartera
-- Barreras de conocimiento técnico
+**Con Zap Pilot:**
 
-## ✨ La solución Zap Pilot
-
-Transformamos las complejas operaciones de DeFi en **intenciones simples**:
-
-```
-"Quiero invertir $1,000 en una cartera de criptomonedas equilibrada con riesgo medio"
-```
-
-Eso es todo. Nuestro motor se encarga de:
-
-- ✅ Asignación de activos entre cadenas
-- ✅ Enrutamiento y ejecución óptimos
-- ✅ Reequilibrio continuo
-- ✅ Gestión de riesgos
-- ✅ Optimización del rendimiento
-
-## 🔐 Construido sobre la confianza
-
-### No Custodial por Diseño
-
-- **Tus claves, tus criptomonedas** - los fondos nunca salen de tu billetera
-- **Reducción del riesgo de plataforma** - Como motor de ejecución de intenciones, Zap Pilot no
-  tiene sus propios contratos inteligentes para que deposites. Interactúas directamente con
-  protocolos de terceros auditados.
-- **Transparencia total** - todas las operaciones en cadena y auditables
-
-### Seguridad Primero
-
-- Contratos inteligentes auditados por firmas de seguridad líderes
-- Cobertura de seguro a través de protocolos DeFi
-- Infraestructura probada en batalla
-- Código abierto y verificado por la comunidad
-
-## 🌐 Verdadero DeFi entre cadenas
-
-A diferencia de otras plataformas que requieren puentes o múltiples transacciones, Zap Pilot opera
-de forma nativa en:
-
-- **Principales Layer 2** (Arbitrum, Base, Optimism)
-- **Ethereum**
-- **Solana** (próximamente)
-- **con más cadenas en desarrollo**
-
-## 🎭 Para todos
-
-### 🔰 **Principiantes en DeFi**
-
-Comienza con estrategias simples y guiadas. No es necesario comprender la complejidad subyacente.
-
-### 📈 **Inversores experimentados**
-
-Crea estrategias personalizadas con control granular sobre el riesgo, la asignación y el
-reequilibrio.
-
-### 🏛️ **Instituciones**
-
-Infraestructura de nivel empresarial con análisis e informes avanzados.
-
-## 🚀 Estrategias de inversión
-
-Elige entre nuestras estrategias seleccionadas o construye la tuya propia:
-
-- **🏦 Bóvedas de Stablecoin** - Bajo riesgo, rendimientos estables (15-25% APY)
-- **📊 Fondos Indexados** - Exposición diversificada a criptomonedas (5-15% APY)
-- **₿ Activo Único** - Estrategias centradas en Bitcoin o Ethereum
-- **⚙️ Estrategias Personalizadas** - Construye exactamente lo que quieres (próximamente)
-
-## 💡 ¿Por qué basado en intenciones?
-
-DeFi tradicional requiere que sepas **cómo** hacer algo. DeFi basado en intenciones te permite
-centrarte en **lo que** quieres lograr.
-
-**Forma tradicional:**
-
-1. Puentea activos a la cadena de destino
-2. Intercambia por los tokens requeridos
-3. Agrega liquidez a los pools
-4. Stakea tokens LP
-5. Monitorea y reequilibra
-6. Reclama y compone recompensas
-7. Repite en múltiples protocolos...
-
-**Forma Zap Pilot:**
-
-1. "Quiero hacer yield farming de riesgo medio"
-2. ✨ Listo ✨
-
-## 🎯 Nuestra misión
-
-**Democratizar el acceso a estrategias sofisticadas de DeFi** manteniendo los principios
-fundamentales de descentralización, transparencia y control del usuario. Creemos que todos deberían
-tener acceso a las mismas herramientas financieras avanzadas que utilizan las instituciones, sin la
-complejidad ni los riesgos de custodia.
+Reducimos el rebalanceo de cartera de **30 minutos a 30 segundos**, moviendo su criptomoneda entre
+cadenas a pozos de mayor rendimiento — con un solo clic — mientras cada token permanece en **su
+propia billetera**.
 
 ---
 
-¿Listo para experimentar el futuro de la inversión en DeFi?
+## ¿Por qué elegir Zap Pilot?
 
-👉 **[Comenzar →](./getting-started)**
+### 🔁 **Rebalanceo Centrado en Intención**
+
+Díganos lo que desea — nosotros gestionamos todo el flujo de trabajo. Vender ganadores, comprar
+rezagados, cambiar a pozos de mayor rendimiento, todo con un solo clic.
+
+- Estrategias de rebalanceo predefinidas
+- Asignación personalizada compatible (ej. 70/20/10)
+- Rebalanceo programado opcional
+
+### 🔒 **Sin Custodia por Diseño**
+
+**Sus claves, sus monedas.** Zap Pilot no retiene fondos. Cada rebalanceo se ejecuta directamente
+desde su billetera Smart EOA.
+
+- Sin riesgo de custodia del protocolo
+- 100% de transparencia en cadena
+- Mantener propiedad total
+
+### 🌉 **Multiplataforma por Defecto**
+
+Zap Pilot maneja todas las operaciones multiplataforma tras bambalinas — sin puentes, sin
+intercambios manuales.
+
+- Intercambiar entre protocolos
+- Transferir entre cadenas
+- Aprovisionar en nuevos pozos automáticamente
+
+### 📈 **Suite de Estrategias Rebalanceables**
+
+Elija una estrategia, rebalancee en cualquier momento:
+
+- **Bóvedas de Stablecoins** - Rotación de rendimiento de bajo riesgo
+- **Bóvedas de BTC/ETH** - Asignación a largo plazo
+- **Index500** - Índice criptográfico diversificado al estilo S&P
+- **Portafolios de Memes** - Seguimiento de sentimiento de alto riesgo
+- **Portafolios Personalizados** - Usted elige la distribución
+
+---
+
+## Redes Compatibles
+
+Zap Pilot funciona sin problemas en **3+ blockchains** — incluyendo Optimism, Arbitrum y Base.
+
+---
+
+## Cómo Funciona
+
+1. **Conecte su Billetera** (2 minutos)
+2. **Establezca su Intención** — "Rebalancear a 50% stables, 50% ETH"
+3. **Ejecución con Un Clic** — Enrutamos, intercambiamos y aprovisionamos por usted
+4. **Monitoree & Rebalancee** — Ajuste de nuevo en cualquier momento, o configúrelo en piloto
+   automático
+
+> **Requisitos para Comenzar:**
+>
+> - Cualquier billetera Web3 (MetaMask, WalletConnect, etc.)
+> - ~$100 mínimo para comenzar
+> - < 5 minutos de configuración
+
+**Requisitos para Comenzar:**
+
+- Cualquier billetera Web3 (MetaMask, WalletConnect, etc.)
+- Mínimo $100 para comenzar
+- Tiempo de configuración de 5 minutos
+
+## Comparación de Productos
+
+| Característica                  | Zap Pilot               | vfat               | Superform             | Yo Protocol               | DeFi Manual             |
+| ------------------------------- | ----------------------- | ------------------ | --------------------- | ------------------------- | ----------------------- |
+| **Operaciones Multiplataforma** | ✅                      | ❌                 | ✅                    | ✅                        | ❌                      |
+| **Tipo de Custodia**            | ✅ Billetera de usuario | ⚠️ Acceso aprobado | ⚠️ Custodia de bóveda | ⚠️ Custodia de estrategia | ✅ Billetera de usuario |
+| **Basado en Intención**         | ✅                      | ❌                 | ❌                    | ❌                        | ❌                      |
+| **Rebalanceo Automático**       | ❌                      | ✅                 | ❌                    | ✅                        | ❌                      |
+
+## Casos de Uso del Mundo Real
+
+**🧑‍💼 Para el Profesional Ocupado**  
+"Tengo $50K distribuidos en 5 cadenas. Cada semana, simplemente quiero mover mis fondos a los pozos
+de stablecoins de mayor rendimiento."  
+→ Zap Pilot se encarga de transferir, intercambiar y aprovisionar — con un solo clic.
+
+**📊 Para el Inversor de Índices**  
+"Quiero una versión criptográfica del S&P 500. Rebalancearlo mensualmente según la capitalización de
+mercado."  
+→ Zap Pilot le permite crear y mantener portafolios personalizados — rebalanceados manual o
+automáticamente.
+
+---
+
+## ¿Listo para Experimentar el Piloto Automático de DeFi?
+
+**Inicio Rápido:** Conectar billetera → Establecer estrategia → Implementar en minutos
+
+👉 **[Comenzar →](./getting-started)** | 📊 **[Ver Estrategias →](./strategies)** | 📋
+**[Pitch Deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)**

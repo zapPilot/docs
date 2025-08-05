@@ -4,119 +4,125 @@ sidebar_position: 1
 
 # Qu'est-ce que Zap Pilot ?
 
-**Votre DeFi, en pilote automatique** ✈️
+**Nous sommes un pilote automatique de portefeuille en chaîne** ✈️
 
-Nous sommes un pilote automatique de portefeuille en chaîne.
+## Le Problème de la Gestion Traditionnelle de DeFi
 
-Pour les utilisateurs DeFi occupés, Zap Pilot réduit le rééquilibrage de portefeuille de 30 minutes
-à 30 secondes, déplaçant vos cryptomonnaies entre les chaînes vers des pools à plus haut rendement
-en un clic tandis que chaque token reste dans votre propre portefeuille.
+- **30+ minutes** pour rééquilibrer manuellement les positions
+- **Multiples interfaces** pour les ponts, les échanges et les protocoles
+- **Frais de gaz élevés** issus de plusieurs transactions
+- **Surveillance constante** requise pour des rendements optimaux
+- **Barrières techniques** qui limitent l'accessibilité
 
-[pitch deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)
+## La Solution Zap Pilot
 
-## 🎯 Le problème que nous résolvons
+**Approche traditionnelle :**
 
-L'investissement DeFi traditionnel est **compliqué** :
+1. Vérifier les rendements dans les protocoles → 2. Désengager les actifs → 3. Transférer des tokens
+   →
+2. Échanger vers de nouvelles allocations → 5. Réengager → 6. Répéter chaque semaine ou mois
 
-- Plusieurs portefeuilles sur différentes chaînes
-- Séquences de transactions complexes
-- Frais de gaz élevés et transactions échouées
-- Surveillance et rééquilibrage constants du portefeuille
-- Barrières de connaissances techniques
+**Avec Zap Pilot :**
 
-## ✨ La solution Zap Pilot
-
-Nous transformons les opérations DeFi complexes en **intentions simples** :
-
-```
-"Je veux investir 1 000 $ dans un portefeuille de crypto-monnaies équilibré avec un risque moyen"
-```
-
-C'est tout. Notre moteur s'occupe de :
-
-- ✅ Allocation d'actifs inter-chaînes
-- ✅ Routage et exécution optimaux
-- ✅ Rééquilibrage continu
-- ✅ Gestion des risques
-- ✅ Optimisation du rendement
-
-## 🔐 Construit sur la confiance
-
-### Non-custodial par conception
-
-- **Vos clés, vos cryptos** - les fonds ne quittent jamais votre portefeuille
-- **Réduction du risque de plateforme** - En tant que moteur d'exécution d'intentions, Zap Pilot n'a
-  pas ses propres contrats intelligents pour que vous y déposiez. Vous interagissez directement avec
-  des protocoles tiers audités.
-- **Transparence totale** - toutes les opérations sont en chaîne et auditables
-
-### La sécurité avant tout
-
-- Contrats intelligents audités par des sociétés de sécurité de premier plan
-- Couverture d'assurance via les protocoles DeFi
-- Infrastructure éprouvée au combat
-- Open source et vérifié par la communauté
-
-## 🌐 Véritable DeFi inter-chaînes
-
-Contrairement à d'autres plateformes qui nécessitent des ponts ou plusieurs transactions, Zap Pilot
-fonctionne nativement sur une variété de réseaux, y compris les principales couches 2, Ethereum et
-Solana.
-
-## 🎭 Pour tous
-
-### 🔰 **Débutants en DeFi**
-
-Commencez par des stratégies simples et guidées. Il n'est pas nécessaire de comprendre la complexité
-sous-jacente.
-
-### 📈 **Investisseurs expérimentés**
-
-Créez des stratégies personnalisées avec un contrôle granulaire sur le risque, l'allocation et le
-rééquilibrage.
-
-### 🏛️ **Institutions**
-
-Infrastructure de niveau entreprise avec des analyses et des rapports avancés.
-
-## 🚀 Stratégies d'investissement
-
-Choisissez parmi nos stratégies sélectionnées ou construisez la vôtre :
-
-- **🏦 Coffres de Stablecoin** - Faible risque, rendements stables (15-25% APY)
-- **📊 Fonds indiciels** - Exposition diversifiée aux crypto-monnaies (5-15% APY)
-- **₿ Actif unique** - Stratégies axées sur Bitcoin ou Ethereum
-- **⚙️ Stratégies personnalisées** - Construisez exactement ce que vous voulez (prochainement)
-
-## 💡 Pourquoi basé sur l'intention ?
-
-La DeFi traditionnelle vous oblige à savoir **comment** faire quelque chose. La DeFi basée sur
-l'intention vous permet de vous concentrer sur **ce que** vous voulez accomplir.
-
-**Manière traditionnelle :**
-
-1. Pontage des actifs vers la chaîne cible
-2. Échange contre les jetons requis
-3. Ajout de liquidité aux pools
-4. Staking des jetons LP
-5. Surveillance et rééquilibrage
-6. Réclamation et composition des récompenses
-7. Répétition sur plusieurs protocoles...
-
-**Manière Zap Pilot :**
-
-1. "Je veux faire du yield farming à risque moyen"
-2. ✨ C'est fait ✨
-
-## 🎯 Notre mission
-
-**Démocratiser l'accès aux stratégies DeFi sophistiquées** tout en maintenant les principes
-fondamentaux de décentralisation, de transparence et de contrôle de l'utilisateur. Nous pensons que
-tout le monde devrait avoir accès aux mêmes outils financiers avancés que les institutions, sans la
-complexité ni les risques de garde.
+Nous réduisons le rééquilibrage de portefeuille de **30 minutes à 30 secondes**, déplaçant vos
+cryptomonnaies entre les chaînes vers des pools à plus haut rendement — en un seul clic — tandis que
+chaque token reste dans **votre propre portefeuille**.
 
 ---
 
-Prêt à découvrir l'avenir de l'investissement DeFi ?
+## Pourquoi Choisir Zap Pilot ?
 
-👉 **[Commencer →](./getting-started)**
+### 🔁 **Rééquilibrage Centré sur l'Intention**
+
+Dites-nous ce que vous voulez — nous gérons l'ensemble du flux de travail. Vendre les gagnants,
+acheter les retardataires, basculer vers des pools à plus haut rendement, le tout en un seul clic.
+
+- Stratégies de rééquilibrage prédéfinies
+- Allocation personnalisée prise en charge (ex. 70/20/10)
+- Rééquilibrage programmé optionnel
+
+### 🔒 **Non-Dépositaire par Conception**
+
+**Vos clés, vos pièces.** Zap Pilot ne détient pas de fonds. Chaque rééquilibrage est exécuté
+directement depuis votre portefeuille Smart EOA.
+
+- Aucun risque de dépôt de protocole
+- 100% de transparence sur la chaîne
+- Conserver la pleine propriété
+
+### 🌉 **Multiplateforme par Défaut**
+
+Zap Pilot gère toutes les opérations multiplateforme en coulisses — sans ponts, sans échanges
+manuels.
+
+- Échanger entre les protocoles
+- Transférer entre les chaînes
+- Engager automatiquement dans de nouveaux pools
+
+### 📈 **Suite de Stratégies Rééquilibrables**
+
+Choisissez une stratégie, rééquilibrez à tout moment :
+
+- **Coffres de Stablecoins** - Rotation de rendement à faible risque
+- **Coffres BTC/ETH** - Allocation à long terme
+- **Index500** - Indice cryptographique diversifié à la S&P
+- **Portefeuilles Mème** - Suivi de sentiment à haut risque
+- **Portefeuilles Personnalisés** - Vous choisissez la répartition
+
+---
+
+## Réseaux Pris en Charge
+
+Zap Pilot fonctionne parfaitement sur **3+ blockchains** — y compris Optimism, Arbitrum et Base.
+
+---
+
+## Comment Cela Fonctionne
+
+1. **Connectez Votre Portefeuille** (2 minutes)
+2. **Définissez Votre Intention** — "Rééquilibrer en 50% stables, 50% ETH"
+3. **Exécution en Un Clic** — Nous routons, échangeons et engageons pour vous
+4. **Surveillez & Rééquilibrez** — Ajustez à nouveau à tout moment, ou mettez en pilote automatique
+
+> **Prérequis pour Commencer :**
+>
+> - N'importe quel portefeuille Web3 (MetaMask, WalletConnect, etc.)
+> - ~$100 minimum pour commencer
+> - < 5 minutes de configuration
+
+**Prérequis pour Commencer :**
+
+- N'importe quel portefeuille Web3 (MetaMask, WalletConnect, etc.)
+- Minimum $100 pour commencer
+- Temps de configuration de 5 minutes
+
+## Comparaison de Produits
+
+| Caractéristique                | Zap Pilot                   | vfat              | Superform          | Yo Protocol           | DeFi Manuel                 |
+| ------------------------------ | --------------------------- | ----------------- | ------------------ | --------------------- | --------------------------- |
+| **Opérations Multiplateforme** | ✅                          | ❌                | ✅                 | ✅                    | ❌                          |
+| **Type de Dépôt**              | ✅ Portefeuille utilisateur | ⚠️ Accès approuvé | ⚠️ Dépôt de coffre | ⚠️ Dépôt de stratégie | ✅ Portefeuille utilisateur |
+| **Basé sur l'Intention**       | ✅                          | ❌                | ❌                 | ❌                    | ❌                          |
+| **Rééquilibrage Automatique**  | ❌                          | ✅                | ❌                 | ✅                    | ❌                          |
+
+## Cas d'Utilisation Réels
+
+**🧑‍💼 Pour le Professionnel Occupé**  
+"J'ai 50 000$ répartis sur 5 chaînes. Chaque semaine, je veux simplement déplacer mes fonds vers les
+pools de stablecoins à plus haut rendement."  
+→ Zap Pilot se charge du transfert, de l'échange et de l'engagement — en un seul clic.
+
+**📊 Pour l'Investisseur d'Indices**  
+"Je veux une version cryptographique du S&P 500. Le rééquilibrer mensuellement selon la
+capitalisation boursière."  
+→ Zap Pilot vous permet de créer et de maintenir des portefeuilles personnalisés — rééquilibrés
+manuellement ou automatiquement.
+
+---
+
+## Prêt à Expérimenter le Pilote Automatique de DeFi ?
+
+**Démarrage Rapide :** Connecter portefeuille → Définir stratégie → Déployer en minutes
+
+👉 **[Commencer →](./getting-started)** | 📊 **[Voir Stratégies →](./strategies)** | 📋
+**[Pitch Deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)**

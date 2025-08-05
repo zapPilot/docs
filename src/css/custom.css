@@ -305,6 +305,27 @@ code {
   z-index: 1002 !important;
 }
 
+/* Language dropdown single-click fix */
+.navbar__item.dropdown--hoverable {
+  position: relative;
+}
+
+.navbar__item.dropdown--hoverable .dropdown__menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 200px;
+}
+
+.navbar__item.dropdown--hoverable.dropdown--show .dropdown__menu {
+  display: block !important;
+}
+
+.navbar__item.dropdown--hoverable .navbar__link {
+  cursor: pointer;
+}
+
 .dropdown__link {
   color: #cbd5e1 !important;
   padding: 8px 12px !important;
