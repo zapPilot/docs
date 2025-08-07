@@ -115,8 +115,7 @@ de stablecoins de mayor rendimiento."
 **📊 Para el Inversor de Índices**  
 "Quiero una versión criptográfica del S&P 500. Rebalancearlo mensualmente según la capitalización de
 mercado."  
-→ Zap Pilot le permite crear y mantener portafolios personalizados — rebalanceados manual o
-automáticamente.
+→ Zap Pilot le permite crear y mantener portafolios personalizados — rebalanceados manualmente.
 
 ---
 

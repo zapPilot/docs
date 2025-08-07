@@ -111,7 +111,7 @@ stablecoin pools."
 
 **📊 For the Index Investor**  
 "I want a crypto version of the S&P 500. Rebalance it monthly based on market cap."  
-→ Zap Pilot lets you create and maintain custom portfolios — rebalanced manually or automatically.
+→ Zap Pilot lets you create and maintain custom portfolios — rebalanced manually.
 
 ---
 

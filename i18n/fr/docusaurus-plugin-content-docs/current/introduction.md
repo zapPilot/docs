@@ -116,7 +116,7 @@ pools de stablecoins à plus haut rendement."
 "Je veux une version cryptographique du S&P 500. Le rééquilibrer mensuellement selon la
 capitalisation boursière."  
 → Zap Pilot vous permet de créer et de maintenir des portefeuilles personnalisés — rééquilibrés
-manuellement ou automatiquement.
+manuellement.
 
 ---
 
