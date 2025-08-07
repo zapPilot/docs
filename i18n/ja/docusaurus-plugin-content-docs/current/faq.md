@@ -4,281 +4,279 @@ sidebar_position: 2
 
 # ❓ よくある質問
 
-Zap Pilotについてのよくある質問にすばやく答えます。
+Zap Pilotに関する最も一般的な質問への簡単な回答を見つけてください。
 
 ---
 
 ## 🚀 はじめに
 
-### Zap Pilotを利用するために必要なものは?
+### Zap Pilotを使い始めるには何が必要ですか？
 
-以下が必要です：
+始めるには、以下が必要です：
 
 - Web3ウォレット（MetaMask、WalletConnectなど）
-- サポートされている暗号資産で最低100ドル
-- 初期設定に5-10分
+- 対応する暗号通貨で最低100ドル
+- 初回設定に5〜10分
 
-### What's the minimum investment amount?
+### 最低投資額はいくらですか？
 
-- **Stablecoin Vaults:** $50 minimum
-- **Index Funds:** $100 minimum
-- **Bitcoin/Ethereum Strategies:** $100 minimum
-- **Custom Strategies:** $200 minimum
+- **ステーブルコインボールト：** 最低50ドル
+- **インデックスファンド：** 最低100ドル
+- **ビットコイン/イーサリアム戦略：** 最低100ドル
+- **カスタム戦略：** 最低200ドル
 
-### Which crypto wallets are supported?
+### どの暗号ウォレットがサポートされていますか？
 
-We support all major Web3 wallets including:
+以下を含むすべての主要なWeb3ウォレットをサポートしています：
 
-- **Browser Extensions:** MetaMask, Coinbase Wallet, Rainbow, Brave Wallet
-- **Mobile Wallets:** Any wallet that supports WalletConnect
-- **Hardware Wallets:** Ledger and Trezor (via MetaMask or WalletConnect)
+- **ブラウザ拡張機能：** MetaMask、Coinbase Wallet、Rainbow、Brave Wallet
+- **モバイルウォレット：** WalletConnectをサポートするすべてのウォレット
+- **ハードウェアウォレット：** LedgerおよびTrezor（MetaMaskまたはWalletConnect経由）
 
-### What cryptocurrencies can I deposit?
+### どの暗号通貨を預け入れることができますか？
 
-You can start with:
+以下で始めることができます：
 
-- **Stablecoins:** USDC, USDT
-- **Major Crypto:** ETH
-- **On any supported network:** We support leading Layer 2s
-
----
-
-## 📊 Strategy & Investment
-
-### How do I choose the right strategy for me?
-
-Consider these factors:
-
-- **Risk Tolerance:** Stablecoin (low) → Index Funds (medium) → Bitcoin/Ethereum (higher)
-- **Investment Goals:** Stable returns vs growth vs maximum control
-- **Time Horizon:** When you might need access to your funds
-
-**Take our 2-minute risk assessment** in the Getting Started guide to find your perfect match.
-
-### What returns can I expect?
-
-Expected annual returns vary by strategy:
-
-- **Stablecoin Vaults:** 15-25% APY
-- **Index Funds:** 5-15% APY
-- **Bitcoin Strategies:** 3-10% APY
-- **Ethereum Strategies:** 5-10% APY
-
-_Returns are estimates based on historical data and market conditions._
-
-### How often should I rebalance?
-
-- **Quarterly rebalancing** is recommended for most strategies
-- We'll email you personalized recommendations every quarter
-- You can rebalance anytime with one click from your dashboard
-- More frequent rebalancing = higher optimization but more gas costs
-
-### Can I change strategies after investing?
-
-Yes! You can:
-
-- **Withdraw** from your current strategy anytime (no withdrawal fees)
-- **Switch** to a different strategy by reinvesting
-- **Diversify** across multiple strategies if desired
+- **ステーブルコイン：** USDC、USDT
+- **主要な暗号通貨：** ETH
+- **対応ネットワーク上：** 主要なレイヤー2をサポートしています
 
 ---
 
-## 🔒 Security & Safety
+## 📊 戦略と投資
 
-### Is my money safe with Zap Pilot?
+### 自分に合った戦略を選ぶにはどうすればよいですか？
 
-Yes, Zap Pilot is designed for maximum security:
+これらの要素を考慮してください：
 
-- **Non-custodial:** Your funds never leave your wallet
-- **No custody risk:** We can't access or freeze your funds
-- **Your keys, your coins:** You maintain full ownership
-- **Transparent:** All transactions are on-chain and verifiable
+- **リスク許容度：**
+  ステーブルコイン（低）→ インデックスファンド（中）→ ビットコイン/イーサリアム（高）
+- **投資目標：** 安定したリターン vs 成長 vs 最大限のコントロール
+- **時間軸：** 資金が必要になる可能性のある時期
 
-### What happens if Zap Pilot shuts down?
+**入門ガイドの2分間のリスク評価**を受けて、あなたにぴったりのものを見つけてください。
 
-Your funds remain completely safe because:
+### どのようなリターンが期待できますか？
 
-- **Funds stay in your wallet:** We never hold your assets
-- **Direct protocol access:** You can interact with DeFi protocols directly
-- **No lock-in period:** Withdraw anytime without permission
-- **Full transparency:** All contract addresses are public
+予想される年間リターンは戦略によって異なります：
 
-### How is Zap Pilot different from other DeFi platforms?
+- **ステーブルコインボールト：** 15-25% APY
+- **インデックスファンド：** 5-15% APY
+- **ビットコイン戦略：** 3-10% APY
+- **イーサリアム戦略：** 5-10% APY
 
-| Feature          | Zap Pilot           | Traditional Platforms    |
-| ---------------- | ------------------- | ------------------------ |
-| **Custody**      | ✅ Non-custodial    | ⚠️ Often custodial       |
-| **Access**       | ✅ Withdraw anytime | ❌ Lock-up periods       |
-| **Transparency** | ✅ Full on-chain    | ⚠️ Limited visibility    |
-| **Risk**         | ✅ No platform risk | ❌ Platform custody risk |
+_リターンは過去のデータと市場状況に基づく推定値です。_
 
-### What if a protocol in my strategy gets hacked?
+### どのくらいの頻度でリバランスすべきですか？
 
-We minimize this risk through:
+- ほとんどの戦略で**四半期ごとのリバランス**が推奨されます
+- 四半期ごとにパーソナライズされた推奨事項をメールでお送りします
+- ダッシュボードからワンクリックでいつでもリバランスできます
+- より頻繁なリバランス = より高い最適化ですが、より多くのガス代がかかります
 
-- **Diversification:** Funds spread across multiple protocols
-- **Curation:** Only audited, established protocols
-- **Monitoring:** Continuous security assessment
-- **Risk limits:** No overexposure to any single protocol
+### 投資後に戦略を変更できますか？
 
-If an incident occurs, you're only exposed to your allocation in that specific protocol, not your
-entire investment.
+はい！できます：
+
+- いつでも現在の戦略から**引き出す**（引き出し手数料なし）
+- 再投資して別の戦略に**切り替える**
+- 必要に応じて複数の戦略に**分散**する
 
 ---
 
-## 💰 Fees & Costs
+## 🔒 セキュリティと安全性
 
-### What fees do I pay?
+### Zap Pilotで私のお金は安全ですか？
 
-Zap Pilot has a simple, transparent fee structure:
+はい、Zap Pilotは最大限のセキュリティを確保するように設計されています：
 
-- **Entry Fee:** 1% one-time when you deposit
-- **Management Fee:** 0% (no ongoing fees)
-- **Performance Fee:** 0% (we don't take a cut of profits)
-- **Withdrawal Fee:** 0% (free to exit anytime)
+- **非管理型：** あなたの資金は決してあなたのウォレットを離れません
+- **管理リスクなし：** 私たちはあなたの資金にアクセスしたり凍結したりすることはできません
+- **あなたの鍵、あなたのコイン：** あなたは完全な所有権を維持します
+- **透明性：** すべての取引はオンチェーンで検証可能です
 
-### Are there any hidden costs?
+### Zap Pilotがシャットダウンした場合、どうなりますか？
 
-No hidden fees from Zap Pilot. You'll also pay:
+あなたの資金は完全に安全です。なぜなら：
 
-- **Gas fees:** Standard blockchain transaction costs
-- **Protocol fees:** Native fees from DeFi protocols (typically 0.1-0.3%)
+- **資金はあなたのウォレットに残ります：** 私たちはあなたの資産を保持しません
+- **直接的なプロトコルアクセス：** DeFiプロトコルと直接対話できます
+- **ロックイン期間なし：** 許可なくいつでも引き出せます
+- **完全な透明性：** すべての契約アドレスは公開されています
 
-We optimize gas costs through batching and timing to minimize your expenses.
+### Zap Pilotは他のDeFiプラットフォームとどう違いますか？
 
-### How do gas fees work?
+| 機能         | Zap Pilot                     | 従来のプラットフォーム        |
+| ------------ | ----------------------------- | ----------------------------- |
+| **管理**     | ✅ 非管理型                   | ⚠️ 多くの場合、管理型         |
+| **アクセス** | ✅ いつでも引き出し可能       | ❌ ロックアップ期間           |
+| **透明性**   | ✅ 完全なオンチェーン         | ⚠️ 限られた可視性             |
+| **リスク**   | ✅ プラットフォームリスクなし | ❌ プラットフォーム管理リスク |
 
-- **Shared costs:** We batch operations to reduce gas fees by 60-80%
-- **Optimal timing:** Execute during low gas periods
-- **Cross-chain optimization:** Use cheapest suitable networks
-- **Transparent tracking:** See exactly what you've paid in gas
+### 私の戦略のプロトコルがハッキングされた場合、どうなりますか？
 
-### When do I pay the 1% entry fee?
+私たちはこのリスクを最小限に抑えるために：
 
-- **One-time payment:** Only when you first deposit into a strategy
-- **No recurring fees:** Never pay again as long as funds remain invested
-- **Example:** $10,000 investment = $100 entry fee, then $0 forever
+- **分散化：** 資金を複数のプロトコルに分散
+- **キュレーション：** 監査済みで確立されたプロトコルのみ
+- **監視：** 継続的なセキュリティ評価
+- **リスク制限：** 単一のプロトコルへの過度のエクスポージャーなし
 
----
-
-## 🔧 Technical
-
-### How do I withdraw my funds?
-
-1. **Go to your dashboard** and select the strategy
-2. **Click "Withdraw"** and choose the amount
-3. **Confirm the transaction** in your wallet
-4. **Funds return to your wallet** (usually within 10 seconds)
-
-No fees, no waiting periods, no permissions needed.
-
-### Why is my transaction failing?
-
-Common causes and solutions:
-
-- **Insufficient gas:** Increase gas limit in your wallet
-- **Network congestion:** Wait and try again during low usage
-- **Slippage:** Increase slippage tolerance for volatile markets
-- **Wallet issues:** Refresh page and reconnect wallet
-
-### What networks does Zap Pilot support?
-
-Zap Pilot operates across multiple networks:
-
-- **Base** – High security and institutional-grade trust
-- **Arbitrum** – Low fees and a mature DeFi ecosystem
-- **Optimism** – A hub for innovation and emerging opportunities
-
-All strategies are multichain by design.  
-No matter which network you start from, your funds will be automatically bridged and allocated
-across chains.
-
-### How do I track my performance?
-
-Your dashboard shows:
-
-- **Real-time value:** Current USD value of your investment
-- **Total returns:** Profit/loss since you started
-- **APY tracking:** Annualized return rate
-- **Performance charts:** Value over time with benchmarks
-- **Allocation breakdown:** Where your money is working
+インシデントが発生した場合、投資全体ではなく、その特定のプロトコルへの割り当て分のみが影響を受けます。
 
 ---
 
-## 🆘 Troubleshooting
+## 💰 手数料と費用
 
-### I can't connect my wallet, what should I do?
+### どのような手数料を支払いますか？
 
-Try these steps:
+Zap Pilotにはシンプルで透明な手数料体系があります：
 
-1. **Refresh the page** and clear browser cache
-2. **Check network:** Ensure wallet is on correct network
-3. **Update wallet:** Make sure browser extension is updated
-4. **Try different browser:** Some wallets work better on specific browsers
-5. **Disable ad blockers:** They can interfere with wallet connections
+- **エントリー手数料：** 入金時に1回限りの1%
+- **管理手数料：** 0%（継続的な手数料なし）
+- **パフォーマンス手数料：** 0%（利益の分け前は取りません）
+- **引き出し手数料：** 0%（いつでも無料で終了可能）
 
-### My balance isn't showing, why?
+### 隠れた費用はありますか？
 
-This usually resolves automatically, but you can:
+Zap Pilotからの隠れた手数料はありません。また、以下を支払います：
 
-1. **Wait 5 minutes** for network synchronization
-2. **Verify correct network** in your wallet
-3. **Check transaction status** on blockchain explorer
-4. **Refresh dashboard** or reconnect wallet
+- **ガス代：** 標準的なブロックチェーン取引コスト
+- **プロトコル手数料：** DeFiプロトコルからのネイティブ手数料（通常0.1〜0.3%）
 
-### How do I contact support?
+バッチ処理とタイミングを最適化して、費用を最小限に抑えます。
 
-**Get help fast:**
+### ガス代はどのように機能しますか？
 
-- 💬 **Discord:** [Join our community server](https://discord.com/invite/sNsMmtsCCV)
-- 📱 **X/Twitter:** [Quick questions and updates](https://x.com/zapPilot)
+- **共有コスト：** 操作をバッチ処理してガス代を60〜80%削減
+- **最適なタイミング：** ガス代が安い時間帯に実行
+- **クロスチェーン最適化：** 最も安価で適切なネットワークを使用
+- **透明な追跡：** ガス代で支払った額を正確に確認できます
 
-**For urgent issues:**
+### 1%のエントリー手数料はいつ支払いますか？
 
-- 🚨 **Priority Support:** Available for investments over $10k
-- 📞 **Emergency Contact:** Available during business hours
-
----
-
-## 🎯 Advanced Topics
-
-### What is the Kelly Criterion?
-
-The Kelly Criterion is a mathematical formula we use to optimize fund allocation:
-
-- **Balances risk and return:** Higher allocation to lower-risk, higher-reward opportunities
-- **Maximizes long-term growth:** Prevents overexposure to any single protocol
-- **Dynamically adjusts:** Recalculated quarterly based on market conditions
-
-**Learn more:** [Kelly Criterion Explained](./strategies/kelly-criterion)
-
-### How does cross-chain operation work?
-
-Our cross-chain system:
-
-- **Automatic routing:** Finds best opportunities across all supported networks
-- **Bridge integration:** Uses Across Protocol for secure, fast transfers
-- **Cost optimization:** Minimizes bridge fees and gas costs
-- **Unified experience:** Appears as single portfolio despite multi-chain deployment
-
-**Learn more:** [How It Works](./how-it-works)
-
-### What is a Smart EOA wallet?
-
-Your wallet gets enhanced with smart contract capabilities through EIP-7702:
-
-- **Same wallet:** Keep using your existing MetaMask or other wallet
-- **Enhanced features:** Better transaction batching and optimization
-- **Automatic upgrades:** We handle the technical improvements
-- **No setup required:** Works seamlessly with your current wallet
-
-**Learn more:** [How It Works](./how-it-works)
+- **1回限りの支払い：** 戦略に初めて入金するときのみ
+- **継続的な手数料なし：** 資金が投資されている限り、二度と支払うことはありません
+- **例：** 10,000ドルの投資 = 100ドルのエントリー手数料、その後は永久に0ドル
 
 ---
 
-## 🤔 Still Have Questions?
+## 🔧 技術的なこと
 
-Can't find what you're looking for? We're here to help!
+### 資金を引き出すにはどうすればよいですか？
 
-💬 **[Join Discord](https://discord.com/invite/sNsMmtsCCV)** | 📖
-**[Read Full Documentation](./introduction)**
+1. **ダッシュボード**に移動し、戦略を選択します
+2. **「引き出し」**をクリックし、金額を選択します
+3. ウォレットで**取引を確認**します
+4. **資金がウォレットに戻ります**（通常10秒以内）
+
+手数料、待機期間、許可は必要ありません。
+
+### 取引が失敗するのはなぜですか？
+
+一般的な原因と解決策：
+
+- **ガス不足：** ウォレットでガスリミットを増やす
+- **ネットワークの混雑：** 使用率が低い時間帯に待って再試行
+- **スリッページ：** 変動の激しい市場ではスリッページ許容度を上げる
+- **ウォレットの問題：** ページを更新してウォレットを再接続
+
+### Zap Pilotはどのネットワークをサポートしていますか？
+
+Zap Pilotは複数のネットワークで動作します：
+
+- **Base** – 高いセキュリティと機関投資家レベルの信頼
+- **Arbitrum** – 低い手数料と成熟したDeFiエコシステム
+- **Optimism** – イノベーションと新たな機会のハブ
+
+すべての戦略はマルチチェーン設計です。どのネットワークから始めても、資金は自動的にブリッジされ、チェーン間で割り当てられます。
+
+### パフォーマンスを追跡するにはどうすればよいですか？
+
+ダッシュボードには以下が表示されます：
+
+- **リアルタイムの価値：** 投資の現在の米ドル価値
+- **総リターン：** 開始以来の利益/損失
+- **APY追跡：** 年率換算リターン率
+- **パフォーマンスチャート：** ベンチマーク付きの経時的な価値
+- **割り当ての内訳：** あなたのお金がどこで働いているか
+
+---
+
+## 🆘 トラブルシューティング
+
+### ウォレットを接続できません。どうすればよいですか？
+
+これらの手順を試してください：
+
+1. **ページを更新**し、ブラウザのキャッシュをクリア
+2. **ネットワークを確認：** ウォレットが正しいネットワーク上にあることを確認
+3. **ウォレットを更新：** ブラウザ拡張機能が更新されていることを確認
+4. **別のブラウザを試す：** 一部のウォレットは特定のブラウザでよりうまく機能します
+5. **広告ブロッカーを無効にする：** ウォレット接続を妨害する可能性があります
+
+### 残高が表示されません。なぜですか？
+
+これは通常自動的に解決されますが、次のことができます：
+
+1. ネットワーク同期のために**5分待つ**
+2. ウォレットで**正しいネットワークを確認**
+3. ブロックチェーンエクスプローラーで**取引状況を確認**
+4. **ダッシュボードを更新**またはウォレットを再接続
+
+### サポートに連絡するにはどうすればよいですか？
+
+**迅速なサポートを受ける：**
+
+- 💬 **Discord：** [コミュニティサーバーに参加](https://discord.com/invite/sNsMmtsCCV)
+- 📱 **X/Twitter：** [簡単な質問と更新](https://x.com/zapPilot)
+
+**緊急の問題の場合：**
+
+- 🚨 **優先サポート：** 1万ドル以上の投資で利用可能
+- 📞 **緊急連絡先：** 営業時間中に利用可能
+
+---
+
+## 🎯 高度なトピック
+
+### ケリー基準とは何ですか？
+
+ケリー基準は、資金配分を最適化するために使用する数式です：
+
+- **リスクとリターンのバランス：** リスクが低く、リワードが高い機会への割り当てを増やす
+- **長期的な成長を最大化：** 単一のプロトコルへの過度のエクスポージャーを防ぐ
+- **動的に調整：** 市場状況に基づいて四半期ごとに再計算
+
+**詳細：** [ケリー基準の説明](./strategies/kelly-criterion)
+
+### クロスチェーン操作はどのように機能しますか？
+
+私たちのクロスチェーンシステム：
+
+- **自動ルーティング：** すべての対応ネットワークで最高の機会を見つける
+- **ブリッジ統合：** 安全で高速な転送のためにAcross Protocolを使用
+- **コスト最適化：** ブリッジ手数料とガス代を最小限に抑える
+- **統一されたエクスペリエンス：** マルチチェーン展開にもかかわらず、単一のポートフォリオとして表示
+
+**詳細：** [仕組み](./how-it-works)
+
+### スマートEOAウォレットとは何ですか？
+
+EIP-7702を介して、ウォレットにスマートコントラクト機能が強化されます：
+
+- **同じウォレット：** 既存のMetaMaskや他のウォレットを使い続ける
+- **強化された機能：** より良いトランザクションバッチ処理と最適化
+- **自動アップグレード：** 技術的な改善は私たちが処理します
+- **設定不要：** 現在のウォレットとシームレスに連携
+
+**詳細：** [仕組み](./how-it-works)
+
+---
+
+## 🤔 まだ質問がありますか？
+
+お探しのものが見つかりませんか？お手伝いします！
+
+💬 **[Discordに参加](https://discord.com/invite/sNsMmtsCCV)** | 📖
+**[完全なドキュメントを読む](./introduction)**
