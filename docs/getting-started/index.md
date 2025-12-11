@@ -4,54 +4,44 @@ sidebar_position: 1
 
 # Getting Started with Zap Pilot
 
-**From zero to DeFi investing in under 10 minutes** 🚀
+**Automate your portfolio based on market sentiment.** 🚀
 
-## 🎯 Risk Assessment: Find Your Perfect Strategy
+## 🎯 Is Zap Pilot Right for You?
 
-Before diving into your investment journey, let's understand your financial goals and risk
-tolerance.
+Zap Pilot is designed for investors who want **exposure to Crypto (BTC/ETH)** but want to **minimize
+risk** during market euphoria.
 
-### Question 1: What's your primary investment goal?
+### You should use Zap Pilot if:
 
-- 🏦 Earn stable returns similar to high-yield savings → **Stablecoin Vaults**
-- 📈 Grow wealth through crypto market exposure → **Index Funds**
-- ₿ Focus on Bitcoin with enhanced returns → **Bitcoin Strategies**
-- Ξ Participate in Ethereum ecosystem → **Ethereum Strategies**
-- ⚙️ Maximum control and customization → **Custom Strategies**
+- ✅ You believe in the long-term growth of Bitcoin and Ethereum.
+- ✅ You struggle with **knowing when to take profits**.
+- ✅ You want a **disciplined, data-driven approach** to investing.
+- ✅ You want to keep full custody of your funds.
 
-### Question 2: How much volatility can you handle?
+### This is NOT for you if:
 
-- 😌 Minimal (prefer stable value) → **Stablecoin Vaults**
-- 🙂 Moderate (okay with some ups and downs) → **Index Funds**
-- 😎 Significant (willing to ride the waves) → **Bitcoin/Ethereum**
-- 🤠 Maximum (bring on the excitement) → **Custom Strategies**
+- ❌ You want to "ape" into meme coins (High Risk).
+- ❌ You want a guaranteed fixed yield (try a savings account).
+- ❌ You want to day-trade manually.
 
-### Question 3: When might you need access to your funds?
-
-- 🏃 Anytime without notice → **Stablecoin Vaults**
-- 📅 Within a few months → **Index Funds**
-- 🗓️ 1+ years from now → **Bitcoin/Ethereum**
-- ⏰ Flexible based on performance → **Custom Strategies**
-
-### Strategy Quick Reference
-
-| Strategy       | Risk     | Expected APY | Best For                    |
-| -------------- | -------- | ------------ | --------------------------- |
-| 🏦 Stablecoin  | Low      | 15-25%       | First-time DeFi users       |
-| 📈 Index Funds | Medium   | 5-15%        | Diversified crypto exposure |
-| ₿ Bitcoin      | Med-High | 3-10%        | Bitcoin believers           |
-| Ξ Ethereum     | Med-High | 5-10%        | ETH ecosystem fans          |
-| ⚙️ Custom      | Variable | Variable     | Advanced users              |
+---
 
 ## ⚡ Quick Start Checklist
 
 Before you begin, make sure you have:
 
 - [ ] **Cryptocurrency wallet** (MetaMask, WalletConnect, etc.)
-- [ ] **Some crypto funds** ($50+ recommended to start)
-- [ ] **5-10 minutes** to complete setup
-- [ ] **Basic understanding** of your risk tolerance
+- [ ] **Minimum $100** in ETH or Stablecoins (USDC/USDT)
+- [ ] **5 minutes** to complete setup
 
-## 🔗 Step 2: Connect Your Wallet
+---
 
-[Rest of the document remains the same as before, with minor editorial refinements]
+## 🚀 Steps to Launch
+
+1.  **Connect Wallet**: We support all major Web3 wallets.
+2.  **Deposit Funds**: Smart contracts route your funds into the optimal allocation for the
+    **current market regime**.
+3.  **Stay Tuned**: We notify you when the market sentiment shifts (e.g., from Fear to Neutral),
+    prompting a rebalance.
+
+👉 **[Set Up Your Wallet →](./wallet-setup)**

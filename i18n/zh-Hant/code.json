@@ -99,7 +99,7 @@
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "最新的文件請參閱 {latestVersionLink} ({versionLabel})。",
+    "message": "最新的文件請參閲 {latestVersionLink} ({versionLabel})。",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
@@ -199,11 +199,11 @@
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
-    "message": "閱讀更多",
+    "message": "閲讀更多",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "閱讀 {title} 全文",
+    "message": "閲讀 {title} 全文",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.CodeBlock.copy": {
@@ -219,7 +219,7 @@
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "閱讀時間約 {readingTime} 分鐘",
+    "message": "閲讀時間約 {readingTime} 分鐘",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.wordWrapToggle": {
@@ -299,7 +299,7 @@
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "此頁面未列出。搜索引擎不會對其索引，只有擁有直接連結的用戶才能訪問。",
+    "message": "此頁面未列出。搜索引擎不會對其索引，只有擁有直接連結的用户才能訪問。",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
@@ -315,7 +315,7 @@
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.common.skipToMainContent": {
-    "message": "跳至主要内容",
+    "message": "跳至主要內容",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.tags.tagsPageTitle": {
@@ -343,7 +343,7 @@
     "description": "The title for Cross-Chain & Gasless feature"
   },
   "homepage.features.crossChain.description": {
-    "message": "支援 20+ 區塊鏈網路，透過帳戶抽象化實現無手續費交易。跨多條鏈的無縫 DeFi 操作。",
+    "message": "支援 20+ 區塊鏈網路，透過帳户抽象化實現無手續費交易。跨多條鏈的無縫 DeFi 操作。",
     "description": "The description for Cross-Chain & Gasless feature"
   },
   "theme.SearchBar.noResultsText": {

@@ -20,6 +20,7 @@
     "quality:check": "npm run format:check && npm run lint && npm run typecheck",
     "quality:fix": "npm run format && npm run lint:fix",
     "translate:zh": "node scripts/translate-zh.js",
+    "translate:hant": "node scripts/translate-hans-to-hant.js",
     "prepare": "husky install",
     "pre-commit": "npm run translate:zh && lint-staged"
   },

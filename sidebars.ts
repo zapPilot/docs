@@ -20,11 +20,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Getting Started',
-      items: [
-        'getting-started/index',
-        'getting-started/wallet-setup',
-        'getting-started/first-investment',
-      ],
+      items: ['getting-started/index', 'getting-started/wallet-setup'],
     },
     {
       type: 'category',
@@ -33,7 +29,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Investment Strategies',
+      label: 'Strategies',
       items: ['strategies/index', 'strategies/kelly-criterion'],
     },
     {
@@ -42,16 +38,6 @@ const sidebars: SidebarsConfig = {
       items: ['security/index', 'security/incidents'],
     },
     'fees',
-    {
-      type: 'category',
-      label: 'Tokenomics',
-      items: ['tokenomics/tokenomics', 'tokenomics/compensation_plan'],
-    },
-    {
-      type: 'category',
-      label: 'About',
-      items: ['about', 'investment-potential', 'roadmap'],
-    },
   ],
 };
 

@@ -33,7 +33,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh-Hant', 'ja', 'zh-Hans', 'ko', 'es', 'fr'],
+    locales: ['en', 'zh-Hant', 'ja', 'zh-Hans'],
   },
 
   presets: [
@@ -120,7 +120,7 @@ const config: Config = {
               to: '/docs/introduction',
             },
             {
-              label: 'Investment Strategies',
+              label: 'Strategies',
               to: '/docs/strategies',
             },
           ],

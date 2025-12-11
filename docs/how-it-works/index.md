@@ -4,62 +4,48 @@ sidebar_position: 1
 
 # 🚀 How Zap Pilot Works
 
-## 🧠 Protocol Mechanism
+## 🧠 The Core Mechanism
 
-Zap Pilot is a **non-custodial, algorithmic portfolio autopilot** ✨  
-You stay in full control of your funds via your own **Smart EOA wallet** powered by EIP-7702.  
-We help you **optimize**, **rebalance**, and **route funds** with one click —  
-No custody. No lock-ins. Just strategic suggestions and execution.
+Zap Pilot is a **Sentiment-Driven Portfolio Autopilot**. We use the **Fear & Greed Index** to
+automatically determine how much of your portfolio should be in **Crypto (BTC/ETH)** vs.
+**Stablecoins**.
 
 ### Key Principles
 
-- **Full User Control**: Your wallet, your keys
-- **Advanced Allocation**: Mathematically optimized strategies
-- **Transparent Execution**: One-click optimization
+- **Buy Fear**: When the market is scared, we increase crypto allocation.
+- **Defend Greed**: When the market is euphoric, we take profits into stables.
+- **Non-Custodial**: You sign every move. We never hold your funds.
 
 ---
 
-## 1️⃣ User Deposit
+## 1️⃣ Connect & Deposit
 
-👜 You deposit directly from your **Smart EOA wallet** (powered by EIP-7702).  
-💡 Funds go into a **strategy vault** — a bundle of handpicked DeFi opportunities across chains.
-
-**See Also:** [Getting Started Guide](../getting-started)
+You connect your wallet (Metamask, etc.) and deposit funds. Instead of picking a random strategy,
+you are opting into our **Regime-Based Model**.
 
 ---
 
-## 2️⃣ Vault Strategy
+## 2️⃣ The Regimes
 
-Each vault represents a specific investment strategy, such as:
+Your funds are allocated based on the 5 Market Regimes:
 
-- 💵 **Stablecoin yield farming**
-- 🔗 **Liquid staking**
-- 🌉 **Cross-chain yield hunting**
+| Regime            | Indicator    | Strategy                    |
+| :---------------- | :----------- | :-------------------------- |
+| **Extreme Fear**  | 🔴 FGI < 25  | **70% Crypto** / 30% Stable |
+| **Fear**          | 🟠 FGI 25-45 | **60% Crypto** / 40% Stable |
+| **Neutral**       | 🟡 FGI 46-54 | **50% Crypto** / 50% Stable |
+| **Greed**         | 🟢 FGI 55-75 | **40% Crypto** / 60% Stable |
+| **Extreme Greed** | 🟩 FGI > 75  | **30% Crypto** / 70% Stable |
 
-Your funds are spread across pools inside the vault,  
-with **weights adjusted dynamically** based on performance and risk. 📊
-
-**Learn More:** [Investment Strategies Overview](../strategies)
+**Learn More:** [Detailed Strategy Guide](../strategies)
 
 ---
 
-## 3️⃣ 📐 Kelly Allocation Strategy
+## 3️⃣ 📐 Kelly Allocation
 
-### What is the Kelly Criterion?
-
-The Kelly Criterion is a mathematical formula used to determine the optimal size of a series of
-bets. In our context, it helps us allocate funds across different DeFi protocols to maximize
-long-term growth while managing risk.
-
-#### Simplified Formula:
-
-`allocation ∝ expected return / variance`
-
-🧮 Key Benefits:
-
-- 📈 Higher weights for low-volatility, high-reward pools
-- 🛡️ Reduced risk from overexposure to any single protocol
-- 🔄 Quarterly recalculation to reflect market changes
+To optimize which _specific_ protocols we use (e.g., Aave vs. Compound for stables, or Uniswap vs.
+Curve for LP), we use the **Kelly Criterion**. This ensures we maximize yield while minimizing smart
+contract risk.
 
 **Detailed Explanation:** [Kelly Criterion in Depth](../strategies/kelly-criterion)
 
@@ -67,42 +53,21 @@ long-term growth while managing risk.
 
 ## 4️⃣ ♻️ Rebalancing (User-Driven)
 
-Since your assets **never leave your wallet**,  
-we can't automatically rebalance — but we make it **super easy**:
+When the market regime shifts (e.g., Fear → Neutral), we generate a **Rebalance Proposal**.
 
-- 📬 **Quarterly**: Personalized rebalancing recommendations
-- 👆 **One-Click Rebalance**: Execute strategy updates from your wallet
-
-**Why User-Driven?** We prioritize your control and transparency.
-
----
-
-## 5️⃣ 🗺️ Asset Flow Overview
-
-```mermaid
-graph TD
-  A[🧍 User deposits via EIP-7702 wallet] --> B[📊 Vault applies Kelly Allocation]
-  B --> C[🌐 Funds spread to DeFi pools across chains]
-  C --> D[📬 Quarterly email: updated allocations]
-  D --> E[👆 User rebalances from frontend]
-```
+1.  **Notification**: You get an alert (Email/Calendar).
+2.  **Execution**: You click "Rebalance" on the Zap Pilot dashboard.
+3.  **Gradual Execution**: Logic splits the trade over 5-10 days to minimize slippage and timing
+    risk.
 
 ---
 
 ## 🔒 Security & Transparency
 
-- **Non-Custodial**: Your funds always remain in your wallet
-- **On-Chain Execution**: All transactions are transparent
-- **User-Controlled**: You approve every move
+- **Non-Custodial**: Your funds always remain in your wallet.
+- **On-Chain Execution**: All transactions are transparent.
+- **User-Controlled**: You approve every move.
 
 **Security Details:** [Security Incidents & Transparency](../security)
 
-Zap, rebalance, optimize — in under 30 seconds. Your crypto, your keys, our strategy.
-
-👉 **[Get Started →](https://app.zap-pilot.org/)**
-
-### Related Resources
-
-- [Getting Started Guide](../getting-started)
-- [Investment Strategies](../strategies)
-- [Kelly Criterion Explained](../strategies/kelly-criterion)
+👉 **[Get Started →](../getting-started)**
