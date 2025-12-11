@@ -76,7 +76,7 @@
     "*.{md,mdx}": [
       "prettier --write"
     ],
-    "*.{json,css}": [
+    "*.{css}": [
       "prettier --write"
     ],
     "i18n/zh-Hant/**/*": [
