@@ -61,8 +61,8 @@ _Powered by EIP-7702 standard - all handled automatically_
 
 ### Having connection issues?
 
-See our **[FAQ troubleshooting section](../faq#-troubleshooting)** or contact support.
+See our **[FAQ section](../faq)** or contact support.
 
 ---
 
-**Next:** Ready to connect? 👉 **[Make Your First Investment →](./first-investment)**
+**Next:** Ready to connect? 👉 **[Start Investing →](./index)**

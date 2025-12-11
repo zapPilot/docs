@@ -2,140 +2,95 @@
 sidebar_position: 2
 ---
 
-# 📊 Investment Strategies Overview
+# 📊 Strategies
 
-Zap Pilot helps users achieve stable, high-yield portfolios through intent-based execution,
-mathematical allocation, and full user custody.
+Zap Pilot uses a single, cohesive strategy that adapts to market conditions. We call this
+**Regime-Based Rebalancing**.
 
-## 🎯 Our Strategic Philosophy
-
-At the core of our approach are three key principles:
-
-- **Mathematically Optimized Allocation**
-- **Transparent User Control**
-- **Adaptive Risk Management**
+Instead of asking you to choose between "Conservative" or "Aggressive" vaults, we analyze the
+market's psychological state—the **Fear & Greed Index**—and adjust your exposure dynamically.
 
 ---
 
-## ⚖️ 1. Allocation Strategy: Kelly Criterion
+## 5 Market Regimes
 
-### What is the Kelly Criterion?
+We categorize the market into 5 distinct regimes. Your portfolio's allocation depends entirely on
+which regime the market is currently in.
 
-The Kelly Criterion is a sophisticated mathematical approach to portfolio allocation that balances
-potential returns against risk. It helps us determine the optimal amount to invest in each
-opportunity.
+## Momentum Matters: Bi-Directional Strategies
 
-**Full Explanation:** [Kelly Criterion Detailed Guide](./kelly-criterion)
+Crucially, **context matters**. The best move depends on where you _are_, but also where you _came
+from_. We call this **Bi-Directional Logic**.
 
-#### 📐 Simplified Formula:
+### 🔴 Extreme Fear (FGI < 25)
 
-```
-allocation ∝ expected return / variance
-```
+**"Maximum Accumulation"**
 
-#### ✅ Key Benefits:
+- **Scenario**: Market Crash.
+- **Action**: Aggressively buy BTC/ETH with stablecoins.
+- **Allocation**: **70% Crypto / 30% Stables**
 
-- 📈 Prioritizes low-volatility, high-reward opportunities
-- 🛡️ Minimizes risk of over-concentration
-- 🔄 Quarterly recalculation to adapt to market changes
+### 🟠 Fear (FGI 25-45)
 
----
+Here, our action depends on the trend:
 
-## 🔁 2. Rebalancing: User-Driven Optimization
+- **📉 Falling into Fear (from Neutral)**:
+  - **Strategy**: _Unwind LP for Spot_.
+  - **Why**: Volatility is rising. We remove Liquidity Pool risk (Impermanent Loss) and shift into
+    pure Spot BTC/ETH to catch the rebound.
+- **📈 Recovering into Fear (from Extreme Fear)**:
+  - **Strategy**: _Monitor Recovery_.
+  - **Why**: We just bought the bottom in "Extreme Fear". Now we hold. We don't sell yet; we let the
+    recovery ride.
 
-### Why User-Driven?
+### 🟡 Neutral (FGI 46-54)
 
-Since Zap Pilot is non-custodial, we empower you to control your investments while providing expert
-guidance.
+**"Holiday Mode"**
 
-#### Rebalancing Features:
+- **Action**: Do nothing.
+- **Allocation**: **50% Crypto / 50% Stables**
+- **Why**: The market is undecided. We sit on our hands to save fees.
 
-- 📬 **Quarterly Insights**:  
-  Personalized recommendations based on updated Kelly weights
+### 🟢 Greed (FGI 55-75)
 
-- 🖱️ **One-Click Rebalance**:  
-  Easy frontend tool to execute strategy updates from your wallet
+Again, direction is key:
 
-> **Principle**: Your funds, your control, our optimization strategy.
+- **📈 Rising into Greed (from Neutral)**:
+  - **Strategy**: _Lock Gains into LP_.
+  - **Why**: The bull run is heating up. We rotate some Spot Bitcoin into **Liquidity Pools** to
+    earn fees from the trading frenzy while locking in some paper profits.
+- **📉 Cooling into Greed (from Extreme Greed)**:
+  - **Strategy**: _Take a Rest_.
+  - **Why**: We already sold the top in "Extreme Greed". As the market dips back down, we don't buy
+    back in immediately. We wait for a deeper correction.
 
-**Related:** [How Our Rebalancing Works](../how-it-works#4️⃣-♻️-rebalancing-user-driven)
+### 🟩 Extreme Greed (FGI > 75)
 
----
+**"Maximum Defense"**
 
-## 🔐 3. Security & Non-Custodial Design
-
-### Our Commitment to Security
-
-Zap Pilot is **strictly non-custodial**. We coordinate, but never hold or directly access your
-funds.
-
-#### 🛡️ Security Principles:
-
-- ✅ Transactions signed & executed from **your AA wallet**
-- ✅ No smart contract custody
-- ✅ Full on-chain transparency
-
-> Your keys, your coins — always.
-
-**Learn More:** [Security Incidents & Transparency](../security)
+- **Scenario**: Market Euphoria / Top Signals.
+- **Action**: Sell heavily into Stablecoins.
+- **Allocation**: **30% Crypto / 70% Stables**
 
 ---
 
-## 🛠️ 4. Future: Customizable Vaults
+## ⚙️ How Rebalancing Works
 
-While our current Vaults are predefined, we're building toward **flexible, user-generated
-strategies**.
+1.  **Regime Change**: When the Fear & Greed Index moves from one regime to another (e.g., Fear →
+    Neutral), a rebalancing event is triggered.
+2.  **Notification**: You receive a notification (or a calendar invite) suggesting the new
+    allocation.
+3.  **Gradual Execution**:
+    - To prevent selling too early or buying too late, we don't execute all at once.
+    - We use a **damped execution model**, spreading trades over **5-10 days**.
+    - This "Smooth Rebalance" ensures you get a better average price and avoid whip-saws.
 
-### 🚧 Upcoming Features:
+## 🤝 Custody & Safety
 
-- 🧩 **User-Created Vaults**: Customize pool selection and weights
-- 🌐 **Strategy Marketplace**: Share and discover strategies
-- 🏆 **Vault Leaderboards**: Performance tracking and rewards
+Critically, **Zap Pilot never holds your funds**.
 
----
+- All rebalancing transactions are proposed by us but **signed by you**.
+- Funds move directly from your wallet to the DEX/Protocol and back.
+- We use open-source smart contracts and standard protocols (Uniswap, Aave, etc.).
 
-## 📊 Available Strategies
-
-### 🏦 Stablecoin Vaults
-
-- **Risk Level**: Low
-- **Expected APY**: 15-25%
-- **Best For**: First-time DeFi investors
-
-### 📈 Index Funds
-
-- **Risk Level**: Medium
-- **Expected APY**: 5-15%
-- **Best For**: Diversified crypto exposure
-
-### ₿ Bitcoin Strategies
-
-- **Risk Level**: Medium-High
-- **Expected APY**: 3-10%
-- **Best For**: Bitcoin enthusiasts
-
-### Ξ Ethereum Strategies
-
-- **Risk Level**: Medium-High
-- **Expected APY**: 5-10%
-- **Best For**: ETH ecosystem participants
-
-### ⚙️ Custom Strategies
-
-- **Risk Level**: Variable
-- **Expected APY**: Variable
-- **Best For**: Advanced users seeking maximum control
-
----
-
-## 🚀 Ready to Start?
-
-Choose the strategy that matches your investment style and risk tolerance.
-
-👉 **[Get Started →](../getting-started)** 👉 **[Explore Strategy Details →](./)**
-
-### Related Resources
-
-- [How Zap Pilot Works](../how-it-works)
-- [Getting Started Guide](../getting-started)
-- [Kelly Criterion Explained](./kelly-criterion)
+👉 **[Start Rebalancing Today](../getting-started)**

@@ -14,21 +14,20 @@ const FeatureList: FeatureItem[] = [
   {
     title: (
       <Translate
-        id='homepage.features.fastRebalancing.title'
-        description='The title for 30-Second Rebalancing feature'
+        id='homepage.features.sentiment.title'
+        description='The title for Sentiment-Driven Intelligence feature'
       >
-        30-Second Rebalancing
+        Sentiment-Driven Intelligence
       </Translate>
     ),
     Svg: require('@site/static/img/intent-execution.svg').default,
     description: (
       <Translate
-        id='homepage.features.fastRebalancing.description'
-        description='The description for 30-Second Rebalancing feature'
+        id='homepage.features.sentiment.description'
+        description='The description for Sentiment-Driven Intelligence feature'
       >
-        Cut portfolio rebalancing from 30 minutes to 30 seconds. Our autopilot
-        instantly moves your crypto across chains into higher-yield pools with
-        one click.
+        Monitors the Fear & Greed Index 24/7 and only suggests rebalancing when
+        market emotions reach extremes — helping you buy fear and sell greed.
       </Translate>
     ),
   },
@@ -36,41 +35,40 @@ const FeatureList: FeatureItem[] = [
     title: (
       <Translate
         id='homepage.features.selfCustody.title'
-        description='The title for 100% Self-Custody feature'
+        description='The title for Self-Custodial feature'
       >
-        100% Self-Custody
+        Self-Custodial. Always.
       </Translate>
     ),
     Svg: require('@site/static/img/multi-vault.svg').default,
     description: (
       <Translate
         id='homepage.features.selfCustody.description'
-        description='The description for 100% Self-Custody feature'
+        description='The description for Self-Custodial feature'
       >
-        Based on EIP-7702, every token stays in your own EOA wallet. No custody
-        risks, no protocol control - you maintain complete ownership while the
-        autopilot optimizes your yields.
+        Every token stays in your wallet. Zap Pilot generates optimized
+        rebalancing routes — you sign every transaction. No custody, no
+        compromise.
       </Translate>
     ),
   },
   {
     title: (
       <Translate
-        id='homepage.features.yieldOptimization.title'
-        description='The title for Cross-Chain Yield Optimization feature'
+        id='homepage.features.execution.title'
+        description='The title for Gradual Execution feature'
       >
-        Cross-Chain Yield Optimization
+        Gradual, Disciplined Execution
       </Translate>
     ),
     Svg: require('@site/static/img/cross-chain.svg').default,
     description: (
       <Translate
-        id='homepage.features.yieldOptimization.description'
-        description='The description for Cross-Chain Yield Optimization feature'
+        id='homepage.features.execution.description'
+        description='The description for Gradual Execution feature'
       >
-        Automatically discovers and moves your assets to the highest-yielding
-        opportunities across 4+ blockchain networks. Seamless cross-chain
-        operations with optimal yield capture.
+        Rebalancing adapts to market intensity. Calendar-guided execution
+        prevents panic selling and ensures disciplined DCA over 5-10 days.
       </Translate>
     ),
   },

@@ -2,122 +2,70 @@
 sidebar_position: 1
 ---
 
-# What is Zap Pilot?
+# ✈️ Welcome to Zap Pilot
 
-**We’re an on-chain portfolio autopilot** ✈️
+**Your Portfolio. Guided by Market Sentiment.**
 
-## The Problem with Traditional DeFi Management
-
-- **30+ minutes** to rebalance positions manually
-- **Multiple interfaces** for bridges, swaps, and protocols
-- **High gas fees** from multiple transactions
-- **Constant monitoring** required for optimal yields
-- **Technical barriers** that limit accessibility
-
-## The Zap Pilot Solution
-
-**Traditional approach:**
-
-1. Check yields across protocols → 2. Unstake assets → 3. Bridge tokens →
-2. Swap into new allocations → 5. Restake → 6. Repeat every week or month
-
-**With Zap Pilot:**
-
-We cut portfolio rebalancing from **30 minutes to 30 seconds**, moving your crypto across chains
-into higher-yield pools — in one click — while every token stays in **your own wallet**.
+Zap Pilot is a **sentiment-driven rebalancing engine** that helps you allocate smarter, avoid
+extremes, and grow your long-term BTC/ETH holdings with confidence.
 
 ---
 
-## Why Choose Zap Pilot?
+## 🌪 The Problem: Emotional Investing
 
-### 🔁 **Intent-Centric Rebalancing**
+Most crypto investors fail because of **human emotion**:
 
-Tell us what you want — we handle the entire workflow. Sell winners, buy laggards, shift to
-higher-yielding pools, all with a single click.
+- 😱 **Selling in Panic**: Fear drives you to sell at the bottom.
+- 🤑 **Buying in Greed**: FOMO drives you to buy at the top.
+- 📉 **Inaction**: You freeze when you should be rebalancing.
 
-- Predefined rebalancing strategies
-- Custom allocation supported (e.g., 70/20/10)
-- Optional scheduled rebalancing
+## 🎯 The Solution: Sentiment-Driven Rebalancing
 
-### 🔒 **Non-Custodial by Design**
+Zap Pilot automates the discipline of successful investors. We monitor the **Fear & Greed Index**
+24/7 and help you execute the right strategy for the current market regime.
 
-**Your keys, your coins.** Zap Pilot doesn’t hold funds. Every rebalance is executed directly from
-your EOA wallet.
+> "Buy in fear. Defend in greed."
 
-- No protocol custody risk
-- 100% on-chain transparency
-- Maintain full ownership
+### How It Works
 
-### 🌉 **Cross-Chain by Default**
-
-Zap Pilot handles all cross-chain operations behind the scenes — no bridges, no manual swaps.
-
-- Swap across protocols
-- Bridge across chains
-- Stake into new pools automatically
-
-### 📈 **Rebalancable Strategy Suite**
-
-Pick a strategy, rebalance anytime:
-
-- **Stablecoin Vaults** - Low-risk yield rotation
-- **BTC/ETH Vaults** - Long-term allocation
-- **Index500** - S&P-like diversified crypto index
-- **Meme Portfolios** - High-risk sentiment tracking
-- **Custom Portfolios** - You choose the split
+1.  **Monitor Sentiment**: We track market emotion using the Fear & Greed Index.
+2.  **Smart Allocation**: We suggest the mathematically optimal allocation (Crypto vs. Stablecoins)
+    for each regime.
+3.  **Gradual Execution**: You execute the rebalancing directly from your wallet, spread over 5-10
+    days to avoid bad timing.
 
 ---
 
-## Supported Networks
+## 🌍 The 5 Market Regimes
 
-Zap Pilot works seamlessly across **3+ blockchains** — including Optimism, Arbitrum, and Base.
+We divide the market into 5 distinct regimes. _Note: Our strategies are **bi-directional**—we react
+differently depending on whether the market is heating up or cooling down._
 
----
-
-## How It Works
-
-1. **Connect Your Wallet** (2 minutes)
-2. **Set Your Intent** — “Rebalance to 50% stables, 50% ETH”
-3. **One-Click Execution** — We route, swap, and stake for you
-4. **Monitor & Rebalance** — Adjust again anytime, or set it on autopilot
-
-> **Getting Started Requirements:**
->
-> - Any Web3 wallet (MetaMask, WalletConnect, etc.)
-> - ~$100 minimum to start
-> - < 5 minutes setup
-
-**Getting Started Requirements:**
-
-- Any Web3 wallet (MetaMask, WalletConnect, etc.)
-- Minimum $100 to start
-- 5 minutes setup time
-
-## Product Comparison
-
-| Feature              | Zap Pilot      | vfat               | Superform        | Yo Protocol         | Manual DeFi    |
-| -------------------- | -------------- | ------------------ | ---------------- | ------------------- | -------------- |
-| **Cross-chain Ops**  | ✅             | ❌                 | ✅               | ✅                  | ❌             |
-| **Custody Type**     | ✅ User wallet | ⚠️ Approved access | ⚠️ Vault custody | ⚠️ Strategy custody | ✅ User wallet |
-| **Intent-Based**     | ✅             | ❌                 | ❌               | ❌                  | ❌             |
-| **Auto Rebalancing** | ❌             | ✅                 | ❌               | ✅                  | ❌             |
-
-## Real-World Use Cases
-
-**🧑‍💼 For the Busy Professional**  
-"I have $50K spread across 5 chains. Every week, just move my funds into the highest-yield
-stablecoin pools."  
-→ Zap Pilot handles bridging, swapping, and staking — in one click.
-
-**📊 For the Index Investor**  
-"I want a crypto version of the S&P 500. Rebalance it monthly based on market cap."  
-→ Zap Pilot lets you create and maintain custom portfolios — rebalanced manually.
+| Regime            | Indicator    | Strategy                      |
+| :---------------- | :----------- | :---------------------------- |
+| **Extreme Fear**  | 🔴 FGI < 25  | **Maximum Accumulation**      |
+| **Fear**          | 🟠 FGI 25-45 | **Recovery** OR **Unwind LP** |
+| **Neutral**       | 🟡 FGI 46-54 | **Holiday Mode (Do Nothing)** |
+| **Greed**         | 🟢 FGI 55-75 | **Lock Gains** OR **Hold**    |
+| **Extreme Greed** | 🟩 FGI > 75  | **Maximum Profit Taking**     |
 
 ---
 
-## Ready to Experience DeFi Autopilot?
+## 🔒 Self-Custodial & Secure
 
-**Quick Start:** Connect wallet → Set strategy → Deploy in minutes
+**Your Keys, Your Crypto.**
 
-👉 **[Get Started →](./getting-started)** | 📊 **[View Strategies →](./strategies)** | 📋
-**[Pitch Deck](https://www.storydoc.com/4631eef1a29ef2f29cea41c1b0ffb2c0/3e32d664-4e36-4e02-851c-47fa166e2682/6885c327196aa808558298eb)**
+Zap Pilot is arguably safer than holding manually because it enforces discipline without taking
+custody.
+
+- **Non-Custodial**: We never hold your funds.
+- **On-Chain**: Every trade is executed by you, on-chain.
+- **Transparent**: Strategies are open and verifiable.
+
+---
+
+## 🚀 Ready to Start?
+
+Stop trading on emotion. Start trading on data.
+
+👉 **[Get Started Guide](./getting-started)** | 📊 **[View Strategies](./strategies)**
