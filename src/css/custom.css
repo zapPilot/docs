@@ -413,3 +413,8 @@ code {
 .markdown > h3 + * {
   margin-top: 0.5rem;
 }
+
+/* Tailwind Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
