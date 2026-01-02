@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # ✈️ Welcome to Zap Pilot
 
-**Your Portfolio. Guided by Market Sentiment.**
+**Be Greedy. When Others Are Fearful.**
 
 Zap Pilot is a **sentiment-driven rebalancing engine** that helps you allocate smarter, avoid
 extremes, and grow your long-term BTC/ETH holdings with confidence.

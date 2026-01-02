@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Zap Pilot',
-  tagline: 'Your Portfolio. Guided by Market Sentiment.',
+  tagline: 'Be Greedy. When Others Are Fearful.',
   favicon: 'img/logo.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
