@@ -6,11 +6,12 @@ sidebar_position: 1
 
 **Be Greedy. When Others Are Fearful.**
 
-Zap Pilot is a **sentiment-driven rebalancing engine** that helps you allocate smarter, avoid
-extremes, and grow your long-term BTC/ETH holdings with confidence.
+Zap Pilot helps you buy when the market is fearful and sell when it’s greedy — powered by a
+**sentiment-driven rebalancing engine** that adjusts exposure between BTC/ETH and stablecoins, fully
+self-custodial.
 
-:::tip Elevator Pitch Zap Pilot is a strategy that helps you buy when the market is fearful and sell
-when it’s greedy — always executed from your own wallet. :::
+> 💬 _In simpler terms: Zap Pilot is a strategy that helps you buy when the market is fearful and
+> sell when it's greedy — always executed from your own wallet._
 
 ---
 
